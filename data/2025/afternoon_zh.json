@@ -1,0 +1,262 @@
+{
+  "18": {
+    "slug": "learning-from-each-other",
+    "title_zh": "巴菲特和 Abel 互相学到了什么？",
+    "asker_zh": "Robert（加拿大多伦多，现场提问）",
+    "question_zh": "三年前你回答「希望被记住是什么」时说「他是个老师」。那么 Greg，你从 Warren 身上学到的最深刻的一件事是什么？",
+    "points": [
+      "巴菲特先开玩笑：「我现在最希望被人记住的是——活得够老。」",
+      "Abel 的回答与投资无关：希望被记住为「一个好父亲，同样也是一个教练」——他把这套角色用在家人、朋友和自己带的冰球、棒球队孩子身上。",
+      "巴菲特真正的「教学内核」随后才出现：**他看资产负债表的时间比看利润表多**，而且先看 8 到 10 年的资产负债表，再看利润表。",
+      "原因很直接：有些东西在资产负债表上更难隐藏或做手脚，「华尔街不太关注资产负债表」。",
+      "这是本场最具体的一条方法论输出，也呼应了他此前多次讲过的「先看家底，再看盈利」。"
+    ],
+    "quotes": [
+      ["I spend more time looking at balance sheets than I do income statements and Wall Street really doesn't pay much attention to balance sheets.", "我看资产负债表的时间比看利润表多，而华尔街其实不太关注资产负债表。"],
+      ["There are certain things that are harder to hide or play games with on the balance sheet than you can with the income statement.", "有些东西在资产负债表上比在利润表上更难隐藏、更难做手脚。"]
+    ],
+    "tags": ["方法论", "财务报表", "接班"]
+  },
+  "19": {
+    "slug": "abels-capital-allocation",
+    "title_zh": "Abel 会怎么配置资本？",
+    "asker_zh": "David Rubin（亚利桑那州 Scottsdale，邮件提问，Becky Quick 代读）",
+    "question_zh": "未来十年 Greg 要配置的资本将超过伯克希尔历史上任何一个时期。他对资本配置的看法如何？会延续「能力圈」那一套吗？",
+    "points": [
+      "Abel 的出发点是文化与价值观先行：伯克希尔的配置逻辑建立在「经理人自治 + 总部极少干预」的组织基础上，先守住这个前提，再谈机会。",
+      "他把最大机会指向**电力与能源基础设施**：满足长期电力需求所需的资本「极其庞大」，伯克希尔「处于有利位置」。",
+      "巴菲特接着把话题抬到国家层面：美国需要一次「电力系统的重新思考与再定向」，问题性质类似当年的州际公路系统——**50 个州各自为政做不成，必须借助联邦政府的力量**。",
+      "他也泼冷水：任何这类工程「在每个州都会有反对者」，如果当年州际公路要公投，早就被拖死了。",
+      "隐含结论：伯克希尔能出钱、能出力，但绕不开政治决策，而政治决策不在股东资金该承担的风险范围内。"
+    ],
+    "quotes": [
+      ["The capital required to meet the long-term needs of what's currently projected as demand is enormous and we as Berkshire we'll be in a good position to help address those needs.", "（Abel）要满足目前预测的长期电力需求，所需资本极其庞大，伯克希尔处于有利位置去帮助解决。"],
+      ["The muscle of the federal government will be needed.", "需要联邦政府的力量。"],
+      ["If they took a vote on the Interstate Highway system, it would have been slowed down to an incredible degree.", "如果当年州际公路系统要投票，它会被拖慢到难以想象的程度。"]
+    ],
+    "tags": ["资本配置", "电力", "基础设施"]
+  },
+  "20": {
+    "slug": "teenager-advice",
+    "title_zh": "14 岁的香港女孩问：想成为伯克希尔一员，最本质的要素是什么？",
+    "asker_zh": "Dorcus Tang（14 岁，中国香港，现场提问）",
+    "question_zh": "我 14 岁，父亲带我来过两届股东会，我答应每年都来。父亲持有 BRK.A，他说我必须努力工作才能挣到属于我的 BRK.B。对像我这样的全球青少年来说，想成为伯克希尔的一部分，最本质的要素是什么？",
+    "points": [
+      "巴菲特把问题交给 Abel：「谈到未来，你得问 Greg。」",
+      "Abel 认同她父亲的说法：**努力工作**是基础，而且「态度上愿意贡献」会让人走得很远，也会因此获得真正的乐趣。",
+      "巴菲特只补了两条，也是他一贯的答案：**保持大量好奇心**、**读很多书**（「就像查理会说的那样」）。",
+      "这段问答没有估值、没有宏观，是整场最「教育性」的片段之一。"
+    ],
+    "quotes": [
+      ["If you start with a great work ethic and have that attitude that you want to contribute, you're going to go a long ways in life.", "（Abel）如果你以良好的工作伦理起步，并且有「我想做出贡献」的态度，你的人生会走得很远。"],
+      ["Keep a lot of curiosity and read a lot, as Charlie would say.", "保持大量好奇心，多读书——就像查理会说的那样。"]
+    ],
+    "tags": ["年轻人", "教育", "价值观"]
+  },
+  "21": {
+    "slug": "wildfire-liability",
+    "title_zh": "怎么隔离野火赔偿责任？",
+    "asker_zh": "Matthew Tisak（犹他州 Layton，邮件提问，Becky Quick 代读）",
+    "question_zh": "请谈谈你们的策略：如何保护公司免受西部电力子公司被归责的野火赔偿？",
+    "points": [
+      "巴菲特先认错：2005 年买 PacifiCorp 时，他和 Walter Scott、David Sokol「三个骨子里是资本家的人，用自己的钱做决策」，却没有把公司按七个州拆开收购，而是整体承接了原有结构，**「那是个大错误」**。",
+      "Abel 讲操作层面：野火风险不会消失、而且大概率逐年上升，能做的不是消除而是**降低暴露**——设备加固、植被管理、断电预案（PSPS）等。",
+      "Becky 追问「断电导致医院停摆、有人死亡怎么办」，Abel 承认这是常态化的权衡，关键基础设施会逐案评估，并与客户群体保持反馈机制。",
+      "巴菲特的边界最清楚：**「有些问题无解，我们不该拿股东的钱去解我们不知道答案的问题」**；一旦涉及州或联邦层面的政策选择，那是政治决策，「如果你手里没有笔（没有决定权），该做的事就是退出」。",
+      "Abel 补充底线：公用事业**不能充当「最后保险人」**，为所有野火损失无条件兜底——这正是 2020 年俄勒冈野火诉讼的核心争点。"
+    ],
+    "quotes": [
+      ["There are some problems that can't be solved, and we shouldn't be in the business of taking your money, investors' money and tackling things that we don't know the solution for.", "有些问题是无解的，我们不该拿你们的钱、股东的钱，去处理我们不知道答案的问题。"],
+      ["If you're in something where you're going to lose, the big thing to do is quit.", "如果你身处一件注定要输的事情里，最重要的动作就是退出。"],
+      ["We can't just become the insurer of last resort.", "（Abel）我们不能就这样变成最后保险人。"]
+    ],
+    "tags": ["野火", "BHE", "诉讼", "风险边界"]
+  },
+  "22": {
+    "slug": "an-hour-of-your-time",
+    "title_zh": "愿意给一位年轻保险从业者一小时吗？",
+    "asker_zh": "Alitia Burek（波兰裔，现居芝加哥）代 Wid Ahmed 提问",
+    "question_zh": "74 年前的 1951 年 1 月，你坐 8 小时火车从纽约到华盛顿，只为去 GEICO  office 学保险，到了发现门是锁的，你还是坚持敲门。今天 Wid Ahmed 就在这里——在「时间老人」赢之前，你愿意给他一小时吗？",
+    "points": [
+      "巴菲特的回应不是答应，也不是拒绝，而是**把这个请求普遍化**：「要给这里 4 万人都给一小时的话，我余生会很有意思。」",
+      "他接着给出了当年「能见到 CEO」的真实原因：那时公司没有投资者关系部门，「几乎所有 CEO 都会见我，因为他们觉得不会再见到我」。",
+      "他的方法至今可用：**只问两个问题**——「你是怎么走到今天的？」以及「你怎么看竞争和你所处的行业？」他当场解释了为什么这两个问题足够。",
+      "落点是可复制性：不是靠人脉，而是靠「准备好问题 + 敢于直接上门」。"
+    ],
+    "quotes": [
+      ["To grant an hour to everybody of the 40,000 here — we'll have an interesting time the rest of my life.", "要给这里 4 万人每人都给一小时——我余生会很有意思。"],
+      ["Almost every CEO would see me because they figured they'd never see me again.", "几乎所有 CEO 都会见我，因为他们觉得以后再也不会见到我了。"]
+    ],
+    "tags": ["方法论", "提问", "传承"]
+  },
+  "23": {
+    "slug": "bhe-valuation-drop",
+    "title_zh": "BHE 两年跌了 44% 的估值？",
+    "asker_zh": "Ricardo Briz（巴拿马，长期股东，邮件提问，Becky Quick 代读）",
+    "question_zh": "2022 年末从 Greg Abel 手中买 1% BHE 花了 8.7 亿美元，隐含估值 870 亿美元；2024 年买剩余 8% 时，隐含估值已明显更低，两年间下跌约 44%。这是野火诉讼的结果，还是监管环境变化？",
+    "points": [
+      "巴菲特承认**无法量化**最终在 PacifiCorp 上会损失多少，「这取决于后续判决与政治决策」。",
+      "真正的变化是「态度」：太平洋西北地区这一案例所展现的司法与监管态度，让伯克希尔重新评估**各州的可运营性**。",
+      "他的措辞罕见地重：「有些州现在对我们是**砒霜**（rat poison）」——即便多数州仍然友好。",
+      "这与上午「该退出就退出」的表态互相印证：公用事业的估值折价，本质是「政治风险定价」。"
+    ],
+    "quotes": [
+      ["We don't know how much we'll lose out on PacifiCorp and decisions that are made.", "我们不知道在 PacifiCorp 上最终会损失多少，也不知道会做出什么决定。"],
+      ["There are some, now, they're rat poison, as Charlie would say, to operate in.", "有些州——用查理的话说——现在对我们是砒霜，不适合在那里经营。"]
+    ],
+    "tags": ["BHE", "估值", "监管", "野火"]
+  },
+  "24": {
+    "slug": "earning-power",
+    "title_zh": "伯克希尔的「盈利能力」（earning power）现在是多少？",
+    "asker_zh": "Brevi Panila（生于阿尔巴尼亚，现在伦敦教经济学）",
+    "question_zh": "你常在信里谈伯克希尔对股东的「盈利能力」。按你的估算，现在的盈利能力是多少？未来十年会怎么走？",
+    "points": [
+      "巴菲特的回答是「被下调了」：**公用事业（BHE）出了状况，直接拖累了基础盈利能力**——这与他此前对 BHE 估值下修的表述一致。",
+      "他没有给出新的数字，只说明盈利能力的增长依赖「周期性出现的大交易」：像那笔没做成的 100 亿美元交易，「不做它还能为什么做？」",
+      "换句话说，伯克希尔的 earning power 不是平滑增长的曲线，而是**「基础盘 + 偶发大机会」**的组合。"
+    ],
+    "quotes": [
+      ["I think our underlying earning power was affected negatively here a while back by what happened in the utility field.", "我认为我们的基础盈利能力前一段时间受到了公用事业领域所发生事情的负面影响。"],
+      ["On the one that was 10 billion, we would have added to earning power. I mean, why else would we do it?", "那笔 100 亿美元的交易如果做成，会增加盈利能力。不然我们为什么要做？"]
+    ],
+    "tags": ["盈利能力", "BHE", "估值"]
+  },
+  "25": {
+    "slug": "asset-light-tech",
+    "title_zh": "大科技公司还算「轻资产」吗？",
+    "asker_zh": "Achit Patel（邮件提问，Becky Quick 代读）",
+    "question_zh": "2017 年股东会上你说大科技公司「几乎不需要投入资本就能运转」，是理想生意。如今苹果、Alphabet、微软、亚马逊都在为 AI 大举增加资本开支，你怎么看「轻资产」这个判断？",
+    "points": [
+      "巴菲特先把原则说清：**「不投钱就赚很多钱，永远好过投很多钱才赚很多钱」**。",
+      "他用可口可乐作对比：卖浓缩液/糖浆几乎不占资本，而装瓶厂是重资产生意——**同一个品牌，两端的经济特征完全不同**。",
+      "对 AI 资本开支他没有直接下判断，但把话题引回制度层面：美国资本主义的原创版本是洛克菲勒、卡内基「自己掏钱建钢厂、炼厂、管道」，现在的诀窍变成了「用别人的钱」。",
+      "他的提醒不是道德批判，而是风险识别：「你不能怪人表现得像人，但你得知道他们的动机是什么」。"
+    ],
+    "quotes": [
+      ["It's always better to make a lot of money without putting up anything than to make a lot of money by putting up a lot of money.", "不投入什么就赚很多钱，永远好过投入很多钱才赚很多钱。"],
+      ["Now the trick is to use other people's money, basically.", "现在的诀窍，基本上就是用别人的钱。"]
+    ],
+    "tags": ["科技股", "资本开支", "商业模式"]
+  },
+  "26": {
+    "slug": "influential-class",
+    "title_zh": "哪一门课塑造了你？",
+    "asker_zh": "Patrick Nester（13 岁，佛罗里达州坦帕，现场提问）",
+    "question_zh": "我是 13 岁的第一次参会者。哪一门高中课程或活动，把您塑造成了今天的「史上最伟大投资者」？",
+    "points": [
+      "巴菲特的答案不是某门课，而是**老师**：「你一生中遇到的老师会给你难以置信的影响」，其中很多不是正式老师，比如某些雇主。",
+      "他把运气成分说得很直白：真正的幸运是父亲在做投资生意，家里有大量书可读，还遇上了格雷厄姆和芒格。",
+      "「你希望自己向所有人学习」——前提是对方善意且有经验。",
+      "这段与 Q14（年轻人建议）互相呼应，构成他对「教育」的完整看法：人 > 课程。"
+    ],
+    "quotes": [
+      ["The teachers you get in your life have an incredible impression on you, and a lot of them are the formal teachers you have, but some are informal teachers too.", "你一生中遇到的老师会给你难以置信的影响，其中很多是正式的老师，也有一些不是。"],
+      ["You really hope you're learning from everybody.", "你真的应该希望自己能向每个人学习。"]
+    ],
+    "tags": ["教育", "人生", "传承"]
+  },
+  "27": {
+    "slug": "doge",
+    "title_zh": "DOGE 对美国是净利好还是净利空？",
+    "asker_zh": "Scott Williams（俄勒冈州波特兰，邮件提问，Becky Quick 代读）",
+    "question_zh": "你认为 DOGE（政府效率部）对美国长期的健康是净正面还是净负面？",
+    "points": [
+      "巴菲特先调侃「给我出个难一点的」，然后把问题抽象成**官僚制本身**：官僚主义「无处不在且具有传染性」，大公司里也普遍如此，「多数都可以管得更好，伯克希尔在很多方面也一样」。",
+      "政府是「终极形态」，因为**它几乎没有制衡**。",
+      "他把这条线索接到货币上：正因为缺乏约束，政府可以印钞，这才是「让你对未来货币感到不安」的根源。",
+      "他没有直接评价 DOGE 这个机构本身——这是他一贯的处理方式：谈机制，不谈具体政治人物。"
+    ],
+    "quotes": [
+      ["I think that bureaucracy is something that is amazingly prevalent and contagious, even in our capitalist system and the big corporations.", "我认为官僚主义极其普遍且具有传染性，即便在我们的资本主义体系和大公司里也是如此。"],
+      ["The government is the ultimate. So it really doesn't have any checks on it.", "政府是终极形态，它实际上没有任何制衡。"]
+    ],
+    "tags": ["政府", "效率", "货币"]
+  },
+  "28": {
+    "slug": "capitalism-principles",
+    "title_zh": "假如 1776 年你和富兰克林同桌：什么样的资本主义能长久？",
+    "asker_zh": "Sasha（德国，现场提问）",
+    "question_zh": "想象现在是 1776 年，你和本杰明·富兰克林坐在一起，为新国家的制度奠基。你会主张哪些核心经济原则，来建立一个公平、有韧性、机会驱动的资本主义社会？",
+    "points": [
+      "巴菲特先让贤：「我会对富兰克林说，你继续想就好，别问我——你会想出比我更好的主意。」他称富兰克林可能是「最后一个通晓这个国家各个方面的人」。",
+      "他借富兰克林的遗嘱讲**复利**：那份遗嘱把一笔钱留给波士顿和费城，要求按复利滚存多年，是他常讲的「复利奇迹」案例。",
+      "真正的原则落回他信里写过的那句：**储蓄 + 明智地把储蓄配置出去**，才是让社会产出持续增长的前提；「如果美国人把生产出来的全消费掉，这个国家只会原地打转」。",
+      "他也承认资本主义「有缺陷、有滥用，某些方面比以往更严重」，但仍是「其他经济体系无法匹敌的奇迹制造机」。"
+    ],
+    "quotes": [
+      ["I would probably say to Ben Franklin, you just keep thinking and don't talk to me because you'll come up with some better ideas than I will.", "我大概会对本·富兰克林说：你继续想就好，别问我，因为你会想出比我更好的主意。"],
+      ["It has its faults and abuses — in certain respects more egregious now than ever — but it also can work wonders unmatched by other economic systems.", "它有缺陷也有滥用——某些方面比以往更严重——但它也能创造出其他经济体系无法匹敌的奇迹。"]
+    ],
+    "tags": ["资本主义", "历史", "复利"]
+  },
+  "29": {
+    "slug": "abel-management-style",
+    "title_zh": "Abel 会怎么管子公司？（巴菲特插话：「更好」）",
+    "asker_zh": "Jay Milroy（股东，邮件提问，Becky Quick 代读）",
+    "question_zh": "巴菲特对运营子公司是「放手不管」的风格（hands-off）。你会怎么描述自己的管理方式？",
+    "points": [
+      "巴菲特抢答一个字：**「更好」（Better）**。",
+      "Abel 讲了过程：2018 年接手这个角色后，他必须逐家深入，让经理人讲清商业模式、风险与机会所在；这套「被迫学习」成了他的管理底座。",
+      "巴菲特的自我批评是本段最有价值的部分：**「Greg 做得比我好，因为我根本不想像他那么努力」**——他之所以能「偷懒」，是因为生意本身足够好，加上股权结构让他不会被炒。",
+      "关键判断：「做得好，不等于不能做得更好」，而「很多人其实希望被管理、需要有人帮他们被管理」。",
+      "这是全篇对「总部该多干预还是少干预」最直接的表态，也预示了后巴菲特时代的风格差异。"
+    ],
+    "quotes": [
+      ["It's working way better with Greg than with me because I just didn't want to work as hard as he worked.", "在 Greg 手里这套运转得比我好得多，因为我不想像他那么努力。"],
+      ["The fact that you can do pretty well doesn't mean you couldn't do better.", "你能做得不错，并不意味着你不能做得更好。"]
+    ],
+    "tags": ["管理", "分权", "Greg Abel"]
+  },
+  "30": {
+    "slug": "coal-and-climate",
+    "title_zh": "17 岁的奥马哈高中生问：燃煤机组何时退出？",
+    "asker_zh": "Kansas Lohmeier（17 岁，奥马哈 Elkhorn South 高中，现场提问）",
+    "question_zh": "伯克希尔是美国第二大公用事业供应商。路透社 2025 年调查称其燃煤机组是全美最脏的，而且目前没有明确的煤电退出、全面转向可再生能源的计划。我 17 岁，你怎么向我解释？",
+    "points": [
+      "Abel 以爱荷华州为例：伯克希尔能源（BHE）在当地的煤电占比已大幅下降，可再生能源比例很高，但**仍保留部分燃煤机组用于保障供电可靠性**。",
+      "他的核心论点是「可靠性优先」：在储能与输电还没到位的阶段，过早上马退出会造成停电风险。",
+      "他没有承诺具体退出时间表，只强调会持续投入可再生与电网改造。",
+      "这段是全场少见的、被现场年轻人当面追问 ESG 记录的片段，回答偏技术、避开了「最脏机组」的定性。"
+    ],
+    "quotes": [
+      ["The risk around the wildfires, they're not going away, and we know that, and the risk probably goes up each year.", "（Abel）野火风险不会消失，我们知道这一点，而且风险大概率逐年上升。"],
+      ["Some coal plants are still needed to keep electricity flowing.", "（CNBC 章节标题）仍需要部分燃煤机组来维持供电。"]
+    ],
+    "tags": ["能源", "ESG", "BHE", "煤炭"]
+  },
+  "31": {
+    "slug": "health-venture",
+    "title_zh": "与摩根大通、亚马逊的医疗合资为什么失败？",
+    "asker_zh": "Billy de Ross（纽约州，护士，邮件提问，Becky Quick 代读）",
+    "question_zh": "我在纽约做护士，自己买好医保都很困难。你和摩根大通、亚马逊的医疗合资（Haven）最终为什么结束？在医疗成本问题上，你现在怎么看？",
+    "points": [
+      "先给数字：美国医疗支出**接近 GDP 的 20%**；1960 年代各国都在 5% 左右，之后曲线急剧分化——但「等式里只有 100 个百分点」这个算术事实没变。",
+      "Haven 的失败被归因于结构：三位发起人「都不认为自己知道答案，但都以为自己知道」，而医疗是一个**利益格局极其 entrenched（盘根错节）**的领域。",
+      "他用「绦虫」（tapeworm）比喻医疗成本对美国企业的侵蚀——这个说法在本场次被 CNBC 选作标题之一。",
+      "结论偏悲观：既得利益太深，靠一家公司或几家公司的联合体改不动。"
+    ],
+    "quotes": [
+      ["We're spending close to 20% of GDP on health.", "我们在医疗上花的钱接近 GDP 的 20%。"],
+      ["We had three people who didn't think they knew the answer, but thought that...", "我们三个人都不认为自己知道答案，却都以为……"]
+    ],
+    "tags": ["医疗", "成本", "合资失败"]
+  },
+  "32": {
+    "slug": "operator-vs-investor",
+    "title_zh": "做经营者难，还是做投资者难？",
+    "asker_zh": "Pig Huang Chen（中国台湾，第七次参会）",
+    "question_zh": "你说过未来资本配置由 Abel 负责。那么：经营者转做投资者更容易，还是投资者转做经营者更容易？",
+    "points": [
+      "巴菲特的答案毫不含糊：**做经营者难得多**。「坐在房间里摆弄钱」是更轻松的生活，但「这不意味着它是更值得敬佩的生活」。",
+      "他对自己的幸运很坦白：一生「从没为我不敬佩的人工作过」，能自己选择朋友，「这对我的人生影响巨大」。",
+      "这段是他对「投资 vs 经营」最直白的价值排序：**投资是更舒服的活法，经营是更难的活法**。",
+      "也间接回答了为什么他选 Abel：一个愿意做难事的人。"
+    ],
+    "quotes": [
+      ["It's a lot tougher to be an operator... it's easier to sit in a room like I do and play around with money.", "做经营者要难得多……像我这样坐在房间里摆弄钱要容易些。"],
+      ["That doesn't mean it's a more admirable life.", "但这并不意味着那是更值得敬佩的人生。"]
+    ],
+    "tags": ["经营", "投资", "价值观"]
+  }
+}

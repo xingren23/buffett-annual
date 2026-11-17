@@ -1,0 +1,452 @@
+{
+ "year": 2021,
+ "meeting": {
+  "date": "2021-05-01",
+  "date_zh": "2021 年 5 月 1 日（周六）",
+  "location": "线上举行（巴菲特在洛杉矶）",
+  "note": "连续第二年因疫情线上召开；芒格回归，阿贝尔与贾因首次同台",
+  "stage": "Warren Buffett、Charlie Munger（副董事长）、Greg Abel（非保险业务副董事长）、Ajit Jain（保险业务副董事长）",
+  "host": "Becky Quick（CNBC），代读股东提问",
+  "agenda": "上午场约 1 小时 59 分（含开场与一季报简报），下午场约 1 小时 56 分（末尾为正式股东会）",
+  "hub_url": "https://buffett.cnbc.com/2021-berkshire-hathaway-annual-meeting/",
+  "morning_url": "https://buffett.cnbc.com/video/2021/05/03/part-1---2019-berkshire-hathaway-annual-meeting.html",
+  "afternoon_url": "https://buffett.cnbc.com/video/2021/05/03/part-2---2019-berkshire-hathaway-annual-meeting.html",
+  "venue_zh": "洛杉矶（线上直播）"
+ },
+ "sessions": {
+  "morning": {
+   "label": "上午场",
+   "questions": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    18,
+    19,
+    20,
+    21,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+   ],
+   "appendix": {
+    "6": {
+     "label": "附件 · 一季度业绩与两条投资教训",
+     "file": "a01-q1-and-lessons.md",
+     "data_key": "6",
+     "also": [
+      7,
+      8
+     ]
+    }
+   },
+   "non_qa": {
+    "1": "—（开场）",
+    "2": "—（介绍芒格）",
+    "3": "—（介绍阿贝尔）",
+    "4": "—（介绍贾因）",
+    "5": "—（四人都在奥马哈生活过）",
+    "9": "—（转入问答）",
+    "22": "—（管理层年龄插叙）",
+    "31": "—（芒格谈贫富分化，晨场收尾）"
+   },
+   "continuations": {
+    "16": 15,
+    "17": 15
+   }
+  },
+  "afternoon": {
+   "label": "下午场",
+   "questions": [
+    32,
+    33,
+    34,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    44,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    58,
+    59,
+    60,
+    61,
+    62,
+    64,
+    65,
+    66,
+    67
+   ],
+   "appendix": {},
+   "non_qa": {
+    "68": "—（正式会议开始）",
+    "69": "—（法定人数）",
+    "70": "—（通过上次会议纪要）",
+    "71": "—（选举董事）",
+    "72": "—（气候披露股东提案，被否）",
+    "73": "—（员工多元化股东提案，被否）",
+    "74": "—（休会）"
+   },
+   "continuations": {
+    "35": 34,
+    "43": 42,
+    "45": 44,
+    "57": 56,
+    "63": 62
+   }
+  }
+ },
+ "readme": {
+  "key_events": [
+   "**四人首次同台**：疫情后芒格重回主席台，与巴菲特、阿贝尔、贾因并坐；开场半小时逐一介绍三位副董事长，并强调芒格「还住在 60 多年前那套房子里」（[上午 Q08](morning/q08-munger-buffett-small-differences.md)、[上午 Q09](morning/q09-abel-jain-working-relationship.md)）。",
+   "**一季度数字被会计准则扭曲**：GAAP 净利润 117 亿美元，去年同期为亏损近 500 亿美元；巴菲特提醒看经营利润而不是最后一行，并借两张幻灯片讲给新股民——三十年后市值前 20 会全部换人（[上午场附件](morning/a01-q1-and-lessons.md)）。",
+   "**卖苹果是「错误」**：2020 年四季度减持部分苹果持股，巴菲特承认「很可能是个错误」，理由是仓位一度占组合过重，而非看法改变（[上午 Q12](morning/q12-buffett-apple-sale-was-mistake.md)）。",
+   "**能源与气候的口径之争**：股东要求逐家子公司出气候报告，巴菲特称「asinine」；阿贝尔补充 BHE 已在 2020 年提前完成巴黎协定 2025 年减排目标，在建输电投资远超同业（[上午 Q06](morning/q06-climate-report-per-subsidiary.md)）。",
+   "**通胀与原材料短缺**：旗下企业普遍反映「出乎意料」的涨价压力，部分原材料拿不到货；巴菲特称这轮衰退的行业分化极端（[下午 Q27](afternoon/q27-unexpected-inflation.md)）。",
+   "**投机化与散户**：SPAC 被称「杀手」，Robinhood 被比作赌场，比特币问题上巴菲特用州长典故回避、芒格直言「我厌恶比特币的成功」（[上午 Q16](morning/q16-spacs-fee-driven-killer-competition.md)、[下午 Q11](afternoon/q11-buffett-dodges-bitcoin-question.md)、[下午 Q26](afternoon/q26-robinhood-gambling.md)）。",
+   "**接班线索**：被问到「是否有一天三位不再在台上」，芒格脱口而出「格雷格会保住文化」，随即被巴菲特打断——这是阿贝尔将接任 CEO 的最明确公开信号（[下午 Q24](afternoon/q24-abel-succession-revealed.md)）。",
+   "**两项股东提案被否**：气候披露与员工多元化报告提案在正式会议中均未通过；巴菲特称投票支持者多未用自己的钱买过伯克希尔股票（见配置 `non_qa` 第 72、73 章）。"
+  ],
+  "method": [
+   "抓取 CNBC 两场视频页（part-1／part-2），解析 `window.__c_data` 的 `chapters`，修正弯引号乱码并按发言人合并连续片段；",
+   "以章节为问答边界，跨章的续段并入首章（第 16、17 章并入气候提问；第 35、43、45、57、63 章分别并入前一问），得上午 18 问、下午 31 问；",
+   "开场介绍一季报与两条投资教训的连续三章（6—8）单独成附件；正式股东会各项议程（68—74）只作标注；",
+   "英文原文照录官方逐字稿，另写中文问题、要点、引述与逐轮译文；",
+   "致股东信取 2020 年报信（`2020ltr.pdf`），按分节段落拆成中英两个单语文件。"
+  ],
+  "sources": [
+   "- **主索引与时间轴**：CNBC 官方年会页与两场完整视频页；片段切分与时间戳均与页面内嵌章节数据对齐。",
+   "- **逐字稿**：CNBC 2021 年页面保留官方逐字稿（`transcript` 字段带发言人与秒级时间戳）。英文原文直接照录，仅做分段、合并同一发言人的连续片段，并修正页面编码造成的弯引号乱码。",
+   "- **一季度数据**：2021 年 5 月 1 日发布的 10-Q（GAAP 净利润 117 亿美元，去年同期为亏损近 500 亿美元）。",
+   "- **中文全文**：每个片段附「中文全文（逐段翻译）」，与「英文原文」逐轮对应，由整理者翻译，非官方译本；专名与关键术语首次出现时保留英文。",
+   "- **致股东信**：取自伯克希尔官网 PDF（`_source/2021/letter/2020ltr.pdf`），拆为英文全文与完整中文译文两个文件，逐节逐段对应。",
+   "- 时间戳为**该场视频内的相对时间**，不是当天钟表时间。"
+  ],
+  "gaps": [
+   "开场介绍（第 1—5 章）、问答之间的插叙（第 22、31 章）、正式股东会的各项议程（第 68—74 章，含两项被否的股东提案）未单独成文，仅在配置里标注。",
+   "官方逐字稿为现场速记，个别专名拼写不准（如 (PH)、(unintelligible)），中文整理时按上下文做了清理，未逐字保留口音标注。",
+   "中文要点与译文为整理稿，引用请以 CNBC 官方视频与逐字稿为准。"
+  ]
+ },
+ "transcript_note": "2021 年页面含官方逐字稿，英文原文直接照录，仅做分段与发言人整理",
+ "letter": {
+  "source_year": 2020,
+  "pdf": "2020ltr.pdf",
+  "published": "2021-02-27",
+  "published_zh": "2021 年 2 月 27 日",
+  "url": "https://www.berkshirehathaway.com/letters/2020ltr.pdf",
+  "intro_en": "The annual letter for fiscal 2020, published two months before the May 1, 2021 meeting; it opens with Berkshire's 56-year scorecard and ends with the plan for the first virtual meeting held outside Omaha.",
+  "intro_zh": "这是 2020 财年的年报信，发布于 2021 年 5 月 1 日年会前两个月；开篇是 56 年成绩单，结尾谈到今年年会在洛杉矶举行、查理将同台。",
+  "sections": [
+   {
+    "id": "00",
+    "title_en": "Berkshire’s Performance vs. the S&P 500",
+    "title_zh": "伯克希尔 vs 标普 500（1965—2020 逐年数据）"
+   },
+   {
+    "id": "01",
+    "title_en": "BERKSHIRE HATHAWAY INC.",
+    "title_zh": "卷首：致股东"
+   },
+   {
+    "id": "02",
+    "title_en": "Two Strings to Our Bow",
+    "title_zh": "两张弓弦：保险与实业"
+   },
+   {
+    "id": "03",
+    "title_en": "Investments",
+    "title_zh": "投资组合"
+   },
+   {
+    "id": "04",
+    "title_en": "A Tale of Two Cities",
+    "title_zh": "双城记：奥马哈与纽约"
+   },
+   {
+    "id": "05",
+    "title_en": "The Berkshire Partnership",
+    "title_zh": "伯克希尔的合伙关系"
+   },
+   {
+    "id": "06",
+    "title_en": "A Berkshire Number that May Surprise You",
+    "title_zh": "一个会让你意外的数字"
+   },
+   {
+    "id": "07",
+    "title_en": "The Annual Meeting",
+    "title_zh": "股东大会"
+   }
+  ],
+  "performance_table": {
+   "years": [
+    1965,
+    2020
+   ],
+   "compounded": [
+    "20.0%",
+    "10.2%"
+   ],
+   "overall": [
+    "2,810,526%",
+    "23,454%"
+   ],
+   "note_en": "Note: Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended 12/31.",
+   "note_zh": "口径：除 1965、1966 为 9 月 30 日结束的财年、1967 为 15 个月（截至 12 月 31 日）外，其余为日历年。括号为负值。",
+   "section_id": "00"
+  },
+  "text_fixups": [
+   [
+    "netunrealized",
+    "net unrealized"
+   ],
+   [
+    "repurchasedBerkshire",
+    "repurchased Berkshire"
+   ],
+   [
+    "shareholdersand",
+    "shareholders and"
+   ],
+   [
+    "andprospective",
+    "and prospective"
+   ],
+   [
+    "miraclesthroughout",
+    "miracles throughout"
+   ],
+   [
+    "featuringeither",
+    "featuring either"
+   ],
+   [
+    "how JimClayton’s",
+    "how Jim Clayton’s"
+   ],
+   [
+    "arenot",
+    "are not"
+   ],
+   [
+    "theaverage",
+    "the average"
+   ],
+   [
+    "fallen94%",
+    "fallen 94%"
+   ],
+   [
+    "anegative",
+    "a negative"
+   ],
+   [
+    "$3.4billion",
+    "$3.4 billion"
+   ],
+   [
+    "hadany",
+    "had any"
+   ],
+   [
+    "arerequired",
+    "are required"
+   ],
+   [
+    "sellingonly",
+    "selling only"
+   ],
+   [
+    "1969,all",
+    "1969, all"
+   ],
+   [
+    "theydid",
+    "they did"
+   ]
+  ],
+  "earnings_table": {
+   "heading_en": "Company",
+   "columns": [
+    "Shares*",
+    "Company Owned (%)",
+    "Cost** ($ millions)",
+    "Market ($ millions)"
+   ],
+   "columns_zh": [
+    "股数",
+    "持股比例（%）",
+    "成本（百万美元）",
+    "市值（百万美元）"
+   ],
+   "heading_zh": "公司",
+   "insert_after": {
+    "section": "03",
+    "index": 0
+   },
+   "zh_caption": "**表：2020 年末市值最大的 15 笔普通股投资**（成本与市值单位为百万美元；持股比例按 2020 年 12 月 31 日总股本计）",
+   "rows": [
+    [
+     "AbbVie Inc.",
+     "艾伯维",
+     "25,533,082",
+     "1.4",
+     "2,333",
+     "2,736"
+    ],
+    [
+     "American Express Company",
+     "美国运通",
+     "151,610,700",
+     "18.8",
+     "1,287",
+     "18,331"
+    ],
+    [
+     "Apple Inc.",
+     "苹果",
+     "907,559,761",
+     "5.4",
+     "31,089",
+     "120,424"
+    ],
+    [
+     "Bank of America Corp.",
+     "美国银行",
+     "1,032,852,006",
+     "11.9",
+     "14,631",
+     "31,306"
+    ],
+    [
+     "The Bank of New York Mellon Corp.",
+     "纽约梅隆银行",
+     "66,835,615",
+     "7.5",
+     "2,918",
+     "2,837"
+    ],
+    [
+     "BYD Co. Ltd.",
+     "比亚迪",
+     "225,000,000",
+     "8.2",
+     "232",
+     "5,897"
+    ],
+    [
+     "Charter Communications, Inc.",
+     "特许通讯",
+     "5,213,461",
+     "2.7",
+     "904",
+     "3,449"
+    ],
+    [
+     "Chevron Corporation",
+     "雪佛龙",
+     "48,498,965",
+     "2.5",
+     "4,024",
+     "4,096"
+    ],
+    [
+     "The Coca-Cola Company",
+     "可口可乐",
+     "400,000,000",
+     "9.3",
+     "1,299",
+     "21,936"
+    ],
+    [
+     "General Motors Company",
+     "通用汽车",
+     "52,975,000",
+     "3.7",
+     "1,616",
+     "2,206"
+    ],
+    [
+     "Itochu Corporation",
+     "伊藤忠商事",
+     "81,304,200",
+     "5.1",
+     "1,862",
+     "2,336"
+    ],
+    [
+     "Merck & Co., Inc.",
+     "默克",
+     "28,697,435",
+     "1.1",
+     "2,390",
+     "2,347"
+    ],
+    [
+     "Moody’s Corporation",
+     "穆迪",
+     "24,669,778",
+     "13.2",
+     "248",
+     "7,160"
+    ],
+    [
+     "U.S. Bancorp",
+     "美国合众银行",
+     "148,176,166",
+     "9.8",
+     "5,638",
+     "6,904"
+    ],
+    [
+     "Verizon Communications Inc.",
+     "威瑞森",
+     "146,716,496",
+     "3.5",
+     "8,691",
+     "8,620"
+    ],
+    [
+     "Others***",
+     "其他持仓",
+     "—",
+     "—",
+     "29,458",
+     "40,585"
+    ],
+    [
+     "Total Equity Investments Carried at Market",
+     "普通股投资合计（按市值）",
+     "—",
+     "—",
+     "108,620",
+     "281,170"
+    ]
+   ]
+  },
+  "para_fixups": {
+   "03-003": "*** Includes a $10 billion investment in Occidental Petroleum, consisting of preferred stock and warrants to buy common stock, a combination now being valued at $9 billion."
+  }
+ }
+}

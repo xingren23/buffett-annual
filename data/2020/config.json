@@ -1,0 +1,387 @@
+{
+ "year": 2020,
+ "meeting": {
+  "date": "2020-05-02",
+  "date_zh": "2020 年 5 月 2 日（周六）",
+  "location": "线上举行（巴菲特在奥马哈伯克希尔总部，无现场股东）",
+  "note": "疫情下首次线上年会；芒格缺席，阿贝尔与贾因未出席，台上仅巴菲特与贝基·奎克两人",
+  "stage": "Warren Buffett（单独出席）",
+  "host": "Becky Quick（CNBC），代读股东提问",
+  "agenda": "上午场约 2 小时 6 分（巴菲特单人开讲约 1 小时 46 分，随后约 20 分钟正式会议议程），下午场约 2 小时 22 分问答",
+  "hub_url": "https://buffett.cnbc.com/2020-berkshire-hathaway-annual-meeting/",
+  "morning_url": "https://buffett.cnbc.com/video/2020/05/04/berkshire-hathaway-annual-meeting--may-02-2020.html",
+  "afternoon_url": "https://buffett.cnbc.com/video/2020/05/04/berkshire-hathaway-annual-meeting-qa---may-02-2020.html",
+  "venue_zh": "奥马哈（线上直播）"
+ },
+ "sessions": {
+  "morning": {
+   "label": "上午场",
+   "questions": [],
+   "no_qa_note": "线上年会为单场问答：本场是开场演讲与正式会议议程，股东问答全部在下午场（CNBC Part 2 · Q&A）",
+   "appendix": {
+    "1": {
+     "label": "附件 · 开场演讲：赌美国会赢",
+     "file": "a01-bet-on-america.md",
+     "data_key": "1",
+     "also": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+     ]
+    }
+   },
+   "non_qa": {
+    "24": "—（正式会议开始）",
+    "25": "—（选举董事）",
+    "26": "—（咨询性薪酬投票）",
+    "27": "—（董事会与管理层多元化提案）"
+   }
+  },
+  "afternoon": {
+   "label": "下午场",
+   "questions": [
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63
+   ],
+   "appendix": {},
+   "non_qa": {
+    "28": "—（问答开始）",
+    "64": "—（收尾：永远不要赌美国输）"
+   }
+  }
+ },
+ "readme": {
+  "key_events": [
+   "**首次线上年会，芒格缺席**：台上只有巴菲特与贝基·奎克两人；开场即交代「跟我搭档了 60 年的查理没坐在这儿」——96 岁的芒格一切安好，已在用 Zoom 开会，只是不值得为这次会议专程跑一趟奥马哈（[上午场附件](morning/a01-bet-on-america.md)）。",
+   "**「赌美国会赢」**：开场近两小时回望 1789 年建国时的贫困、内战、大萧条与 FDIC 的诞生，结论是「没有什么能从根本上阻止美国」；但买股票要像买农场，并准备好跌 50% 的心态（[上午场附件](morning/a01-bet-on-america.md)、[下午 Q02](afternoon/q02-right-psychology-to-buy-stocks.md)）。",
+   "**清仓航空股、当众认错**：确认已全部卖出四大航空公司——美国航空、达美、西南、联合大陆，合计约占美国国内客运里程的 80%；「没觉得它们变差了，是世界变了」；4 月仅买入 4.26 亿美元股票，「规模毫无意义」（[下午 Q01](afternoon/q01-airlines-full-sale.md)、[下午 Q03](afternoon/q03-april-426m-equity-buys.md)）。",
+   "**疫情冲击子公司**：部分子公司可能短期裁员、极小型的可能不再开门，但关停出售亏损子公司的长期政策不变；GEICO 因事故骤减预计盈利改善，并向投保人返还部分保费（[下午 Q06](afternoon/q06-short-term-layoffs-long-term-job-gains.md)、[下午 Q08](afternoon/q08-underperforming-subsidiaries-policy.md)、[下午 Q10](afternoon/q10-geico-profitability-2020.md)）。",
+   "**资本配置：没有吸引力的交易**：2 月市场见顶后「我们没看到任何有吸引力的东西」；伯克希尔旗下全资企业未拿一分政府救助款（[下午 Q04](afternoon/q04-no-attractive-deals-to-provide-capital.md)、[下午 Q14](afternoon/q14-no-government-bailout-money.md)）。",
+   "**贾因不参与资本配置**：解释为何贾因未列入「接手资本配置」的人选——他保险出色但不做这类决策，外界普遍读作对阿贝尔的暗示；巴菲特同时强调伯克希尔在自己离开后会「保持完整」（[下午 Q18](afternoon/q18-ajit-jain-capital-allocation.md)、[下午 Q23](afternoon/q23-berkshire-stay-intact-after-buffett.md)）。",
+   "**回购与估值**：3 月暴跌时不回购，是因为当时不觉得伯克希尔股票便宜；回购并非不道德、但可能很蠢；跑输标普 500 的年份会再来，规模太大是主要劣势（[下午 Q30](afternoon/q30-no-buybacks-at-march-discount.md)、[下午 Q27](afternoon/q27-stock-buybacks-not-immoral-but-stupid.md)、[下午 Q17](afternoon/q17-berkshire-underperformance-sp500.md)）。",
+   "**美元与美国债务**：美国不会违约，因为「能印美元」；但通胀是真实风险；资本主义需要政府让市场体系的成果被所有人分享（[下午 Q26](afternoon/q26-us-debt-default-and-inflation-risk.md)、[下午 Q34](afternoon/q34-capitalism-everyone-participates.md)）。"
+  ],
+  "method": [
+   "抓取 CNBC 两场视频页（2020 年视频页命名与往年不同：annual-meeting--may-02-2020 与 annual-meeting-qa--may-02-2020），解析 `window.__c_data` 的 `chapters`，修正弯引号乱码并按发言人合并连续片段；",
+   "上午场为巴菲特单人开讲，第 1—23 章合为一个附件（23 段逐章翻译）；第 24—27 章为正式会议议程（董事选举、咨询性薪酬投票、多元化提案），只作标注；",
+   "下午场第 28—64 章：28 章为问答开始、64 章为收尾，各作标注；29—63 章共 35 问，一问一档，无跨章延续；",
+   "英文原文照录官方逐字稿，另写中文问题、要点、引述与逐轮译文；",
+   "致股东信取 2019 年报信（`2019ltr.pdf`），按分节段落拆成中英两个单语文件。"
+  ],
+  "sources": [
+   "- **主索引与时间轴**：CNBC 官方年会页与两场完整视频页；片段切分与时间戳均与页面内嵌章节数据对齐。",
+   "- **逐字稿**：CNBC 2020 年页面保留官方逐字稿（`transcript` 字段带发言人与秒级时间戳）。英文原文直接照录，仅做分段、合并同一发言人的连续片段，并修正页面编码造成的弯引号乱码。",
+   "- **一季度数据**：2020 年 5 月 2 日发布的 10-Q（GAAP 净利润亏损约 494 亿美元）。",
+   "- **中文全文**：每个片段附「中文全文（逐段翻译）」，与「英文原文」逐轮对应，由整理者翻译，非官方译本；专名与关键术语首次出现时保留英文。",
+   "- **致股东信**：取自伯克希尔官网 PDF（`_source/2020/letter/2019ltr.pdf`），拆为英文全文与完整中文译文两个文件，逐节逐段对应。",
+   "- 时间戳为**该场视频内的相对时间**，不是当天钟表时间。"
+  ],
+  "gaps": [
+   "开场演讲（第 1—23 章）收为一个附件，未逐章单独成文；正式会议的各项议程（第 24—27 章，含董事选举与咨询性薪酬投票）未单独成文，仅在配置里标注。",
+   "官方逐字稿为现场速记，个别专名拼写不准（如 (PH)、(unintelligible)），中文整理时按上下文做了清理，未逐字保留口音标注。",
+   "中文要点与译文为整理稿，引用请以 CNBC 官方视频与逐字稿为准。"
+  ]
+ },
+ "transcript_note": "2020 年页面含官方逐字稿，英文原文照录，仅做分段与发言人整理",
+ "letter": {
+  "source_year": 2019,
+  "pdf": "2019ltr.pdf",
+  "published": "2020-02-22",
+  "published_zh": "2020 年 2 月 22 日",
+  "url": "https://www.berkshirehathaway.com/letters/2019ltr.pdf",
+  "intro_en": "The annual letter for fiscal 2019, published February 22, 2020, ten weeks before the virtual meeting; it opens with the 55-year scorecard and the fight over the new GAAP rule, and closes with the invitation to \"come to Omaha\" on May 2nd — an invitation COVID-19 would rewrite.",
+  "intro_zh": "2019 财年的年报信，发布于 2020 年 2 月 22 日、线上年会前十周；开篇是 55 年成绩单与新会计准则之争，结尾还写着「5 月 2 日来奥马哈见面」的邀请——疫情很快改写了这一切。",
+  "sections": [
+   {
+    "id": "00",
+    "title_en": "Berkshire’s Performance vs. the S&P 500",
+    "title_zh": "伯克希尔 vs 标普 500（1965—2019 逐年数据）"
+   },
+   {
+    "id": "01",
+    "title_en": "BERKSHIRE HATHAWAY INC.",
+    "title_zh": "卷首：致股东"
+   },
+   {
+    "id": "02",
+    "title_en": "The Power of Retained Earnings",
+    "title_zh": "留存收益的力量"
+   },
+   {
+    "id": "03",
+    "title_en": "Non-Insurance Operations",
+    "title_zh": "非保险业务"
+   },
+   {
+    "id": "04",
+    "title_en": "Property/Casualty Insurance",
+    "title_zh": "财产/意外险"
+   },
+   {
+    "id": "05",
+    "title_en": "How about Wilkes-Barre?",
+    "title_zh": "威尔克斯-巴里怎么样？（GUARD 收购记）"
+   },
+   {
+    "id": "06",
+    "title_en": "Berkshire Hathaway Energy",
+    "title_zh": "伯克希尔·哈撒韦能源"
+   },
+   {
+    "id": "07",
+    "title_en": "Investments",
+    "title_zh": "投资组合"
+   },
+   {
+    "id": "08",
+    "title_en": "The Road Ahead",
+    "title_zh": "前方的路"
+   },
+   {
+    "id": "09",
+    "title_en": "Boards of Directors",
+    "title_zh": "董事会"
+   },
+   {
+    "id": "10",
+    "title_en": "Short Subjects",
+    "title_zh": "短题"
+   }
+  ],
+  "performance_table": {
+   "years": [
+    1965,
+    2019
+   ],
+   "compounded": [
+    "20.3%",
+    "10.0%"
+   ],
+   "overall": [
+    "2,744,062%",
+    "19,784%"
+   ],
+   "note_en": "Note: Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended 12/31.",
+   "note_zh": "口径：除 1965、1966 为 9 月 30 日结束的财年、1967 为 15 个月（截至 12 月 31 日）外，其余为日历年。括号为负值。",
+   "section_id": "00"
+  },
+  "earnings_table": {
+   "heading_en": "Company",
+   "columns": [
+    "Shares*",
+    "Company Owned (%)",
+    "Cost** ($ millions)",
+    "Market ($ millions)"
+   ],
+   "columns_zh": [
+    "股数",
+    "持股比例（%）",
+    "成本（百万美元）",
+    "市值（百万美元）"
+   ],
+   "heading_zh": "公司",
+   "insert_after": {
+    "section": "07",
+    "index": 0
+   },
+   "zh_caption": "**表：2019 年末市值最大的 15 笔普通股投资**（成本与市值单位为百万美元；持股比例按 2019 年 12 月 31 日流通股本计）",
+   "rows": [
+    [
+     "American Express Company",
+     "美国运通",
+     "151,610,700",
+     "18.7",
+     "1,287",
+     "18,874"
+    ],
+    [
+     "Apple Inc.",
+     "苹果",
+     "250,866,566",
+     "5.7",
+     "35,287",
+     "73,667"
+    ],
+    [
+     "Bank of America Corp.",
+     "美国银行",
+     "947,760,000",
+     "10.7",
+     "12,560",
+     "33,380"
+    ],
+    [
+     "The Bank of New York Mellon Corp.",
+     "纽约梅隆银行",
+     "81,488,751",
+     "9.0",
+     "3,696",
+     "4,101"
+    ],
+    [
+     "Charter Communications, Inc.",
+     "特许通讯",
+     "5,426,609",
+     "2.6",
+     "944",
+     "2,632"
+    ],
+    [
+     "The Coca-Cola Company",
+     "可口可乐",
+     "400,000,000",
+     "9.3",
+     "1,299",
+     "22,140"
+    ],
+    [
+     "Delta Air Lines, Inc.",
+     "达美航空",
+     "70,910,456",
+     "11.0",
+     "3,125",
+     "4,147"
+    ],
+    [
+     "The Goldman Sachs Group, Inc.",
+     "高盛",
+     "12,435,814",
+     "3.5",
+     "890",
+     "2,859"
+    ],
+    [
+     "JPMorgan Chase & Co.",
+     "摩根大通",
+     "60,059,932",
+     "1.9",
+     "6,556",
+     "8,372"
+    ],
+    [
+     "Moody’s Corporation",
+     "穆迪",
+     "24,669,778",
+     "13.1",
+     "248",
+     "5,857"
+    ],
+    [
+     "Southwest Airlines Co.",
+     "西南航空",
+     "46,692,713",
+     "9.0",
+     "1,940",
+     "2,520"
+    ],
+    [
+     "United Continental Holdings Inc.",
+     "联合大陆航空",
+     "21,938,642",
+     "8.7",
+     "1,195",
+     "1,933"
+    ],
+    [
+     "U.S. Bancorp",
+     "美国合众银行",
+     "149,497,786",
+     "9.7",
+     "5,709",
+     "8,864"
+    ],
+    [
+     "Visa Inc.",
+     "维萨",
+     "10,239,160",
+     "0.6",
+     "349",
+     "1,924"
+    ],
+    [
+     "Wells Fargo & Company",
+     "富国银行",
+     "345,688,918",
+     "8.4",
+     "7,040",
+     "18,598"
+    ],
+    [
+     "Others***",
+     "其他持仓",
+     "—",
+     "—",
+     "28,215",
+     "38,159"
+    ],
+    [
+     "Total Equity Investments Carried at Market",
+     "普通股投资合计（按市值）",
+     "—",
+     "—",
+     "110,340",
+     "248,027"
+    ]
+   ]
+  },
+  "text_fixups": [],
+  "para_fixups": {
+   "02-019": "| Company | Ownership | Dividends(1) | Retained Earnings(2) |\n|---|---:|---:|---:|\n| American Express | 18.7% | $261 | $998 |\n| Apple | 5.7% | $773 | $2,519 |\n| Bank of America | 10.7% | $682 | $2,167 |\n| Bank of New York Mellon | 9.0% | $101 | $288 |\n| Coca-Cola | 9.3% | $640 | $194 |\n| Delta Airlines | 11.0% | $114 | $416 |\n| J.P. Morgan Chase | 1.9% | $216 | $476 |\n| Moody's | 13.1% | $55 | $137 |\n| U.S. Bancorp | 9.7% | $251 | $407 |\n| Wells Fargo | 8.4% | $705 | $730 |\n| **Total** |  | **$3,798** | **$8,332** |",
+   "04-004": "| Year | Float (in $ millions) |\n|---|---:|\n| 1970 | $39 |\n| 1980 | $237 |\n| 1990 | $1,632 |\n| 2000 | $27,871 |\n| 2010 | $65,832 |\n| 2018 | $122,732 |\n| 2019 | $129,423 |",
+   "06-000": "Berkshire Hathaway Energy is now celebrating its 20th year under our ownership. That anniversary suggests that we should be catching up with the company’s accomplishments.",
+   "07-001": null
+  }
+ }
+}

@@ -1,0 +1,245 @@
+{
+  "year": 2024,
+  "meeting": {
+    "date": "2024-05-04",
+    "date_zh": "2024 年 5 月 4 日（周六）",
+    "location": "美国内布拉斯加州奥马哈 · CHI Health Center",
+    "note": "查理·芒格于 2023 年 11 月 28 日去世后的首次年会",
+    "stage": "Warren Buffett、Greg Abel（副董事长，非保险业务）、Ajit Jain（保险业务，仅上午场）",
+    "host": "Becky Quick（CNBC），与现场股东交替提问",
+    "agenda": "上午场约 2 小时 55 分（含开场与一季报简报），下午场约 1 小时 57 分",
+    "hub_url": "https://buffett.cnbc.com/2024-berkshire-hathaway-annual-meeting/",
+    "morning_url": "https://buffett.cnbc.com/video/2024/05/06/morning-session---2024-meeting.html",
+    "afternoon_url": "https://buffett.cnbc.com/video/2024/05/06/afternoon-session---2024-meeting.html"
+  },
+  "sessions": {
+    "morning": {
+      "label": "上午场",
+      "questions": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        26
+      ],
+      "appendix": {
+        "3": {
+          "label": "附件 · 一季度业绩简报",
+          "file": "a01-q1-earnings.md",
+          "data_key": "3"
+        }
+      },
+      "non_qa": {
+        "1": "—（开场／介绍董事）",
+        "2": "—（致谢）",
+        "25": "—（午间休会通知）",
+        "27": "—（人物插叙）",
+        "28": "—（捐赠视频）"
+      }
+    },
+    "afternoon": {
+      "label": "下午场",
+      "questions": [
+        30,
+        31,
+        32,
+        33,
+        35,
+        36,
+        37,
+        38,
+        39,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "appendix": {
+        "34": {
+          "label": "附件 · 清仓 Paramount",
+          "file": "a01-paramount.md",
+          "data_key": "34"
+        }
+      },
+      "non_qa": {
+        "29": "—（下午场开场）",
+        "40": "—（第 9 问延续）",
+        "47": "—（闭幕）"
+      }
+    }
+  },
+  "letter": {
+    "source_year": 2023,
+    "pdf": "2023ltr.pdf",
+    "published": "2024-02-24",
+    "published_zh": "2024 年 2 月 24 日",
+    "url": "https://www.berkshirehathaway.com/letters/2023ltr.pdf",
+    "intro_en": "This is the annual letter corresponding to the May 4, 2024 annual meeting, and the first letter written after Charlie Munger’s death.",
+    "intro_zh": "这是 2024 年 5 月 4 日股东大会所对应的那封年报信，也是查理·芒格去世后巴菲特写的第一封信。",
+    "sections": [
+      {
+        "id": "00",
+        "title_en": "Charlie Munger – The Architect of Berkshire Hathaway",
+        "title_zh": "查理·芒格——伯克希尔的设计师"
+      },
+      {
+        "id": "01",
+        "title_en": "BERKSHIRE HATHAWAY INC.",
+        "title_zh": "卷首：写给股东的报告"
+      },
+      {
+        "id": "02",
+        "title_en": "Operating Results, Fact and Fiction",
+        "title_zh": "经营业绩：事实与虚构"
+      },
+      {
+        "id": "03",
+        "title_en": "What We Do",
+        "title_zh": "我们做什么"
+      },
+      {
+        "id": "04",
+        "title_en": "Our Not-So-Secret Weapon",
+        "title_zh": "我们并不那么秘密的武器"
+      },
+      {
+        "id": "05",
+        "title_en": "Non-controlled Businesses That Leave Us Comfortable",
+        "title_zh": "让我们放心的非控股企业"
+      },
+      {
+        "id": "06",
+        "title_en": "The Scorecard in 2023",
+        "title_zh": "2023 年的成绩单"
+      },
+      {
+        "id": "07",
+        "title_en": "What is it with Omaha?",
+        "title_zh": "奥马哈到底怎么回事？"
+      },
+      {
+        "id": "08",
+        "title_en": "Berkshire’s Performance vs. the S&P 500",
+        "title_zh": "伯克希尔 vs. 标普 500（59 年逐年数据）"
+      }
+    ],
+    "earnings_table": {
+      "heading_en": "Item (USD millions)",
+      "insert_after": {
+        "section": "06",
+        "index": 0
+      },
+      "zh_caption": "**表：2022–2023 年经营利润拆分（税后，百万美元）**",
+      "columns": [
+        "2023",
+        "2022"
+      ],
+      "rows": [
+        [
+          "Insurance-underwriting",
+          "保险承保",
+          "5,428",
+          "(30)"
+        ],
+        [
+          "Insurance-investment income",
+          "保险投资收益",
+          "9,567",
+          "6,484"
+        ],
+        [
+          "Railroad",
+          "铁路",
+          "5,087",
+          "5,946"
+        ],
+        [
+          "Utilities and energy",
+          "公用事业与能源",
+          "2,331",
+          "3,904"
+        ],
+        [
+          "Other businesses and miscellaneous items",
+          "其他业务及杂项",
+          "14,937",
+          "14,549"
+        ],
+        [
+          "Operating earnings",
+          "经营利润",
+          "37,350",
+          "30,853"
+        ]
+      ]
+    },
+    "performance_table": {
+      "years": [
+        1965,
+        2023
+      ],
+      "compounded": [
+        "19.8%",
+        "10.2%"
+      ],
+      "overall": [
+        "4,384,748%",
+        "31,223%"
+      ],
+      "note_en": "Note: Data are for calendar years except 1965–1966 (years ended September 30) and 1967 (15 months ended December 31).",
+      "note_zh": "口径：1965、1966 为 9 月 30 日结束的财年，1967 为 15 个月；其余为日历年。括号为负值。"
+    }
+  },
+  "readme": {
+    "key_events": [
+      "**向芒格致敬**：开场即缅怀查理·芒格，称他是「伯克希尔的设计师」，自己只是「总承包商」。年度信也以芒格长文开篇（[年度信·中文](shareholder-letter-zh.md)），会上专门回答了「如果能再陪芒格一天」的问题（[上午 Q10](morning/q10-one-more-day-with-munger.md)）。",
+      "**减持苹果与税率**：一季度再卖 1.15 亿股苹果，巴菲特解释这不是看法转变，而是预期未来税率上升、且苹果仓位过大；卖出收益按 21% 联邦税率缴税（[上午 Q01](morning/q01-selling-apple-shares-and-taxes.md)）。",
+      "**现金超过 1820 亿美元**：巴菲特直言坐在这张桌子旁的人都不知如何有效使用这笔钱，宁愿持短期国库券，也不勉强出手（[上午 Q19](morning/q19-cash-pile-no-attractive-targets.md)）。",
+      "**日本五商社长期持有**：伯克希尔的主要投资仍在美国，但日本五大商社是重要例外，会持有几十年（[上午 Q02](morning/q02-china-investment-and-us-focus.md)）。",
+      "**公用事业与野火**：犹他州、PacifiCorp 与野火赔偿责任成为反复出现的话题；Abel 称新增索赔规模巨大，公司已改变火情应对文化（[上午 Q03](morning/q03-utah-public-power-and-wildfire-costs.md)、[上午 Q22](morning/q22-climate-policy-utilities-predicting-winners.md)）。",
+      "**AI 与诈骗**：巴菲特称自己对 AI 一无所知，但把 AI 比作核武器；若用来行骗，诈骗可能成为「有史以来增长最快的行业」（[上午 Q04](morning/q04-ai-and-fraud-growth-industry.md)、[下午 Q12](afternoon/q12-ai-genie-berkshire-impact.md)）。",
+      "**接班与治理**：巴菲特明确资本配置将整体交给 Greg Abel；董事会的工作被概括为「每 20 年选对一次 CEO」（[下午 Q01](afternoon/q01-abel-capital-allocation-authority.md)、[上午 Q18](morning/q18-board-picks-right-ceo-every-20-years.md)）。Ajit Jain 也谈了自己的继任安排（[上午 Q09](morning/q09-ajit-jain-succession-irreplaceable.md)）。",
+      "**清仓 Paramount**：巴菲特主动说明已全部卖出 Paramount 并亏损，强调决定「百分之百由我负责」（[下午场附件](afternoon/a01-paramount.md)）。"
+    ],
+    "method": [
+      "抓取两场视频页 → 解析 `chapters`（上午 28 章、下午 19 章）及其内嵌逐字稿；",
+      "修正页面把 UTF-8 当 cp1252 解码造成的弯引号乱码，按发言人标签合并连续片段；",
+      "以章节为问答边界，得到上午 22 问、下午 15 问；第 36 章被打断的提问合并为一个片段，第 40 章并入第 9 问；",
+      "英文原文直接照录官方逐字稿，另写中文问题、要点、引述与逐轮译文；",
+      "致股东信取 2023 年报信（`2023ltr.pdf`），按分节段落拆成中英两个单语文件。"
+    ],
+    "gaps": [
+      "官方逐字稿为现场速记，个别专名拼写不准（如 (PH)、(unintelligible)），中文整理时按上下文做了清理，未逐字保留口音标注。",
+      "上午场的董事介绍、致谢、午间休会通知，以及下午场的开场、Carol Loomis 插叙、Ruth Gottesman 捐赠视频与闭幕环节，属非问答内容，未单独成文。",
+      "中文要点与译文为整理稿，引用请以 CNBC 官方视频与逐字稿为准。"
+    ],
+    "sources": [
+      "- **主索引与时间轴**：CNBC 官方年会页与两场完整视频页。每场视频页内嵌章节数据（标题 + 起止秒数），片段切分与时间戳均与之对齐。",
+      "- **逐字稿**：与 2025 年不同，**CNBC 2024 年页面保留了官方逐字稿**（`transcript` 字段带发言人与秒级时间戳）。本资料集的英文原文直接照录官方逐字稿，仅做分段、合并同一发言人的连续段落，并修正页面编码造成的弯引号乱码。",
+      "- **中文全文**：每个片段附「中文全文（逐段翻译）」，与「英文原文」逐轮对应，由整理者翻译，非官方译本；专名与关键术语首次出现时保留英文。",
+      "- **致股东信**：取自伯克希尔官网 PDF（`_source/2024/letter/2023ltr.pdf`），拆分为英文全文与完整中文译文两个文件，逐节逐段对应；仅做 PDF 断行重排与表格化。",
+      "- **片段粒度**：按 CNBC 章节切分，一个章节通常对应一个提问。第 36 章（小资金如何做到年化 50%）的提问被现场笑声打断成多轮短句，仍合并为一个片段；第 40 章是第 9 问的延续，未单独成文。",
+      "- 时间戳为**该场视频内的相对时间**，不是当天钟表时间。"
+    ]
+  },
+  "transcript_note": "2024 年页面含官方逐字稿，英文原文直接照录，仅做分段与发言人整理"
+}

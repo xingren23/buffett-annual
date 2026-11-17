@@ -1,0 +1,209 @@
+{
+ "year": 2019,
+ "meeting": {
+  "date": "2019-05-04",
+  "date_zh": "2019 年 5 月 4 日（周六）",
+  "location": "美国内布拉斯加州奥马哈 · CHI Health Center",
+  "note": "阿吉特·贾因与格雷格·阿贝尔首次各设专桌、独立回答提问；一季度新建仓亚马逊曝光",
+  "stage": "Warren Buffett、Charlie Munger",
+  "host": "Becky Quick、Andrew Ross Sorkin（CNBC），代读股东提问",
+  "agenda": "上午场约 2 小时 42 分（开场约 15 分钟后进入问答，午前 25 问）；下午场约 2 小时 34 分（31 问，结尾为正式会议议程）",
+  "hub_url": "https://buffett.cnbc.com/2019-berkshire-hathaway-annual-meeting/",
+  "morning_url": "https://buffett.cnbc.com/video/2019/05/06/morning-session---2019-berkshire-hathaway-annual-meeting.html",
+  "afternoon_url": "https://buffett.cnbc.com/video/2019/05/06/afternoon-session---2019-berkshire-hathaway-annual-meeting.html"
+ },
+ "sessions": {
+  "morning": {
+   "label": "上午场",
+   "questions": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+   ],
+   "continuations": {
+    "14": 13,
+    "24": 23
+   },
+   "appendix": {
+    "3": {
+     "label": "附件 · 一季度业绩：关注营业利润",
+     "file": "a01-q1-operating-earnings.md",
+     "data_key": "3"
+    }
+   },
+   "non_qa": {
+    "1": "—（开场欢迎与芒格的「起义」玩笑）",
+    "2": "—（介绍董事）",
+    "4": "—（奥马哈总部 20 年租约公告）",
+    "5": "—（感谢年会工作人员）",
+    "6": "—（问答开始，说明流程）"
+   }
+  },
+  "afternoon": {
+   "label": "下午场",
+   "questions": [
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66
+   ],
+   "continuations": {
+    "43": 42,
+    "60": 59
+   },
+   "appendix": {},
+   "non_qa": {
+    "67": "—（正式会议议程与董事选举）"
+   }
+  }
+ },
+ "readme": {
+  "key_events": [
+   "**回购成为主旋律**：上午连续三问聚焦回购——政策不再锚定账面价值、「1000 亿美元回购」的出处、A/B 类股回购的分布；芒格预告「回购的尺度会稍微放宽」（[上午 Q01](morning/q01-repurchase-policy-no-book-value.md)、[上午 Q04](morning/q05-buyback-100-billion.md)、[上午 Q02](morning/q08-buyback-class-b.md)）。",
+   "**卡夫亨氏减记风波**：28 亿减记后巴菲特承认卡夫一半买贵了，但「70 亿有形资产赚约 60 亿税前利润仍是极好的生意」；好市多科克兰品牌（390 亿美元）被引为品牌之争的注脚；3G 合作未来不排除再续（[上午 Q10](morning/q10-kraft-heinz-overpaid.md)、[上午 Q23](morning/q23-3g-partnership-again.md)、[上午 Q24](morning/q24-kraft-heinz-brands-ok.md)）。",
+   "**阿吉特·贾因首次专场**：一季报显示新建仓亚马逊后，巴菲特澄清「一切投资都是价值投资」；贾因首次在专桌系统讲解非常规保险的定价方法（[上午 Q13](morning/q13-amazon-value-investing.md)、[上午 Q22](morning/q22-jain-unconventional-pricing.md)）。",
+   "**贾因与阿贝尔获「聚光灯」**：回应股东提案，格雷格·阿贝尔（能源资本开支）与阿吉特·贾因（GEICO 对前进保险）各自在专桌回答提问，接班轮廓渐显（[下午 Q09](afternoon/q10-energy-capital-spending.md)、[下午 Q25](afternoon/q07-geico-vs-progressive.md)）。",
+   "**浮存金 1240 亿与保险价值**：巴菲特以「只有一个客户、承诺永不取款的银行」解释保险业务估值，并称其为「全世界任何规模中最优秀的财险业务」（[上午 Q14](morning/q14-insurance-business-value.md)）。",
+   "**美国顺风与股份披露**：致股东信中「美国顺风」的余音延伸到会场——指数基金现金之问、跑赢标普的税收账、海外持仓不申报；西方石油 100 亿美元优先股贷款的「周末成交」范例（[下午 Q15](afternoon/q11-cash-vs-index-fund.md)、[下午 Q17](afternoon/q20-taxes-vs-sp500.md)、[下午 Q19](afternoon/q24-occidental-10b-loan.md)）。",
+   "**政治与社会主义之忧**：自称「持证的资本主义者」，但认为资本主义需要监管、需要照顾被甩下的人；不认为美国会在 2020、2040 或 2060 年走向社会主义（[上午 Q07](morning/q07-politics-capitalism-socialism.md)）。"
+  ],
+  "method": [
+   "抓取 CNBC 两场视频页，解析 `window.__c_data` 的 `chapters`，修正弯引号乱码并按发言人合并连续片段；",
+   "上午场第 1—6 章为开场与公告（含一季度业绩解读，收为附件；总部 20 年租约公告仅作标注）；第 7—33 章共 25 问；14、24 两章为跨章延续；",
+   "下午场第 34—66 章共 31 问，43、60 两章为跨章延续；第 67 章为正式会议议程（董事选举），只作标注；",
+   "英文原文照录官方逐字稿，另写中文问题、要点、引述与逐轮译文；",
+   "致股东信取 2018 年报信（`2018ltr.pdf`），按分节段落拆成中英两个单语文件。"
+  ],
+  "sources": [
+   "- **主索引与时间轴**：CNBC 官方年会页与两场完整视频页；片段切分与时间戳均与页面内嵌章节数据对齐。",
+   "- **逐字稿**：CNBC 2019 年页面保留官方逐字稿（`transcript` 字段带发言人与秒级时间戳）。英文原文直接照录，仅做分段、合并同一发言人的连续片段，并修正页面编码造成的弯引号乱码。",
+   "- **一季度数据**：2019 年 5 月 4 日发布的 10-Q（GAAP 净利润约 216 亿美元）。",
+   "- **中文全文**：每个片段附「中文全文（逐段翻译）」，与「英文原文」逐轮对应，由整理者翻译，非官方译本；专名与关键术语首次出现时保留英文。",
+   "- **致股东信**：取自伯克希尔官网 PDF（`_source/2019/letter/2018ltr.pdf`），拆为英文全文与完整中文译文两个文件，逐节逐段对应。",
+   "- 时间戳为**该场视频内的相对时间**，不是当天钟表时间。"
+  ],
+  "gaps": [
+   "上午场开场各章（第 1、2、4、5、6 章）仅作标注，未单独成文；一季度业绩解读（第 3 章）收为一个附件；",
+   "下午场结尾的正式会议议程与董事选举（第 67 章）未单独成文，仅在配置里标注。",
+   "官方逐字稿为现场速记，个别专名拼写不准（如 (PH)、(unintelligible)），中文整理时按上下文做了清理，未逐字保留口音标注。",
+   "中文要点与译文为整理稿，引用请以 CNBC 官方视频与逐字稿为准。"
+  ]
+ },
+ "transcript_note": "2019 年页面含官方逐字稿，英文原文照录，仅做分段与发言人整理",
+ "letter": {
+  "source_year": 2018,
+  "pdf": "2018ltr.pdf",
+  "published": "2019-02-23",
+  "published_zh": "2019 年 2 月 23 日",
+  "url": "https://www.berkshirehathaway.com/letters/2018ltr.pdf",
+  "intro_en": "The annual letter for fiscal 2018, published February 23, 2019, ten weeks before the meeting; it opens with the 54-year scorecard and the new GAAP rule, dwells on repurchases and the \"American Tailwind\", and closes with a See's Candies memory from 1972.",
+  "intro_zh": "2018 财年的年报信，发布于 2019 年 2 月 23 日、年会前十周；开篇是 54 年成绩单与新会计准则之争，中段细说回购与「美国顺风」，结尾回到 1972 年喜诗糖果的旧事。",
+  "sections": [
+   {"id": "00", "title_en": "Berkshire’s Performance vs. the S&P 500", "title_zh": "伯克希尔 vs 标普 500（1965—2018 逐年数据）"},
+   {"id": "01", "title_en": "BERKSHIRE HATHAWAY INC.", "title_zh": "卷首：致股东"},
+   {"id": "02", "title_en": "Repurchases and Reporting", "title_zh": "回购与信息披露"},
+   {"id": "03", "title_en": "Non-Insurance Operations – From Lollipops to Locomotives", "title_zh": "非保险业务：从棒棒糖到火车头"},
+   {"id": "04", "title_en": "Insurance, “Float,” and the Funding of Berkshire", "title_zh": "保险、「浮存金」与伯克希尔的资金供给"},
+   {"id": "05", "title_en": "Investments", "title_zh": "投资组合"},
+   {"id": "06", "title_en": "The American Tailwind", "title_zh": "美国顺风"},
+   {"id": "07", "title_en": "The Annual Meeting", "title_zh": "年会"}
+  ],
+  "performance_table": {
+   "years": [1965, 2018],
+   "compounded": ["20.3%", "9.7%"],
+   "overall": ["1,091,899%", "15,019%"],
+   "note_en": "Note: Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended 12/31.",
+   "note_zh": "口径：除 1965、1966 为 9 月 30 日结束的财年、1967 为 15 个月（截至 12 月 31 日）外，其余为日历年。括号为负值。",
+   "section_id": "00"
+  },
+  "earnings_table": {
+   "heading_en": "Company",
+   "columns": ["Shares*", "Company Owned (%)", "Cost** ($ millions)", "Market ($ millions)"],
+   "columns_zh": ["股数", "持股比例（%）", "成本（百万美元）", "市值（百万美元）"],
+   "heading_zh": "公司",
+   "insert_after": {"section": "05", "index": 0},
+   "zh_caption": "**表：2018 年末市值最大的 15 笔普通股投资**（成本与市值单位为百万美元；持股比例按 2018 年 12 月 31 日流通股本计）",
+   "rows": [
+    ["151,610,700", "American Express Company", "美国运通", "17.9", "1,287", "14,452"],
+    ["255,300,329", "Apple Inc.", "苹果", "5.4", "36,044", "40,271"],
+    ["918,919,000", "Bank of America Corp.", "美国银行", "9.5", "11,650", "22,642"],
+    ["84,488,751", "The Bank of New York Mellon Corp.", "纽约梅隆银行", "8.8", "3,860", "3,977"],
+    ["6,789,054", "Charter Communications, Inc.", "特许通讯", "3.0", "1,210", "1,935"],
+    ["400,000,000", "The Coca-Cola Company", "可口可乐", "9.4", "1,299", "18,940"],
+    ["65,535,000", "Delta Air Lines, Inc.", "达美航空", "9.6", "2,860", "3,270"],
+    ["18,784,698", "The Goldman Sachs Group, Inc.", "高盛", "4.9", "2,380", "3,138"],
+    ["50,661,394", "JPMorgan Chase & Co.", "摩根大通", "1.5", "5,605", "4,946"],
+    ["24,669,778", "Moody’s Corporation", "穆迪", "12.9", "248", "3,455"],
+    ["47,890,899", "Southwest Airlines Co.", "西南航空", "8.7", "2,005", "2,226"],
+    ["21,938,642", "United Continental Holdings Inc.", "联合大陆航空", "8.1", "1,195", "1,837"],
+    ["146,346,999", "U.S. Bancorp", "美国合众银行", "9.1", "5,548", "6,688"],
+    ["43,387,980", "USG Corporation", "USG 公司", "31.0", "836", "1,851"],
+    ["449,349,102", "Wells Fargo & Company", "富国银行", "9.8", "10,639", "20,706"],
+    ["Others", "其他持仓", "—", "—", "16,201", "22,423"],
+    ["Total Common Stocks Carried at Market", "普通股投资合计（按市值）", "—", "—", "102,867", "172,757"]
+   ]
+  },
+  "text_fixups": [
+   ["$20.6 billionloss", "$20.6 billion loss"],
+   ["there issome benefit", "there is some benefit"],
+   ["we have beenpaid", "we have been paid"]
+  ],
+  "para_fixups": {
+   "01-027": null,
+   "01-028": "| Company | Ownership | Dividends(1) | Retained Earnings(2) |\n|---|---:|---:|---:|\n| American Express | 17.9% | $237 | $997 |\n| Apple | 5.4% | $745 | $2,502 |\n| Bank of America | 9.5% | $551 | $2,096 |\n| Coca-Cola | 9.4% | $624 | ($21) |\n| Wells Fargo | 9.8% | $809 | $1,263 |\n| **Total** |  | **$2,966** | **$6,837** |",
+   "01-029": null,
+   "04-003": null,
+   "04-004": "| Year | Float (in $ millions)* |\n|---|---:|\n| 1970 | $39 |\n| 1980 | $237 |\n| 1990 | $1,632 |\n| 2000 | $27,871 |\n| 2010 | $65,832 |\n| 2018 | $122,732 |",
+   "05-001": null
+  }
+ }
+}

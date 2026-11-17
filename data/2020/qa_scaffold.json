@@ -1,0 +1,381 @@
+{
+ "questions": [
+  {
+   "n": "29",
+   "session": "afternoon",
+   "chapter_title": "Buffett confirms all airline shares were sold",
+   "asker": "Becky Quick",
+   "question_en": "The first question, though, comes from one that just came in based on the comments that you were actually saying. This is a question that comes from William Lewis. He said, \"Please, did I understand correctly Mr. Buffett to say that Berkshire Hathaway sold its interest in four different airlines, and if so, can you name them? Can the names of those airlines be identified?\"",
+   "turn_count": 13,
+   "words": 678
+  },
+  {
+   "n": "30",
+   "session": "afternoon",
+   "chapter_title": "You need the right psychology to buy stocks",
+   "asker": "Becky Quick",
+   "question_en": "The next question comes from Robert Tomas, from Toronto, Canada, and he says, \"Warren, why are you recommending listeners to buy now, yet you're not comfortable buying now, as evidenced by your huge cash position?\"",
+   "turn_count": 2,
+   "words": 722
+  },
+  {
+   "n": "31",
+   "session": "afternoon",
+   "chapter_title": "April's $426M in stock buys was meaningless",
+   "asker": "Becky Quick",
+   "question_en": "Warren, the next question comes from Scott Kelly. And he writes in based on the numbers you just put up. He said, \"What did you spend the $426 million on equities in April? Was that adding to existing positions? Or was that initiating new positions?\"",
+   "turn_count": 2,
+   "words": 262
+  },
+  {
+   "n": "32",
+   "session": "afternoon",
+   "chapter_title": "We haven't seen any attractive deals to provide capital",
+   "asker": "Becky Quick",
+   "question_en": "All right, this next question comes from Lee Yan Dar, and his question is, \"In the last financial crisis, Berkshire acted as a lender of support for eight different deals. Despite the injection of expensive capital through preferred stocks and securing warrants, these companies were, in fact, paying for the sign of confidence from Berkshire in the midst of a crisis. And that was invaluable. \"Today we have QE infinity, low interest rates, and hungry hedge funds, even though the economy has deteriorated rapidly over the last few months. Why have we not acted as a lender of support?\"",
+   "turn_count": 4,
+   "words": 864
+  },
+  {
+   "n": "33",
+   "session": "afternoon",
+   "chapter_title": "We won't subsidize our companies with shareholder money",
+   "asker": "Becky Quick",
+   "question_en": "That gets kind of to another question that came in from Mark McNicholas in Chicago, Illinois. He says Berkshire itself has a Fort Knox-like balance sheet, but some of its operating companies may be tight on cash during the pandemic. Would Berkshire consider sending cash to its operating companies to, one, ensure that they can get through the pandemic and, two, allow them to increase market share while their competitors struggle?",
+   "turn_count": 4,
+   "words": 879
+  },
+  {
+   "n": "34",
+   "session": "afternoon",
+   "chapter_title": "Berkshire may have short-term layoffs but expects long-term job gains",
+   "asker": "Becky Quick",
+   "question_en": "All right, this next question is one that Greg, you actually touched on the answer to this to some extent, but maybe the two of you could expand on it. It comes from Richard Sercer from Tucson, Arizona. He says, \"Berkshire's annual report indicated that Berkshire had 391,539 employees at the end of 2019. Which areas of our operations have already been hardest hit, or will be, by the coronavirus pandemic? And what are the implications for the continued employment of those people?",
+   "turn_count": 6,
+   "words": 780
+  },
+  {
+   "n": "35",
+   "session": "afternoon",
+   "chapter_title": "Only very small Berkshire subsidiaries may not reopen",
+   "asker": "Becky Quick",
+   "question_en": "This next question comes from Drew Johnson, who says that he's a longtime shareholder who has attended a couple of meetings. He says in an interview on April 17th, Charlie mentioned that some small businesses owned by Berkshire would not reopen after the pandemic eases. Can you elaborate on which businesses might be impacted?",
+   "turn_count": 8,
+   "words": 590
+  },
+  {
+   "n": "36",
+   "session": "afternoon",
+   "chapter_title": "Selling or closing underperforming subsidiaries is not a new policy for Berkshire",
+   "asker": "Becky Quick",
+   "question_en": "This next question is a follow up on that. It comes from Chris Fried of Philadelphia. And he says, \"It's been a long-term policy at Berkshire to not sell or close any ongoing subsidiaries as long as their business prospects weren't a money hole. \"Over the last year,\" he points out, \"The sale of Berkshire Hathaway Media, and then Charlie's comments from that interview, saying that several small Berkshire subsidiaries will not be opening when the coronavirus lockdown is lifted. \"So, should shareholders assume that Berkshire has now changed its long-term policy in regards to keeping underperforming subsidiaries?\"",
+   "turn_count": 2,
+   "words": 460
+  },
+  {
+   "n": "37",
+   "session": "afternoon",
+   "chapter_title": "Precision Castpart's future is tied to uncertainty for Boeing",
+   "asker": "Becky Quick",
+   "question_en": "This next question comes from Eric LeFante, and it's directed to Greg. He asks, \"How is Precision Castparts handling the severe slowdown in the aerospace industry?\"",
+   "turn_count": 3,
+   "words": 504
+  },
+  {
+   "n": "38",
+   "session": "afternoon",
+   "chapter_title": "COVID-19's effect on GEICO",
+   "asker": "Becky Quick",
+   "question_en": "This next question is for Warren. \"Do you think GEICO will experience unusually high profitability in 2020 due to the reduced amount of driving, even after giving customers a 15 percent credit?\"",
+   "turn_count": 2,
+   "words": 393
+  },
+  {
+   "n": "39",
+   "session": "afternoon",
+   "chapter_title": "Berkshire insurance subsidiaries don't have big COVID-19 risk",
+   "asker": "Becky Quick",
+   "question_en": "This next question comes from Stephen Tedder. He's a shareholder in Atlanta, Georgia, and he says, \"Would you please help us understand the effects of COVID-19 on our insurance businesses. Other insurance companies have reported losses from boosting reserves for future insurance claims that they expect to be paying as a result of coronavirus. \"Yet in Berkshire's 10-Q released this morning, we do not appear to have reported much of these future expected losses. Can you tell us why this is the case? What kind of risks Berkshire is underwriting that allows us not to be affected by the pandemic? Or conversely, what we are writing that might be?\"",
+   "turn_count": 2,
+   "words": 717
+  },
+  {
+   "n": "40",
+   "session": "afternoon",
+   "chapter_title": "We would sell pandemic insurance \"at the right price\"",
+   "asker": "Becky Quick",
+   "question_en": "Steven Stoller from Atlanta, who says he's a 10-year Berkshire shareholder, writes in and he says, \"Do you see Berkshire offering pandemic coverage in future insurance policies?\"",
+   "turn_count": 2,
+   "words": 349
+  },
+  {
+   "n": "41",
+   "session": "afternoon",
+   "chapter_title": "Berkshire will still do great deals after Buffett and Munger",
+   "asker": "Becky Quick",
+   "question_en": "This next question is for Greg and it comes from a shareholder named Todd Flaska. He says, \"I don't expect Berkshire to outperform the S&P 500 during good times. However, I remain a long-term investor because of the huge war chest that can be deployed during the downturns in the market like we're seeing right now. \"Warren has been brilliant at negotiating mutually favorable deals with companies that have somewhat urgent capital needs during these downtimes. These opportunities may only come about once a decade. There's a small window of time for these deals. They all come at once, and you don't really know if you're at the bottom of the market when the deals start coming. \"Will Berkshire be able to continue this approach when Warren and Charlie are no longer at the helm?\"",
+   "turn_count": 3,
+   "words": 421
+  },
+  {
+   "n": "42",
+   "session": "afternoon",
+   "chapter_title": "No Berkshire businesses have received government \"bailout\" money",
+   "asker": "Becky Quick",
+   "question_en": "All right, this next question comes from Max Rudolph in Omaha, Nebraska. And he asks if Berkshire or any of its fully-owned businesses have participated in any of the bailouts from the Fed or the Treasury?",
+   "turn_count": 3,
+   "words": 118
+  },
+  {
+   "n": "43",
+   "session": "afternoon",
+   "chapter_title": "With COVID-19, the future is a \"huge unknown\"",
+   "asker": "Becky Quick",
+   "question_en": "This is a similarly related question. It comes From Seth Freiden, who says, \"As a long-term shareholder of Berkshire B shares, I'd like to know Warren's viewpoint around smaller holdings, specifically Oriental Trading Company and Nebraska Furniture Mart, that are based in your hometown of Omaha.\" He imagines that those smaller business units have been adversely impacted by COVID shelter-in-place mandates. So he would like to know if Oriental Trading, or other small business units, applied for PPP (Small Business Administration Paycheck Protection Program) loans or participated in those acts? And if they didn't qualify for a loan or didn't participate, then how will Berkshire support those smaller businesses to make sure that they can continue to employ their employees?",
+   "turn_count": 6,
+   "words": 1170
+  },
+  {
+   "n": "44",
+   "session": "afternoon",
+   "chapter_title": "Index funds are still better than paying big fees to Wall Street",
+   "asker": "Becky Quick",
+   "question_en": "Warren, a moment ago, you mentioned that you still are recommending that people invest in an S&P 500 index fund. Let me ask this question that came in from Kevin. He says, \"The last few weeks, we've been hearing from active money managers that the day of passing — passive investing is over, the historical safety of investing in an index fund long-term is gone. \"Would you please provide your thoughts on this topic? Particularly in regards to an investment time span of 10 years?\"",
+   "turn_count": 2,
+   "words": 460
+  },
+  {
+   "n": "45",
+   "session": "afternoon",
+   "chapter_title": "Berkshire won't always beat the S&P, but it's a strong company",
+   "asker": "Becky Quick",
+   "question_en": "I got a number of variations on this next question, some more polite than others. This one's right down the middle. This is from Mark Blakely, who writes in from Tulsa, Oklahoma. And he says, \"Like many, I'm a proud Berkshire Hathaway shareholder. However, in comparing the performance of Berkshire with the S&P 500 over the last five, 10, or 15 years, I've been disappointed in Berkshire's underperformance. \"Even year-to-date, Berkshire is trailing the S&P 500 by 8 percent. To what would you attribute Berkshire's underperformance? While I can't imagine ever selling my Berkshire stock, at some point, money is money.\"",
+   "turn_count": 9,
+   "words": 950
+  },
+  {
+   "n": "46",
+   "session": "afternoon",
+   "chapter_title": "Ajit Jain is great at insurance, but doesn't do capital allocation",
+   "asker": "Becky Quick",
+   "question_en": "I want to ask this question that came in, because I think some people may have had a misinterpretation about something you said a few minutes ago. This is the benefit of being able to get these questions real-time. But a few moments ago, you were talking about the people at the company who will be allocating capital after you and Charlie are no longer doing it. And you mentioned that you've got Todd (Combs), Ted (Weschler), and Greg all doing that. But I've gotten a few questions that read similar to this. This one's from Edward Popoola in New York City, who says, \"Dear Warren, I noticed you didn't mention Ajit Jain when you reeled off your list of future management. Is he out of the picture?\"",
+   "turn_count": 2,
+   "words": 359
+  },
+  {
+   "n": "47",
+   "session": "afternoon",
+   "chapter_title": "Depreciation of assets at Berkshire Hathaway Energy",
+   "asker": "Becky Quick",
+   "question_en": "Greg, let me ask you one of these capital allocation questions. This one comes from Matt Libel, and he says, \"Berkshire directed 46 percent of capital expenditure in 2019 to Berkshire Hathaway Energy. Can you walk us through, with round numbers, how you think differences in capex spending versus economic depreciation versus GAAP depreciation, and help explain the timeframe over which we should recognize the contract — the contractive return on equity from these large investments, as we are shareholders in — as we, as shareholders, are making in Berkshire Hathaway Energy.\"",
+   "turn_count": 5,
+   "words": 812
+  },
+  {
+   "n": "48",
+   "session": "afternoon",
+   "chapter_title": "Occidental deal hurt by unexpected oil price plunge",
+   "asker": "Becky Quick",
+   "question_en": "All right, this next question comes from Jason (Plawner) in New Jersey. \"As both a Berkshire and Occidental shareholder I was encouraged to see your investment in the company, but with passing weeks, it became evident that your investment facilitated Occidental management's ability to avoid a shareholder vote on the Anadarko acquisition, a very shareholder unfriendly outcome. \"This deal proved to be irresponsible and expensive from an OXY perspective, and ultimately, very value destructive for OXY shareholders. In my view, it also permanently hurt Berkshire's reputation in the marketplace. \"Please comment on this unfortunate outcome and tell me why OXY shareholders and other market observers shouldn't feel this way.\"",
+   "turn_count": 2,
+   "words": 561
+  },
+  {
+   "n": "49",
+   "session": "afternoon",
+   "chapter_title": "Low prices pose a risk to oil equity investments",
+   "asker": "Becky Quick",
+   "question_en": "Let me follow up with this one, and this one comes in from Mohnish Bahl, who says, \"Is there a risk of permanent loss of capital in the oil equity investments?\"",
+   "turn_count": 2,
+   "words": 328
+  },
+  {
+   "n": "50",
+   "session": "afternoon",
+   "chapter_title": "No \"surprise\" liabilities in Berkshire's stock derivatives contracts",
+   "asker": "Becky Quick",
+   "question_en": "All right, this question comes from Bob (Coleman). He says, \"Warren, could you bring us up to date with the status of your equity put contracts? Sourcing the 2019 — \"",
+   "turn_count": 6,
+   "words": 653
+  },
+  {
+   "n": "51",
+   "session": "afternoon",
+   "chapter_title": "Berkshire will stay intact after Buffett",
+   "asker": "Becky Quick",
+   "question_en": "OK, thanks. And you mentioned a few minutes ago that you're very concerned about Berkshire's long-term health, too. This question came in from Drew Estes in Atlanta, Georgia, who says, \"There's already speculation of a post-Buffett breakup of Berkshire, and given the sway carried by modern activists, the speculation should be taken seriously. \"Many long-term owners see the folly in this view. A $25 billion auxiliary earnings stream provides a lot of flexibility when investing insurance float. \"On our, and your estate's, behalf, could you more forcefully make the case of maintaining Berkshire's current architecture? If you don't, that responsibility will fall on an unknown set of shoulders with far less credibility>'",
+   "turn_count": 3,
+   "words": 661
+  },
+  {
+   "n": "52",
+   "session": "afternoon",
+   "chapter_title": "Big question: Can U.S. keep issuing money without consequences?",
+   "asker": "Becky Quick",
+   "question_en": "All right, this question comes from Robb Grandish in Washington, D.C. He says, \"Interest rates are negative in much of Europe, also in Japan. Warren has written many times that the value of Berkshire's insurance companies is derived from the fact that policyholders pay up front creating insurance float, on which Berkshire gets to earn interest. \"If interest rates are negative, then collecting money up front will be costly rather than profitable. If interest rates are negative, then the insurance float is no longer a benefit but a liability. \"Can you please discuss how Berkshire's insurance companies would respond if interest rates became negative in the United States?\"",
+   "turn_count": 4,
+   "words": 667
+  },
+  {
+   "n": "53",
+   "session": "afternoon",
+   "chapter_title": "Businesses that don't need a lot of capital are better",
+   "asker": "Becky Quick",
+   "question_en": "All right, this question comes from Adam Schwartz in Miami, Florida. And he says Berkshire is the largest holding in his partnership, which also houses most of their net worth. He says, \"Berkshire's invested in many capital-intensive businesses through the years, railroads as an example. How do you think about the inflationary, or even deflationary, risks for all of the capital-intensive businesses? And could this prove to be an existential problem for businesses?\" \"I'm kind of referencing what you were just talking about, that eventually the bill for the debts being issued comes due. Will it eventually come from all businesses through some combination of higher tax rates on corporations, increased wages for the lower-middle classes?\"",
+   "turn_count": 6,
+   "words": 1011
+  },
+  {
+   "n": "54",
+   "session": "afternoon",
+   "chapter_title": "U.S. can't default on its debt, but inflation is a risk",
+   "asker": "Becky Quick",
+   "question_en": "All right, this question comes from Charlie Wang. He's a shareholder in San Francisco. He says, \"Given the unprecedented time of the economy and the debt level, could there be any risks and consequences of the U.S. government defaulting on its bonds?\"",
+   "turn_count": 2,
+   "words": 404
+  },
+  {
+   "n": "55",
+   "session": "afternoon",
+   "chapter_title": "Stock buybacks aren't immoral, but they can be stupid",
+   "asker": "Becky Quick",
+   "question_en": "Emphasis on trick. This question comes from David Kass. He is a clinical professor of finance at the University of Maryland. And he says, \"Berkshire has invested in many companies with stock buyback programs. Recently there's been a backlash against buybacks. What are your views on this subject?\"",
+   "turn_count": 6,
+   "words": 1144
+  },
+  {
+   "n": "56",
+   "session": "afternoon",
+   "chapter_title": "Convert A shares to B shares if you want a smaller tax liability when cashing out",
+   "asker": "Becky Quick",
+   "question_en": "All right, here's a question from Lou — Lou Bogart in Boca Raton, Florida. He says, \"I'm a longtime shareholder with a concern as I head into retirement. I understand the theory that splitting shares does nothing for the value of shares. However, with the extremely high price on A shares, when I wish to draw down some money on my portfolio in retirement, I'm facing a large tax hit. \"Say the average price has been about $300,000 this year, and I'm sitting on a $200,000 capital gains liability for each share. If I need $60,000 in additional cash during my retirement, I need to sell a full share and get hit with $200,000 tax liability. \"If you would split the stock 10-for-1, I could sell two $30,000 shares and keep my tax liability at a more manageable 40,000. I could also maintain more of my investment in Berkshire.\" He said, \"Have you thought about this? In retrospect, I should have bought B shares but didn't think about it the time.\"",
+   "turn_count": 2,
+   "words": 499
+  },
+  {
+   "n": "57",
+   "session": "afternoon",
+   "chapter_title": "No \"special problems in the banking industry now\"",
+   "asker": "Becky Quick",
+   "question_en": "This is one that comes from Thomas Lin in Taiwan. He says, \"Warren once said that banking is a good business if you don't do dumb things on the asset side. Given that the pandemic might put a lot of pressure on the loans, dumb things that got done in the past few years are likely to explode. \"Through reading annual reports, 10-Qs, and other public information, what clues are you looking for to decide whether a bank is run by a true banker who avoids doing dumb things?\"",
+   "turn_count": 4,
+   "words": 761
+  },
+  {
+   "n": "58",
+   "session": "afternoon",
+   "chapter_title": "Despite its drop, Berkshire's stock price hasn't made buybacks compelling",
+   "asker": "Becky Quick",
+   "question_en": "All right. So, this question — I was looking for one of these, because I got several questions that came in similar to this — I was looking for one of these a moment ago. This one's from Andrew Wenke. He says, \"Can you ask Warren why he didn't purchase — repurchase — Berkshire shares in March when they dropped to a price that was 30 percent lower than the price that he had repurchased shares for in January and February?\"",
+   "turn_count": 5,
+   "words": 414
+  },
+  {
+   "n": "59",
+   "session": "afternoon",
+   "chapter_title": "Don't owe money on your credit card",
+   "asker": "Becky Quick",
+   "question_en": "This question comes from three investors in Israel, Lidor Zloof, Yossi Zloof, and Dan Gorfung. They want to know about the credit card industry. It says, \"How do you explain the rise in the average credit card interest rate in recent years compared to the federal funds rate? What are the forces that you think might keep it at or around current levels, and what are the forces that might drive it lower in the future?\"",
+   "turn_count": 6,
+   "words": 748
+  },
+  {
+   "n": "60",
+   "session": "afternoon",
+   "chapter_title": "\"I'm 100% for taking care of people\" hurt economically by COVID-19 shutdowns",
+   "asker": "Becky Quick",
+   "question_en": "Warren, this question is from Lindsay Schumacher.",
+   "turn_count": 8,
+   "words": 438
+  },
+  {
+   "n": "61",
+   "session": "afternoon",
+   "chapter_title": "As a prosperous nation, we need to take better care of people fighting COVID-19",
+   "asker": "Becky Quick",
+   "question_en": "Warren, this question comes from Bill Murray, the actor, who's also a shareholder in Berkshire. He says, \"This pandemic will graduate a new class of war veterans, health care, food supply, deliveries, community services. So many owe so much to these few. How might this great country take our turn and care for all of them?\"",
+   "turn_count": 5,
+   "words": 926
+  },
+  {
+   "n": "62",
+   "session": "afternoon",
+   "chapter_title": "Capitalism needs government to make sure everyone participates in prosperity",
+   "asker": "Becky Quick",
+   "question_en": "Gentlemen, I'll make this the last question. It comes from Phil King. He says, \"Many people in the press and politics are questioning the validity of capitalism. What can you say to them that might prompt them to take a look at capitalism more favorably?\"",
+   "turn_count": 3,
+   "words": 531
+  },
+  {
+   "n": "63",
+   "session": "afternoon",
+   "chapter_title": "\"Smartness does not necessarily equate to wisdom\"",
+   "asker": "Becky Quick",
+   "question_en": "Hey Warren —",
+   "turn_count": 9,
+   "words": 297
+  }
+ ],
+ "batches": [
+  {
+   "file": "a01.json",
+   "n": [
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35"
+   ]
+  },
+  {
+   "file": "a02.json",
+   "n": [
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42"
+   ]
+  },
+  {
+   "file": "a03.json",
+   "n": [
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49"
+   ]
+  },
+  {
+   "file": "a04.json",
+   "n": [
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56"
+   ]
+  },
+  {
+   "file": "a05.json",
+   "n": [
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,636 @@
+{
+ "questions": [
+  {
+   "n": "4",
+   "session": "morning",
+   "chapter_title": "Nothing's changed - Buffett's still \"semi-retired\"",
+   "asker": "Warren Buffett",
+   "question_en": "So with all those happy words, we will move on and start the questioning, and we'll start with Carol.",
+   "turn_count": 5,
+   "words": 525
+  },
+  {
+   "n": "5",
+   "session": "morning",
+   "chapter_title": "Precision Castparts is \"a very good business\"",
+   "asker": "Warren Buffett",
+   "question_en": "OK, Jonathan Brandt.",
+   "turn_count": 9,
+   "words": 609
+  },
+  {
+   "n": "6",
+   "session": "morning",
+   "chapter_title": "Trade benefits are huge, so U.S. and China won't do something \"foolish\"",
+   "asker": "Audience Member",
+   "question_en": "Hello. This is Chao (PH) from Wuxi, China, (Inaudible) Capital. I've been to the meeting for 12 years. Wish you and Charlie good health, so we could see you both from meeting for 12 more years.",
+   "turn_count": 8,
+   "words": 830
+  },
+  {
+   "n": "7",
+   "session": "morning",
+   "chapter_title": "Deals don't depend on Buffett: \"The reputation belongs to Berkshire now\"",
+   "asker": "Becky Quick",
+   "question_en": "This question comes from Kirk Thompson. He says, \"Warren, in this year's annual letter to shareholders, you referenced both cheap debt and a willingness by other companies to leverage themselves as competitive examples as to why it's hard to get more acquisition deals done. \"It seems like the trust in — and prestige of doing a deal with Warren Buffett and Charlie Munger allow Berkshire to get a hometown discount and beat out other firms that might pay a little more to a prospective seller. \"Have you given thought to having other Berkshire managers have more public exposure, so future generations of successful business owners continue to bring deal opportunities to Berkshire like they have in prior decades?\"",
+   "turn_count": 9,
+   "words": 887
+  },
+  {
+   "n": "8",
+   "session": "morning",
+   "chapter_title": "\"We don't know what we're doing\" in cyber insurance",
+   "asker": "Warren Buffett",
+   "question_en": "Gary Ransom.",
+   "turn_count": 11,
+   "words": 980
+  },
+  {
+   "n": "9",
+   "session": "morning",
+   "chapter_title": "Capital allocation in the public sector",
+   "asker": "Audience Member",
+   "question_en": "Wally Obermeyer, Obermeyer Wood Investment Counsel, Aspen, Colorado. Warren and Charlie, you two have demonstrated great talent in private sector capital allocation and shown the world the power of excellence in this area. Do you think there is a similar opportunity for outstanding capital allocation in the public sector, at both the state and federal levels? And if so, what approach and/or changes would you suggest for society to achieve these benefits?",
+   "turn_count": 4,
+   "words": 166
+  },
+  {
+   "n": "10",
+   "session": "morning",
+   "chapter_title": "Wells Fargo will emerge stronger after its \"big mistake\"",
+   "asker": "Warren Buffett",
+   "question_en": "OK, Andrew?",
+   "turn_count": 9,
+   "words": 1532
+  },
+  {
+   "n": "11",
+   "session": "morning",
+   "chapter_title": "\"I like to think I'll be missed a little bit, but you won't notice it\"",
+   "asker": "Warren Buffett",
+   "question_en": "OK. Gregg, Gregg Warren.",
+   "turn_count": 5,
+   "words": 735
+  },
+  {
+   "n": "12",
+   "session": "morning",
+   "chapter_title": "Buffett talks to Ajit Jain about insurance pricing because it's fun",
+   "asker": "Audience Member",
+   "question_en": "I'm Todd Lichter (PH) from Boulder, Colorado. Mr. Buffett, are you still involved in pricing decisions at See's Candies and The Buffalo News? And with what other Berkshire subsidiaries do you take more than a hands-off approach?",
+   "turn_count": 9,
+   "words": 605
+  },
+  {
+   "n": "13",
+   "session": "morning",
+   "chapter_title": "Putting business values in income account is \"enormously deceptive\"",
+   "asker": "Warren Buffett",
+   "question_en": "OK, Carol.",
+   "turn_count": 5,
+   "words": 823
+  },
+  {
+   "n": "14",
+   "session": "morning",
+   "chapter_title": "McLane profits hurt by severe competitive pressure",
+   "asker": "Warren Buffett",
+   "question_en": "OK. Jonathan.",
+   "turn_count": 4,
+   "words": 540
+  },
+  {
+   "n": "15",
+   "session": "morning",
+   "chapter_title": "Health care costs partnership with Amazon and JPMorgan",
+   "asker": "Audience Member",
+   "question_en": "Good morning, Charlie and Warren. I know that seems a little bit out of order, but I'm a huge fan of yours, Charlie, mostly for your 25 Cognitive Biases. I'm from Seattle, Washington. I run a one-person digital marketing firm that specializes in Facebook ads and email marketing. I use these a lot. I — your breakdown of Coca-Cola was really, really solid. And I use that as reference when looking to how to understand the mechanics of my clients' products and how to promote them. So I'm fairly certain that your cognitive biases work for internet-related companies. Now that you're partnering with Amazon [and JPMorgan] on health care, I'm curious, have you started to understand how to apply these biases to internet-related companies? Or is there another set of tools you use to decide if you understand a business? Because you guys talk a lot about not investing in businesses that you don't understand.",
+   "turn_count": 7,
+   "words": 1170
+  },
+  {
+   "n": "16",
+   "session": "morning",
+   "chapter_title": "Weschler and Combs \"slightly ahead\" of S&P",
+   "asker": "Becky Quick",
+   "question_en": "This question comes from David Rolfe, who is with Wedgewood Partners, and has been — the company — has been shareholders in Berkshire since 1989. The stock is currently the largest holding in their stocks — 18 stocks. He asks this question: \"Over the past two years, you have listed the individual fund-of-funds performance from Protégé Partners. When will you start showing the annual performance on 25 billion that Ted [Weschler] and Todd [Combs] manage? Can you state if either Ted or Todd has beaten the S&P 500 index over the last five years?",
+   "turn_count": 7,
+   "words": 402
+  },
+  {
+   "n": "17",
+   "session": "morning",
+   "chapter_title": "GEICO is on a good growth and profit track",
+   "asker": "Warren Buffett",
+   "question_en": "OK. Gary?",
+   "turn_count": 6,
+   "words": 623
+  },
+  {
+   "n": "18",
+   "session": "morning",
+   "chapter_title": "Munger on steel tariffs: \"Even Donald Trump can be right\"",
+   "asker": "Audience Member",
+   "question_en": "Good morning, Warren Buffett and Charlie Munger. My name is Ethan Mupposa (PH), and I am from Omaha, Nebraska. My question is, how will Donald Trump's tariffs affect the manufacturing business of Berkshire Hathaway?",
+   "turn_count": 5,
+   "words": 908
+  },
+  {
+   "n": "19",
+   "session": "morning",
+   "chapter_title": "Buffett won't impose his political opinions on Berkshire",
+   "asker": "Warren Buffett",
+   "question_en": "Andrew?",
+   "turn_count": 10,
+   "words": 629
+  },
+  {
+   "n": "20",
+   "session": "morning",
+   "chapter_title": "\"Very unlikely\" Berkshire would pay a special dividend",
+   "asker": "Warren Buffett",
+   "question_en": "OK, Gregg. (Laughter)",
+   "turn_count": 9,
+   "words": 787
+  },
+  {
+   "n": "21",
+   "session": "morning",
+   "chapter_title": "Munger is more interested than Buffett in Chinese stocks",
+   "asker": "Audience Member",
+   "question_en": "Hi, good morning, Mr. Buffett and Mr. Munger. My name is Stephie Yu from Horizon Insights, a China-focused research firm based in Shanghai. So I have a lot of mutual fund clients in China, who are very young — relatively younger — and they manage a smaller portion of funds. So my question is, if you only have $1 billion in your portfolio today, how would you change your investments? Would you consider more investment opportunities in emerging markets such as China? Thank you.",
+   "turn_count": 13,
+   "words": 558
+  },
+  {
+   "n": "22",
+   "session": "morning",
+   "chapter_title": "Munger: Keep the faith and don't sell your stock when we're gone",
+   "asker": "Warren Buffett",
+   "question_en": "Jonathan?",
+   "turn_count": 12,
+   "words": 320
+  },
+  {
+   "n": "23",
+   "session": "morning",
+   "chapter_title": "\"Duracell should be earning more money than it is now\"",
+   "asker": "Warren Buffett",
+   "question_en": "Jonathan.",
+   "turn_count": 6,
+   "words": 391
+  },
+  {
+   "n": "24",
+   "session": "morning",
+   "chapter_title": "Long-term bonds are \"almost ridiculous\" at current rates",
+   "asker": "Audience Member",
+   "question_en": "Good morning. And I have a question related to the bond market — U.S. Treasury bond market. And my name is Ola Larsson (PH). I live in the San Francisco bay area. And I never worked in the financial industry. I started out buying penny mining stocks on the Vancouver Stock Exchange. And then decades later, I got married. And my wife convinced me to buy Berkshire shares. That was probably a good decision. (Laughter) So my question is, I read the newspapers about the Federal Reserve and the inflation numbers. And there must be an increase supply of Treasury bonds that must go to auction. And my question is how would — what do you expect that to impact yield or interest rate?",
+   "turn_count": 9,
+   "words": 1021
+  },
+  {
+   "n": "25",
+   "session": "morning",
+   "chapter_title": "\"A bureaucracy is sort of like a cancer\"",
+   "asker": "Becky Quick",
+   "question_en": "This question comes from Angus Hanton (PH), who — he and his wife are based in London, and he says they've been shareholders in Berkshire Hathaway for over 30 years. He says, \"We have all read about the zero-based budgeting that has been so effective with Kraft Heinz and other investments that you've done with 3G Partners. Can we expect these cost-reduction techniques to be used by your managers in other parts of the Berkshire Hathaway enterprise?\"",
+   "turn_count": 8,
+   "words": 721
+  },
+  {
+   "n": "26",
+   "session": "morning",
+   "chapter_title": "We’re experimenting with lower-cost commercial insurance",
+   "asker": "Warren Buffett",
+   "question_en": "OK. Gary.",
+   "turn_count": 11,
+   "words": 537
+  },
+  {
+   "n": "27",
+   "session": "morning",
+   "chapter_title": "Health care partnership is attacking a huge \"industry moat\"",
+   "asker": "Audience Member",
+   "question_en": "Austin Merriam, from Jacksonville, Florida. Mr. Buffett, with the recent news of the partnership between you, Mr. [Jeff] Bezos, and Mr. [Jamie] Dimon, to challenge the health care industry and the self-admitted difficulties you are running across, this would lead me to believe the industry has higher barriers to entry than may have originally been hypothesized; a larger moat, if you will. Would that justify a higher earnings multiple for established players in the industries, such as PBMs, for example?",
+   "turn_count": 4,
+   "words": 297
+  },
+  {
+   "n": "28",
+   "session": "morning",
+   "chapter_title": "Buffett vs Elon Musk on whether competitive moats are \"lame\"",
+   "asker": "Warren Buffett",
+   "question_en": "Andrew?",
+   "turn_count": 4,
+   "words": 419
+  },
+  {
+   "n": "29",
+   "session": "morning",
+   "chapter_title": "Not surprised \"if we find good uses\" for Berkshire Hathaway Energy's capital",
+   "asker": "Warren Buffett",
+   "question_en": "OK, Gregg?",
+   "turn_count": 5,
+   "words": 635
+  },
+  {
+   "n": "30",
+   "session": "morning",
+   "chapter_title": "\"We do expect that normalized earning power to increase over time\"",
+   "asker": "Audience Member",
+   "question_en": "I'm Richard Sercer (PH) from Tucson, Arizona. \"At Berkshire what counts most are increases in our normalized per-share earning power.\" That was in your last letter. What is our normalized per-share earning power, as you estimate it?",
+   "turn_count": 9,
+   "words": 599
+  },
+  {
+   "n": "31",
+   "session": "morning",
+   "chapter_title": "No \"unusual profits involved in being a real estate agent\"",
+   "asker": "Carol Loomis",
+   "question_en": "This question is from Daniel Kane (PH) of Atlanta. \"Your annual letter this year pointed out that Berkshire has become a leader in real estate brokerage in the United States. Congratulations. That is a significant feat in less than 20 years. \"But let me mention a sticky point. If fees charged by stock market active managers are a drag on investor performance, I would argue that real estate commissions are no different, and perhaps more detrimental, especially when one considers the lifetime effects of large, forgone, upfront cash flows and the power of compounding interest. I would be pleased to hear your rejoinder on the points I've raised.\"",
+   "turn_count": 4,
+   "words": 877
+  },
+  {
+   "n": "32",
+   "session": "morning",
+   "chapter_title": "Some Kraft Heinz products \"enjoy fairly healthy\" growth",
+   "asker": "Warren Buffett",
+   "question_en": "OK, we'll have one more question before we break. Jonathan?",
+   "turn_count": 3,
+   "words": 293
+  },
+  {
+   "n": "34",
+   "session": "afternoon",
+   "chapter_title": "Why Berkshire won't be buying Microsoft stock",
+   "asker": "Audience Member",
+   "question_en": "Hi, I'm Theresa Lukasinski (PH). I'm from Omaha, Nebraska. And I have a question about Microsoft. You have gotten into the tech world with buying Apple. You have Mr. [Bill] Gates there. I'm just wondering why you've never bought Microsoft.",
+   "turn_count": 4,
+   "words": 315
+  },
+  {
+   "n": "35",
+   "session": "afternoon",
+   "chapter_title": "\"Through it all … America really, really moves ahead\"",
+   "asker": "Becky Quick",
+   "question_en": "All right, this question comes from Dave Shane (PH). He says, \"Warren, you are a big believer in the U.S. political system, the financial system, and in every American. \"You've said that regardless of who is president, the economy and the U.S. consumer will continue to prosper over the long run. All that said, do you believe that people in this country are more divided today than 50 years ago? \"Or is it just social media, and media in general, that blows this divide out of proportion? And if you do believe the divide has grown, what words of wisdom do you have to possibly help remedy it?\"",
+   "turn_count": 9,
+   "words": 926
+  },
+  {
+   "n": "36",
+   "session": "afternoon",
+   "chapter_title": "\"We’ll have a somewhat larger operation at Gen Re\"",
+   "asker": "Warren Buffett",
+   "question_en": "OK. Gary.",
+   "turn_count": 5,
+   "words": 497
+  },
+  {
+   "n": "37",
+   "session": "afternoon",
+   "chapter_title": "\"I can't reduce that to a formula for you\"",
+   "asker": "Audience Member",
+   "question_en": "Hey, Warren. Charlie. Thank you again for having us and having me. I just can't thank you guys enough and appreciate you guys enough for the body of work that you guys have delivered to us and the exemplar example that you guys have set with your principles. Thank you. (Applause) Charlie, you've mentioned that, if given the chance — or the same chance with a smaller capital base — you would still look for mispriced stock opportunities.",
+   "turn_count": 6,
+   "words": 411
+  },
+  {
+   "n": "38",
+   "session": "afternoon",
+   "chapter_title": "Why Apple and thoughts on Apple’s buybacks",
+   "asker": "Warren Buffett",
+   "question_en": "OK, Andrew?",
+   "turn_count": 6,
+   "words": 871
+  },
+  {
+   "n": "39",
+   "session": "afternoon",
+   "chapter_title": "\"I like very much our holdings of American Express\"",
+   "asker": "Warren Buffett",
+   "question_en": "OK, Gregg?",
+   "turn_count": 7,
+   "words": 1006
+  },
+  {
+   "n": "40",
+   "session": "afternoon",
+   "chapter_title": "Capital-intensive businesses are \"good enough\"",
+   "asker": "Audience Member",
+   "question_en": "Mr. Buffett, my name is Daphne Collier Starr (PH). I'm eight years old and live in New York City. I've been a shareholder for two years and this is my second annual shareholders meeting. Berkshire Hathaway's best investments on which the company built its reputation have been in very capital-efficient businesses — (laughter) — such as Coke, See's Candy, American Express, and GEICO. But recently, Berkshire has made really big investments in a few businesses that require huge capital investments to maintain and that offer only a regulated low rate of return such as — (laughter) — Burlington Northern Railroad. My question to you, Mr. Buffett, is could you please explain why Berkshire's largest recent investments have been departed from your old capital-efficient philosophy? And why specifically have you invested Burlington Northern instead of buying a capital-efficient company like American Express? (Applause)",
+   "turn_count": 11,
+   "words": 621
+  },
+  {
+   "n": "41",
+   "session": "afternoon",
+   "chapter_title": "Buffett \"surprised\" rate of decline for newspapers hasn't moderated",
+   "asker": "Warren Buffett",
+   "question_en": "OK, Carol.",
+   "turn_count": 7,
+   "words": 1085
+  },
+  {
+   "n": "42",
+   "session": "afternoon",
+   "chapter_title": "TTI has \"improved dramatically in the past year\"",
+   "asker": "Warren Buffett",
+   "question_en": "OK, Jonathan?",
+   "turn_count": 13,
+   "words": 834
+  },
+  {
+   "n": "43",
+   "session": "afternoon",
+   "chapter_title": "Phillips 66 and staying below 10 percent ownership",
+   "asker": "Audience Member",
+   "question_en": "Hi, Ben Sherber (PH), Topeka, Kansas. Just want to say, Warren and Charlie, thank you again for hosting us all. This is a great event.",
+   "turn_count": 13,
+   "words": 460
+  },
+  {
+   "n": "44",
+   "session": "afternoon",
+   "chapter_title": "Cryptocurrency craze will \"come to a bad ending\"",
+   "asker": "Becky Quick",
+   "question_en": "This question comes from Vlad Koptev (PH) in Ukraine. He says, \"Capitalization of cryptocurrency has approached that of Berkshire and Apple last year. And clearly the idea behind crypto will affect conventional banking groups where Berkshire is a shareholder. You always say you didn't go into too much detail to obtain an understanding on cryptocurrencies. So what factors caused you to say that it's a bubble?\"",
+   "turn_count": 5,
+   "words": 731
+  },
+  {
+   "n": "45",
+   "session": "afternoon",
+   "chapter_title": "Shareholders will get a lot of the corporate tax cut benefit",
+   "asker": "Warren Buffett",
+   "question_en": "OK, Gary.",
+   "turn_count": 4,
+   "words": 523
+  },
+  {
+   "n": "46",
+   "session": "afternoon",
+   "chapter_title": "Utilizing multicultural backgrounds to improve international economies, and the benefits of multiculturality",
+   "asker": "Audience Member",
+   "question_en": "Hi, Mr. Buffett and Mr. Munger. My name's Kevin and I'm from Shenzhen, China, currently studying finance and philosophy at Boston College. I have a rather broad question. In this more and more globalized world, what do you think our younger generation can do to best leverage our background and experience of both China and U.S. to create values and for the benefit two countries' economy and relationship? And what do you see valuable in a person with a multicultural background? Thank you.",
+   "turn_count": 13,
+   "words": 673
+  },
+  {
+   "n": "47",
+   "session": "afternoon",
+   "chapter_title": "Subsidiaries encouraged to offer low-cost 401(k) options",
+   "asker": "Warren Buffett",
+   "question_en": "OK, Andrew.",
+   "turn_count": 13,
+   "words": 598
+  },
+  {
+   "n": "48",
+   "session": "afternoon",
+   "chapter_title": "Berkshire's culture will continue because \"it works\"",
+   "asker": "Warren Buffett",
+   "question_en": "OK, Gregg.",
+   "turn_count": 10,
+   "words": 933
+  },
+  {
+   "n": "49",
+   "session": "afternoon",
+   "chapter_title": "Cash needed to support Berkshire insurance operations",
+   "asker": "Audience Member",
+   "question_en": "My name is Christian Marx. I'm a proud shareholder from Cologne, Germany. It is my pleasure to be here. My question relates to the Berkshire insurance operations. When I look at the quarterly balance sheets of the last two decades, I noticed a pattern that I kindly ask you to discuss. The sum of cash plus fixed income always hovers around 100 percent of the amount of insurance float. Therefore, my question is, is it fair to say that from the 128 billion of consolidated cash plus fixed income as of March, 116 billion are actually needed to support the insurance operations?",
+   "turn_count": 7,
+   "words": 629
+  },
+  {
+   "n": "50",
+   "session": "afternoon",
+   "chapter_title": "\"Amazing\" earnings in the new \"asset-light economy\"",
+   "asker": "Warren Buffett",
+   "question_en": "Carol?",
+   "turn_count": 9,
+   "words": 782
+  },
+  {
+   "n": "51",
+   "session": "afternoon",
+   "chapter_title": "\"We still feel OK\" about AIG's $10.2 retroactive premium",
+   "asker": "Warren Buffett",
+   "question_en": "Anyway, Jonathan? (Laughs)",
+   "turn_count": 3,
+   "words": 421
+  },
+  {
+   "n": "52",
+   "session": "afternoon",
+   "chapter_title": "\"We really want products where people feel like kissing you\"",
+   "asker": "Audience Member",
+   "question_en": "Good afternoon. My name's Adam Bergman with Sterling Capital in Virginia Beach, Virginia. I'm here with my daughter Michelle from Cape Henry Collegiate in Virginia Beach.",
+   "turn_count": 11,
+   "words": 1072
+  },
+  {
+   "n": "53",
+   "session": "afternoon",
+   "chapter_title": "Hostile bids aren't \"evil\" but Berkshire doesn't do them",
+   "asker": "Becky Quick",
+   "question_en": "This comes from John Hegarty (PH) at Brightstar Capital Partners, who writes, \"Warren, you're stepping down from the Kraft Heinz board at a time when the company's looking to do a large acquisition: Unilever, for example. Do you fundamentally disagree with the combative nature of hostile bids, activist investing, and competitive proxy contests?\"",
+   "turn_count": 13,
+   "words": 801
+  },
+  {
+   "n": "54",
+   "session": "afternoon",
+   "chapter_title": "Berkshire still not on radar screen of international business sellers",
+   "asker": "Warren Buffett",
+   "question_en": "Gary.",
+   "turn_count": 11,
+   "words": 519
+  },
+  {
+   "n": "55",
+   "session": "afternoon",
+   "chapter_title": "Investing \"doesn't require advanced learning\"",
+   "asker": "Audience Member",
+   "question_en": "Hi, I'm Brady Ritchie (PH) from St. Louis, Missouri. Shareholder since 1996.",
+   "turn_count": 20,
+   "words": 1267
+  },
+  {
+   "n": "56",
+   "session": "afternoon",
+   "chapter_title": "Buffett \"bullish on human race\" as women enter the workforce",
+   "asker": "Warren Buffett",
+   "question_en": "OK, Andrew.",
+   "turn_count": 12,
+   "words": 721
+  },
+  {
+   "n": "57",
+   "session": "afternoon",
+   "chapter_title": "Berkshire buybacks not limited by state insurance rules",
+   "asker": "Warren Buffett",
+   "question_en": "OK. Gregg?",
+   "turn_count": 6,
+   "words": 449
+  },
+  {
+   "n": "58",
+   "session": "afternoon",
+   "chapter_title": "Munger: \"I don't think the world is going to be changed that much by machine intelligence\"",
+   "asker": "Audience Member",
+   "question_en": "Hi, Warren and Charlie. Thank you for everything. I'm David (inaudible), an investment manager in Shanghai. I've been here for eight years. If investment is a sport in the Olympics, you are our champion team. So my question is, facing the fast-growing machine challenges, how do you see the new competition impact the capital allocation productivity in the future? For Charlie, what is the first principle of capital allocation from a general economic interest point of view? Thank you.",
+   "turn_count": 10,
+   "words": 471
+  },
+  {
+   "n": "59",
+   "session": "afternoon",
+   "chapter_title": "Munger: \"American investors are missing China\"",
+   "asker": "Audience Member",
+   "question_en": "Dear Mr. Buffett and Mr. Munger, thank you very much for hosting the meeting. It's truly been remarkable. Thank you. My name is Yen (PH), and I'm a partner at Tiger Brokers, a leading electronic brokerage firm from China. Let me rephrase that. So, I and my colleagues flew half a way from the globe with (inaudible) to be here, and it is honor, just like everyone else in the stadium, we're honored to be here. My question is, you mentioned earlier that investors don't really have to be struggling in picking the right stocks. They would do well in picking, probably, the right market and the right country. China is the second-largest economy, and probably has the biggest growth potential. Just by passively weighting a portfolio — by passively valuating a portfolio — U.S. investors are significantly underweighting China. So in your opinion, what are stopping the investors from investing in China? Thank you.",
+   "turn_count": 6,
+   "words": 516
+  },
+  {
+   "n": "60",
+   "session": "afternoon",
+   "chapter_title": "\"What Jeff Bezos has done is something close to a miracle\"",
+   "asker": "Audience Member",
+   "question_en": "My name is Dr. Sherman Silber. I'm an infertility doctor from St. Louis. And I've been a shareholder and coming to this meeting for 23 years, and I want to thank you very much for making my grandchildren very rich. (Laughter and applause) And they sometimes compare me in the medical world — infertility world — as the Berkshire Hathaway of infertility, because I'm so old and I come from a relatively small community. But I'm wondering about your interests in not just Apple, but all of the tech stocks, like Amazon and Google. Because you've avoided them, you've stated in the past, because they're complicated, you should stick with something you understand. On the other hand, Amazon and Google have what you call a very durable competitive advantage. They really hardly have any competitor. And that's true in China, too, of Alibaba and Tencent. So it seems like it's a conflict, and I'm wondering if you're going to be turning the corner and going into these tech companies that seem to have no serious competition.",
+   "turn_count": 10,
+   "words": 1155
+  },
+  {
+   "n": "61",
+   "session": "afternoon",
+   "chapter_title": "\"We already have a family office. It's sitting right here\"",
+   "asker": "Audience Member",
+   "question_en": "Hi, good afternoon. Good afternoon, Warren. Good afternoon, Charlie. And my name is Yujin. I come from China, and I work for Hen Tian Tsai Fu family office. And we are serving high-worth individual clients in China. And you two would be my dream customer. I know your shareholder Bill Gates has a family office, which, helping his wealth. So my question is, do you have a family office, and what — can we know what they do, some — anything for you? And if not, are you planning to have a family office in the future?",
+   "turn_count": 6,
+   "words": 157
+  },
+  {
+   "n": "62",
+   "session": "afternoon",
+   "chapter_title": "No \"precise formulas\" on Berkshire's incentive plans",
+   "asker": "Audience Member",
+   "question_en": "Hi Warren, Charlie. My name is Adam Mead, Mead Capital Management from Derry, New Hampshire. In the past you have touched on certain compensation arrangements with key executives. Could you please provide some specific examples of compensation arrangements within Berkshire that speak to incentivizing good behavior while not penalizing the manager for size or the relative ease or difficulty of the business or industry? Thank you.",
+   "turn_count": 13,
+   "words": 518
+  }
+ ],
+ "batches": [
+  {
+   "file": "m01.json",
+   "n": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  {
+   "file": "m02.json",
+   "n": [
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17"
+   ]
+  },
+  {
+   "file": "m03.json",
+   "n": [
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+   ]
+  },
+  {
+   "file": "m04.json",
+   "n": [
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31"
+   ]
+  },
+  {
+   "file": "m05.json",
+   "n": [
+    "32"
+   ]
+  },
+  {
+   "file": "a01.json",
+   "n": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40"
+   ]
+  },
+  {
+   "file": "a02.json",
+   "n": [
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47"
+   ]
+  },
+  {
+   "file": "a03.json",
+   "n": [
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54"
+   ]
+  },
+  {
+   "file": "a04.json",
+   "n": [
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61"
+   ]
+  },
+  {
+   "file": "a05.json",
+   "n": [
+    "62"
+   ]
+  }
+ ]
+}

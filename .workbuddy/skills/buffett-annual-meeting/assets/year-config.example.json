@@ -1,0 +1,74 @@
+{
+  "_note": "样例：结构齐全的最小配置，改写后写入 data/<year>/config.json。paths 可整段省略，默认 data/<year>/morning_zh.json 等约定路径（一年一目录）。",
+  "year": 2024,
+  "meeting": {
+    "date": "2024-05-04",
+    "date_zh": "2024 年 5 月 4 日（周六）",
+    "location": "美国内布拉斯加州奥马哈 · CHI Health Center",
+    "note": "查理·芒格于 2023 年 11 月 28 日去世后的首次年会",
+    "stage": "Warren Buffett、Greg Abel（非保险业务）、Ajit Jain（保险，仅上午场）",
+    "host": "Becky Quick（CNBC），与现场股东交替提问",
+    "agenda": "上午场约 2 小时 55 分，下午场约 1 小时 57 分",
+    "hub_url": "https://buffett.cnbc.com/2024-berkshire-hathaway-annual-meeting/",
+    "morning_url": "https://buffett.cnbc.com/video/2024/05/06/morning-session---2024-meeting.html",
+    "afternoon_url": "https://buffett.cnbc.com/video/2024/05/06/afternoon-session---2024-meeting.html"
+  },
+  "sessions": {
+    "morning": {
+      "label": "上午场",
+      "questions": [4, 5, 6],
+      "continuations": {},
+      "appendix": {
+        "3": {"label": "附件 · 一季度业绩简报", "file": "a01-q1-earnings.md", "data_key": "3"}
+      },
+      "non_qa": {"1": "—（开场／介绍董事）", "2": "—（致谢）"}
+    },
+    "afternoon": {
+      "label": "下午场",
+      "questions": [30, 31],
+      "continuations": {"40": 39},
+      "appendix": {},
+      "non_qa": {"29": "—（下午场开场）", "47": "—（闭幕）"}
+    }
+  },
+  "letter": {
+    "source_year": 2023,
+    "pdf": "2023ltr.pdf",
+    "published": "2024-02-24",
+    "published_zh": "2024 年 2 月 24 日",
+    "url": "https://www.berkshirehathaway.com/letters/2023ltr.pdf",
+    "intro_en": "The first letter written after Charlie Munger's death.",
+    "intro_zh": "芒格去世后巴菲特写的第一封信。",
+    "sections": [
+      {"id": "00", "title_en": "Charlie Munger – The Architect of Berkshire Hathaway", "title_zh": "查理·芒格——伯克希尔的设计师"},
+      {"id": "01", "title_en": "BERKSHIRE HATHAWAY INC.", "title_zh": "卷首：写给股东的报告"},
+      {"id": "06", "title_en": "The Scorecard in 2023", "title_zh": "2023 年的成绩单"}
+    ],
+    "earnings_table": {
+      "heading_en": "Item (USD millions)",
+      "insert_after": {"section": "06", "index": 0},
+      "zh_caption": "**表：2022–2023 年经营利润拆分（税后，百万美元）**",
+      "columns": ["2023", "2022"],
+      "rows": [
+        ["Insurance-underwriting", "保险承保", "5,428", "(30)"],
+        ["Operating earnings", "经营利润", "37,350", "30,853"]
+      ]
+    },
+    "performance_table": {
+      "years": [1965, 2023],
+      "compounded": ["19.8%", "10.2%"],
+      "overall": ["4,384,748%", "31,223%"],
+      "note_en": "Note: Data are for calendar years except 1965–1966 and 1967.",
+      "note_zh": "口径：1965、1966 为 9 月 30 日结束的财年，1967 为 15 个月；其余为日历年。括号为负值。"
+    },
+    "split_bullets": false,
+    "text_fixups": [],
+    "para_fixups": {}
+  },
+  "readme": {
+    "key_events": ["**向芒格致敬**：开场即缅怀查理·芒格（[上午 Q10](morning/q10-one-more-day-with-munger.md)）。"],
+    "sources": ["- **逐字稿**：CNBC 官方逐字稿，英文原文照录，仅分段并合并同一发言人的连续片段。"],
+    "gaps": ["中文要点与译文为整理稿，引用请以 CNBC 官方视频与逐字稿为准。"]
+  },
+  "transcript_note": "2024 年页面含官方逐字稿，英文原文直接照录，仅做分段与发言人整理"
+}

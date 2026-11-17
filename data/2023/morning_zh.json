@@ -1,0 +1,863 @@
+[
+ {
+  "n": 5,
+  "slug": "svb-deposits-guarantee",
+  "title_zh": "硅谷银行存款若不全额保障会怎样",
+  "asker_zh": "贝基·奎克代股东提问（兰迪·杰夫斯，加州尔湾）",
+  "question_zh": "如果硅谷银行的存款没有得到全额保障，会对美国经济造成怎样的后果？",
+  "points": [
+   "巴菲特的判断是「灾难性的」，他认为这正是存款最终被全额保障的原因。",
+   "FDIC 的法定保险上限是 25 万美元，但美国不会按法条字面行事，就像不会让债务上限把世界拖入混乱。",
+   "他无法想象政府、国会、美联储或 FDIC 中有人愿意上电视解释为何只保 25 万美元，从而引发全国银行挤兑。",
+   "因此他把全额保障视为不可避免，而非一项可选的政策选择。",
+   "他补了一句：如果连存款安全都保证不了，整个经济就没法运转。"
+  ],
+  "quotes": [
+   {
+    "en": "Well, I'd would just simply say it would've been catastrophic.",
+    "zh": "嗯，我只想说，那会是灾难性的。"
+   },
+   {
+    "en": "And even though the FDIC limit is $250,000, that's the way the statute reads, but that is not the way the U.S. is going to behave any more than they're going to let the debt ceiling cause the world to go into turmoil.",
+    "zh": "尽管 FDIC 的保险上限是 25 万美元，法条是这么写的，但美国不会那样行事——就像它不会让债务上限把世界拖入混乱一样。"
+   },
+   {
+    "en": "So, I think it was inevitable.",
+    "zh": "所以，我认为这是不可避免的。"
+   }
+  ],
+  "tags": [
+   "银行业与存款保险",
+   "宏观与通胀"
+  ]
+ },
+ {
+  "n": 6,
+  "slug": "never-made-emotional-investing-decision",
+  "title_zh": "投资决策会不会被情绪左右",
+  "asker_zh": "现场股东（纳拉夫·帕特尔，马萨诸塞州）",
+  "question_zh": "两位似乎找到了投资中过度保守与过度激进之间的平衡点。他们是否曾因情绪做出糟糕的投资决策？又如何防止这种情况发生？",
+  "points": [
+   "巴菲特承认自己做过很多糟糕的投资决策，次数比芒格多，成功率可能也更差。",
+   "他的说法是，伯克希尔历史上没有一次是凭情绪做决策。",
+   "他的区分是：生活中不必做没有情感的人，但做投资或商业决策时必须如此。",
+   "可以讨论的例外是对共事已久的管理者过于宽容，例如西科的 Louis Vincenti 状态下滑时未被及早察觉。",
+   "他认为这没有影响结果：西科以几千万美元买入，后来值 20 亿—30 亿美元。",
+   "芒格补充，储贷行业整体失控，而伯克希尔没有跟进去。"
+  ],
+  "quotes": [
+   {
+    "en": "But I can't recall any time in the history of Berkshire that we made an emotional decision.",
+    "zh": "但在我印象中，伯克希尔的历史上从来没有哪一次是凭情绪做决策的。"
+   },
+   {
+    "en": "You don't want to be a no emotion person in all of your life, but you definitely want to be a no emotion person in making an investment or business decision.",
+    "zh": "你不想在生活的所有方面都做一个没有情感的人，但在做投资或商业决策时，你绝对想做一个没有情感的人。"
+   },
+   {
+    "en": "By the way, we bought the thing for a few tens of millions, and it became worth $2 billion or $3 billion.",
+    "zh": "顺便说一句，我们买那家公司只花了几千万美元，后来它值 20 亿到 30 亿美元。"
+   }
+  ],
+  "tags": [
+   "市场与投资方法"
+  ]
+ },
+ {
+  "n": 7,
+  "slug": "geico-bnsf-technology-catch-up",
+  "title_zh": "GEICO 车联网与 BNSF 调度短板",
+  "asker_zh": "贝基·奎克代股东提问（本·诺尔，明尼阿波利斯）",
+  "question_zh": "持股三十年的股东追问：GEICO 在车联网、BNSF 在精确调度铁路上落后于主要竞争对手。阿吉特此前称 GEICO 会在一两年内取得进展，格雷格则未直接回应精确调度铁路的威胁。两人能否说明这些竞争挑战与公司的应对策略？",
+  "points": [
+   "GEICO 新业务中约 90% 的定价已含车联网数据，但采用该设备的保单持有人不到一半。",
+   "阿吉特称瓶颈是技术：GEICO 有 600 多个互不连通的遗留系统，正试图压缩到 15—16 个。",
+   "GEICO 一季度综合成本率 93 出头、承保利润率 6 出头，但含以前年度准备金释放与车险一季度季节性两个非常项目。",
+   "剔除这两项后，阿吉特预计全年综合成本率略低于 100，公司目标为 96。",
+   "BNSF 在 2019—2021 年效率提升明显；2022 年公司主动「重置铁路」，优先长期恢复而非短期指标。",
+   "托德·库姆斯由阿吉特与巴菲特选派回 GEICO 处理费率与风险匹配；伯克希尔哈撒韦专业保险浮存金接近 120 亿美元。"
+  ],
+  "quotes": [
+   {
+    "en": "GEICO's technology needs a lot more work than I thought it did.",
+    "zh": "GEICO 的技术需要做的改造比我原先以为的多得多。"
+   },
+   {
+    "en": "It has more than 600 legacy systems that don't really talk to each other.",
+    "zh": "它有 600 多个彼此并不能真正互通的遗留系统。"
+   },
+   {
+    "en": "But the real focus was to get the railroad reset in a safe manner so it could deliver long-term value and long-term service to our customers.",
+    "zh": "但真正的重点是安全地完成铁路的重置，使它能够为客户提供长期的价值和长期的服务。"
+   }
+  ],
+  "tags": [
+   "保险业务",
+   "铁路（BNSF）"
+  ]
+ },
+ {
+  "n": 10,
+  "slug": "munger-on-ai-old-fashioned-intelligence",
+  "title_zh": "AI 与机器人：老派智能够用",
+  "asker_zh": "现场股东 Karen 提问（新加坡）",
+  "question_zh": "AI 与机器人技术不断进步，对股市和整个社会会带来哪些正面与负面影响？有哪些具体行业和公司会受最大冲击？",
+  "points": [
+   "芒格以比亚迪（BYD）在中国的工厂为例：机器人的推进速度「难以置信」，全世界会出现多得多的机器人。",
+   "芒格对围绕人工智能的一部分炒作持怀疑态度，认为「老派的智能」相当好用。",
+   "巴菲特明确表示，AI 不会有任何东西取代阿吉特·贾因，这话他说得毫无保留。",
+   "比尔·盖茨给他演示过 AI，能做核查有史以来全部法律意见这类工作，但讲不了笑话；盖茨事先提醒过他。",
+   "越是什么都能做，越让人不安：一旦发明出来，就没法「撤销发明」。他以二战时发明原子弹作类比，当时别无选择。",
+   "他引爱因斯坦「改变了世上的一切，唯独没有改变人的思维方式」，认为 AI 可以改变世上一切，却改变不了人的思考与行为。"
+  ],
+  "quotes": [
+   {
+    "en": "I think old-fashioned intelligence works pretty well.",
+    "zh": "我觉得老派的智能相当好用。"
+   },
+   {
+    "en": "There won't be anything in AI that replaces Ajit.",
+    "zh": "AI 里不会有任何东西能取代阿吉特。"
+   },
+   {
+    "en": "I get a little bit worried because I know we won't be able to un-invent it.",
+    "zh": "我就有点担心，因为我知道我们没法把它「撤销发明」。"
+   }
+  ],
+  "tags": [
+   "AI 与技术",
+   "芒格"
+  ]
+ },
+ {
+  "n": 11,
+  "slug": "commercial-real-estate-downturn",
+  "title_zh": "商业地产：市中心空心化",
+  "asker_zh": "贝基·奎克代股东提问（Tom Seymour，邮件提问）",
+  "question_zh": "《金融时报》引述芒格的警告：房地产价格下跌，美国银行体系里塞满坏账，商业地产市场正酝酿一场风暴。商业地产到底在发生什么？损失会有多严重，哪些板块或地区特别糟糕？伯克希尔会不会因此更积极地介入商业地产？",
+  "points": [
+   "伯克希尔在商业地产上从来不算活跃；以伯克希尔这种架构，这类资产对需缴税的投资者比对像它这样的公司更合适。",
+   "芒格认为，美国及世界其他地方市中心的「空心化」会相当严重、相当令人不快，但他不预期这对伯克希尔有巨大影响。",
+   "楼不会消失，消失的是所有者；国家最终能挺过去，代价往往是换一批业主。",
+   "巴菲特转述业内逻辑：一栋楼值多少钱，「取决于他们不签自己名字能借到多少」，即普遍使用无追索权融资。",
+   "放贷方最终拿到物业，通常并不想要，于是倾向于「展期并假装没事」；以 2.5% 利率借钱的人按当前利率算不过来，就把资产交还回去。",
+   "芒格从房地产起家，结论是这行很难做，「我更喜欢我们做的事」。"
+  ],
+  "quotes": [
+   {
+    "en": "But I do think that the hollowing out of the downtowns in the United States and elsewhere in the world is going to be quite significant and quite unpleasant.",
+    "zh": "但我确实认为，美国以及世界其他地方市中心的空心化会相当严重、相当令人不快。"
+   },
+   {
+    "en": "It's whatever they can borrow without signing their name.",
+    "zh": "取决于他们不签自己名字能借到多少。"
+   },
+   {
+    "en": "I like what we do better.",
+    "zh": "我更喜欢我们做的事。"
+   }
+  ],
+  "tags": [
+   "宏观与通胀",
+   "市场与投资方法"
+  ]
+ },
+ {
+  "n": 12,
+  "slug": "others-doing-dumb-things",
+  "title_zh": "价值投资：机会来自别人做蠢事",
+  "asker_zh": "现场股东提问（加州圣克拉拉）",
+  "question_zh": "能大幅提升生产率的颠覆性技术不断兴起，AI 是其中之一，价值投资在这个新时代的前景如何？投资者应该做哪些调整、采纳哪些新原则？在这样快速变化的环境里，有什么建议能继续保持成功？",
+  "points": [
+   "芒格的判断：做价值投资的人太多、机会在变少，建议价值投资者「习惯赚得少一些」。",
+   "巴菲特不认同这种悲观：新技术不会拿走机会，机会来自「别人做蠢事」。",
+   "经营伯克希尔 58 年，做蠢事的人大幅增加；过去十年可以开 10 到 15 家愚蠢的保险公司，不管生意成不成都能发财，承销商和律师照拿钱。",
+   "现在从别人那里拿钱比 1942 年容易得多；在这个人人可参与的市场里，大钱在把想法卖给他人，而不在跑赢市场。",
+   "管小钱的机会大于管大钱，而伯克希尔现在管理 5080 亿美元；查理与他对此一直有分歧，但两人到目前为止都算说对了。",
+   "市场压倒性盯着短期——投资者关系电话会、管理层喂预期，这恰恰为着眼 5 年、10 年、20 年的人量身定做。"
+  ],
+  "quotes": [
+   {
+    "en": "my advice to value investors is to get used to making less.",
+    "zh": "我给价值投资者的建议是：习惯赚得少一些。"
+   },
+   {
+    "en": "What gives you opportunities is other people doing dumb things.",
+    "zh": "给你机会的，是别人在做蠢事。"
+   },
+   {
+    "en": "I like my big pile just the way it is.",
+    "zh": "我就喜欢我的大钱堆现在这样。"
+   }
+  ],
+  "tags": [
+   "市场与投资方法"
+  ]
+ },
+ {
+  "n": 13,
+  "slug": "aig-liability-assumption-good-not-great",
+  "title_zh": "AIG 负债承接：好，但不算很好",
+  "asker_zh": "贝基·奎克代股东提问（Jason Plonner，新泽西州利文斯顿）",
+  "question_zh": "2016 年伯克希尔与 AIG 做了一笔独特的交易：承担最多 200 亿美元负债，换取约 100 亿美元前期付款。利率上升之后，这笔交易进展如何？几周前在东京，你谈到资产对利率上升敏感的银行所面临的风险，伯克希尔的负债对久期有多敏感？",
+  "points": [
+   "2016 年与 AIG 的交易：承担最多 200 亿美元负债，收取约 100 亿美元前期款，这笔钱没有被限定买债，而是进入统一管理的资产池。",
+   "伯克希尔流动资产现为 1300 多亿美元，占美国所有财产意外险公司净资产约 26%，别家保险公司没有这样的资产负债表。",
+   "阿吉特：实际赔付是成交时点预测金额的 96%，「算好，但不算很好」，仍领先于曲线。",
+   "若最终赔付低于预期，等于以明显低于 4% 的利率借到钱，另赚 100 万美元费用（按 2015 年美元计）；但侵权责任不断出现，他只是「谨慎乐观」。",
+   "芒格：伯克希尔旗下财产意外险公司每 1 美元保费背后有四倍于正常水平的股东资本。",
+   "巴菲特：每年有 250 亿美元以上来自保险以外、与保险不相关的收益，且不分红；债务在铁路和能源层面，其余业务不靠举债。"
+  ],
+  "quotes": [
+   {
+    "en": "the actual payouts are 96% of what we had projected to pay out at this point in time, which is good but not great.",
+    "zh": "实际赔付是我们此刻预计应赔付金额的 96%，这算好，但不算很好。"
+   },
+   {
+    "en": "We account for 26% or something like that of the net worth of all property casualty companies in the United States.",
+    "zh": "我们占到了美国所有财产意外险公司净资产的大约 26%。"
+   },
+   {
+    "en": "I'm cautiously optimistic that the deal will work out better than how we expected it to work out.",
+    "zh": "我谨慎乐观地认为，这笔交易的结果会好于我们当初的预期。"
+   }
+  ],
+  "tags": [
+   "保险业务",
+   "并购与套利"
+  ]
+ },
+ {
+  "n": 14,
+  "slug": "will-with-input-from-children",
+  "title_zh": "立遗嘱前先让子女读一遍",
+  "asker_zh": "现场股东马文·布鲁姆提问（得克萨斯州沃斯堡，遗产规划律师）",
+  "question_zh": "提问者用橄榄球赛作比喻：四分卫是父母，橄榄球是遗产或家族企业，接球的孩子从没参加过训练，接住球并达阵的概率大约只有 10%。他问，父母该如何为下一代的继承做准备，家族企业又该如何安排创始人离开后的经营权。巴菲特怎么看这个普遍问题。",
+  "points": [
+   "橄榄球比喻：四分卫是父母，球是遗产或家族企业，接球的孩子从未参加训练，接球达阵的概率约为 10%",
+   "巴菲特家的做法：三个孩子读过遗嘱、理解内容并提出建议之后，他才签字；此事宜在子女成年后进行，他的孩子如今都已 60 多岁",
+   "若子女在宣读遗嘱时才第一次听到逝者对各种事情的看法，父母就犯了无法纠正的错误",
+   "芒格称伯克希尔的遗产规划很简单——「就拿着那该死的股票」，并称这套办法只适合 95% 的人",
+   "巴菲特：想让子女拥有某种价值观，先要自己按那种价值观生活，起草巧妙的遗嘱替代不了言传身教",
+   "TTI 的保罗·安德鲁斯 61 岁时为企业和员工寻找买家，不愿卖给竞争对手或私募股权公司，最终卖给伯克希尔"
+  ],
+  "quotes": [
+   {
+    "en": "in my family, I do not sign a will until my three children have read it, understand it, and made suggestions.",
+    "zh": "在我们家，我的三个孩子没有读过遗嘱、理解它并提出建议之前，我不会签署遗嘱。"
+   },
+   {
+    "en": "Just hold the goddamn stock.",
+    "zh": "就拿着那该死的股票别动。"
+   },
+   {
+    "en": "if you want to figure out how you want to live your life, you write your obituary and reverse engineer it.",
+    "zh": "如果你想弄清楚自己想过怎样的一生，就先写好讣告，然后倒推。"
+   }
+  ],
+  "tags": [
+   "人生建议"
+  ]
+ },
+ {
+  "n": 15,
+  "slug": "bnsf-derailments-safety",
+  "title_zh": "BNSF 脱轨与安全责任",
+  "asker_zh": "贝基·奎克代股东唐·格利克斯坦提问（西雅图）",
+  "question_zh": "提问者指出，巴菲特公开批评诺福克南方铁路的脱轨处理，却对 BNSF 保持沉默。2023 年 3 月，一位联邦法官裁定 BNSF 在华盛顿州部落土地上运输长编组原油列车，故意且非法违反了地役权协议；同月一列 BNSF 列车在部落土地脱轨并漏油。他问巴菲特如何确保 BNSF 与其他子公司履行道德责任，伯克希尔是否有识别此类行为的系统。",
+  "points": [
+   "2023 年 3 月，联邦法官裁定 BNSF 在华盛顿州部落土地上运输长编组原油列车，故意且非法违反地役权协议",
+   "阿贝尔承认超出协议允许的每日车次，称团队对可运行多少列车存在根本性误解",
+   "阿贝尔称正与部落磋商解决方案，希望结果对部落与 BNSF 都公平",
+   "阿贝尔称脱轨泄漏未造成长期环境影响；行业每年脱轨 1000 起以上",
+   "BNSF 约 2.2 万英里轨道，线路系统基本设计于 19 世纪末",
+   "巴菲特：铁路是共同承运人，须在 100 华氏度与 0 华氏度下运输重货，10—30 年后仍会有脱轨"
+  ],
+  "quotes": [
+   {
+    "en": "We had an agreement that allowed us to move X number of units per day. And we did breach it.",
+    "zh": "我们有一份协议，允许我们每天运行 X 列车。而我们违反了它。"
+   },
+   {
+    "en": "We take them incredibly seriously.",
+    "zh": "我们极其严肃地对待脱轨。"
+   },
+   {
+    "en": "We're not making a mistake because we have a derailment.",
+    "zh": "我们不会因为发生脱轨就是在犯错。"
+   }
+  ],
+  "tags": [
+   "铁路（BNSF）"
+  ]
+ },
+ {
+  "n": 16,
+  "slug": "utilities-clean-energy-national-effort",
+  "title_zh": "新能源转型缺全国统一规划",
+  "asker_zh": "现场股东 Soo Jing Hua 提问（中国）",
+  "question_zh": "提问者来自中国，注意到越来越多的人关注环境保护，政府也在支持新能源产业。他问巴菲特和芒格如何看待新能源的持续发展，新能源企业未来怎样才能发展得更好。",
+  "points": [
+   "BHE 目标：2030 年碳排放较 2005 年下降 50%，对标《巴黎协定》对电力行业的要求",
+   "PacifiCorp 跨六州；原估 60 亿美元的输电项目建成略超三分之一，实际支出接近 70 亿美元",
+   "BHE 未来十年有 700 亿美元已知项目，用于服务客户和能源转型",
+   "美国没有全国统一方案，实际逐州制定计划，再跨州整合",
+   "巴菲特：美国输电建设落后于应有水平，跨州面临不同管辖机构",
+   "巴菲特以二战为例：以每年 1 美元请企业人士进华盛顿，重排工业产能造船只、坦克和飞机；和平时期 50 个州难以复制这套机制"
+  ],
+  "quotes": [
+   {
+    "en": "At the time it was a $6 billion transmission project. Today we have a little more than a third of it built. And we've spent probably closer to $7 billion.",
+    "zh": "当时这是一个 60 亿美元的输电项目。今天我们建成了略多于三分之一。而我们大概已经花了接近 70 亿美元。"
+   },
+   {
+    "en": "So, that's the Paris Accord and the standard they want to hold the utility industry or the utility companies to.",
+    "zh": "这就是《巴黎协定》，也是他们希望用来要求电力行业或电力公司的标准。"
+   },
+   {
+    "en": "But we haven't created the unity of purpose and the machinery that worked in World War II",
+    "zh": "但我们没有创造出二战时那种目标的一致性和那套机制。"
+   }
+  ],
+  "tags": [
+   "能源与公用事业"
+  ]
+ },
+ {
+  "n": 17,
+  "slug": "abel-next-generation-managers",
+  "title_zh": "阿贝尔将决定下一代经理",
+  "asker_zh": "贝基·奎克代股东克里斯·弗里德提问（费城）",
+  "question_zh": "提问者说，已知格雷格·阿贝尔和阿吉特·贾因是伯克希尔的下一代领导人。他想知道，目前在两人各自负责的领域里，排在他们后面的接班人是谁。",
+  "points": [
+   "巴菲特称，除非出现非常情况，阿贝尔将接任 CEO，并需要一位与自己相当的副手",
+   "接班人选由阿贝尔作最终决定，贾因提供建议；巴菲特认为阿贝尔采纳建议的概率非常高",
+   "巴菲特称「高管储备深度」的说法是胡扯：不需要五个能管最大市值公司的人，需要好的运营经理和顶层的资本配置者",
+   "现有架构把保险与其他业务分开，巴菲特称这个设计很好；现在确定两个领域的人选为时过早",
+   "芒格：伯克希尔更换经理的频率远低于其他大型综合企业，这是运营表现较好的原因之一",
+   "继任安排一案一议：TTI 的保罗·安德鲁斯、Garan 的西摩·利希滕斯坦（90 多岁去世）都有内部接班人"
+  ],
+  "quotes": [
+   {
+    "en": "And I think the odds are very, very, very high (Laugh) that Greg would follow it.",
+    "zh": "我认为格雷格采纳这个建议的概率非常、非常、非常之高（笑）。"
+   },
+   {
+    "en": "Everybody talks about the executive bench and all of that sort of thing, which is baloney.",
+    "zh": "大家都在谈高管储备深度之类的，那是胡扯。"
+   },
+   {
+    "en": "And one of them is that we change managers way less frequently than other people do.",
+    "zh": "其中之一是我们更换经理的频率远低于其他人。"
+   }
+  ],
+  "tags": [
+   "接班与治理"
+  ]
+ },
+ {
+  "n": 18,
+  "slug": "america-tribalism",
+  "title_zh": "美国党派之争正滑向部落主义",
+  "asker_zh": "现场股东提问（Hatch Okamamti，日本宫崎）",
+  "question_zh": "这位股东先自我介绍：他曾是所罗门兄弟 8,000 名员工之一，在纽约世界贸易中心七号楼上班，一直想当面向巴菲特道谢。随后他问：巴菲特不时提醒大家「不要做空美国」，那么对你们而言，让这个国家保持强大最重要的事情是什么？反过来，如果美国的实力被削弱，可能的原因又会是什么？",
+  "points": [
+   "巴菲特说美国建国才 234 年，他与芒格两人合计已活了这个国家寿命的三分之二；国家经受过 46 次全国选举的检验，做过糟糕的选择，也打过一场内战。",
+   "1790 年美国只占世界人口 0.5%，如今拥有接近全球 GDP 的 25%；他认为这并非土地或地缘优势所致——两大洋与加拿大、墨西哥两个邻国只是幸运，整体上「是个奇迹」。",
+   "他判断当前的问题是党派之争已滑向「部落主义」：一旦变成部落主义，就听不进对方的话，还可能演变为暴民；民主必须在前行中不断修正。",
+   "世界人口从他 1930 年出生时的 20 亿增至约 77 亿，能源使用量远超从前；他表示自己没有答案，也不认为问题会在 2050 年前自行消失。",
+   "芒格说自己比巴菲特略不乐观，「通往人类幸福最好的路是降低期待」，并批评大量聪明年轻人涌向财富管理，认为美国不需要这么多财富管理者。",
+   "巴菲特最后仍表示，若能重选出生地，他愿意生在美国，而且愿意生在今天。"
+  ],
+  "quotes": [
+   {
+    "en": "we've been tested at 46 national elections. And we made some bad choices. And we've had a civil war.",
+    "zh": "我们经受过 46 次全国选举的检验，也做过一些糟糕的选择，还打过一场内战。"
+   },
+   {
+    "en": "partisanship, it seems to me, has moved toward tribalism. And tribalism just doesn't work as well.",
+    "zh": "在我看来，党派之争已经滑向了部落主义。而部落主义的效果就是差得多。"
+   },
+   {
+    "en": "I think the best road ahead to human happiness is to expect less. I think it's going to get tougher.",
+    "zh": "我认为，通往人类幸福最好的路是降低期待。我认为未来会更艰难。"
+   },
+   {
+    "en": "if I still had a choice of any place to be born in the world, I'd want to be born in the United States. And I'd want to be born today.",
+    "zh": "如果我还能选择出生在世界上的任何地方，我会选择出生在美国，而且我愿意出生在今天。"
+   }
+  ],
+  "tags": [
+   "社会与政治",
+   "人生建议"
+  ]
+ },
+ {
+  "n": 19,
+  "slug": "corporate-raiders-after-buffett",
+  "title_zh": "没有掠夺者凑得齐收购的钱",
+  "asker_zh": "贝基·奎克代股东提问（Dennis DeJaniero）",
+  "question_zh": "提问者引述 2022 年年报：伯克希尔将始终持有大量现金和美国短期国债，并避免在不利时点出现被迫的现金需求。他推算，巴菲特去世后 A 股转为 B 股捐给各家基金会，基金会将在 12—15 年内陆续卖出。他担心像卡尔·伊坎这样的公司掠夺者或某个团体趁机吸筹控股，抛弃持现哲学，转向贪婪、鲁莽、高度投机，破坏伯克希尔金融堡垒的地位，也担心子公司经营方式被改变。巴菲特和芒格是否担心？",
+  "points": [
+   "巴菲特估算，若 12 年或 15 年不分红，收购伯克希尔大约需要 1.5 万亿美元，这会限制住任何觊觎者，也没有人能靠自己凑到接近这个数目。",
+   "他说格雷格·阿贝尔和董事会会有一段很长的「蜜月期」，因为其余投票权仍然存在；但最终他们仍要按经营表现被评判。",
+   "他强调伯克希尔应被视为「国家资产」而非「国家负债」，只要配得上赢就会赢，并称这发生的概率「非常、非常、非常高」。",
+   "芒格表示不花时间担心自己死后 50 年才发生的事，「每一天的责任其实很轻」，并认为这种担心没有必要。",
+   "巴菲特回顾 58 年来商业模式被多次修改，最初很快确定不该做纺织公司；公司不会做致命的决策，不会有大额债务集中到期，也不会有可被大规模兑现的保单。",
+   "他认为伯克希尔拥有无人能及的股东基础，这是 58 年把股东当作公司主人对待的结果。"
+  ],
+  "quotes": [
+   {
+    "en": "if we don't pay any dividends in 12 or 15 years, you're talking a trillion and a half that it would take to take over.",
+    "zh": "如果我们 12 年或 15 年不分红，那么收购它需要大约 1.5 万亿美元。"
+   },
+   {
+    "en": "I think he's fretting unnecessarily.",
+    "zh": "我认为他是在不必要地焦虑。"
+   },
+   {
+    "en": "The one thing I knew initially or very quickly was it shouldn't be a textile company.",
+    "zh": "我最初、或者说很快就知道的一件事是：它不该是一家纺织公司。"
+   },
+   {
+    "en": "We'll never make a decision that kills us.",
+    "zh": "我们永远不会做一个会杀死我们的决定。"
+   }
+  ],
+  "tags": [
+   "接班与治理",
+   "资本配置"
+  ]
+ },
+ {
+  "n": 20,
+  "slug": "finding-ajit-jain-and-ben-rosner",
+  "title_zh": "发掘贾因与罗森纳的旧事",
+  "asker_zh": "现场股东提问（Beau Clayton，北卡罗来纳州达勒姆）",
+  "question_zh": "这位股东说，大家来到现场的原因之一，是两位很会讲故事，股东们会把这些故事带回家。他请求巴菲特和芒格分享几个此前可能没听过的故事，讲讲格雷格·阿贝尔和阿吉特·贾因，以展现他们的品格和作为领导者的水准。",
+  "points": [
+   "贾因 1986 年在一个周六走进办公室，由迈克·戈德堡引荐；巴菲特自 1969 年起就想做再保险，已经摸索了 17 年而无进展。",
+   "贾因此前毫无保险经验，但做过管理咨询，了解美国企业如何运作；谈过之后巴菲特说自己「知道挖到了金矿」。",
+   "巴菲特称，即使把全球最顶尖的十位保险经理人全部要来，也换不了一个贾因；他并强调招聘时从不看对方上过什么学校。",
+   "芒格回忆路易斯·文森蒂体重仅 155 磅却在斯坦福打上主力橄榄球，问他缘故，回答是「我跑得挺快」。",
+   "本·罗森纳念到四年级就辍学、完全自学，比任何人都懂老社区的零售业，像鹰一样盯着生意；他去世后，那种能力也随之消失。",
+   "罗森纳与合伙人利奥·西蒙在 1933 年芝加哥世博会前几乎白捡一艘一战潜艇，拖着它穿过芝加哥街头造成堵塞，警察询问时他说「你得跟我合伙人卡彭先生谈」；西蒙 1967 年前后去世后，他仍把一半利润交给其遗孀，直到对方开始指责他，才以 600 万美元把生意卖给巴菲特。"
+  ],
+  "quotes": [
+   {
+    "en": "if I had the top pick of ten insurance managers in the world, I could take all ten and you can't replace Ajit.",
+    "zh": "如果让我在全球挑选十位最好的保险经理人，我可以把十个都要来，也换不了一个阿吉特。"
+   },
+   {
+    "en": "But he isn't Ajit because he went to those schools.",
+    "zh": "但他成为阿吉特，并不是因为他上了那些学校。"
+   },
+   {
+    "en": "Totally self-educated. Ben Rosner knew more about retailing in those old neighborhoods than anybody.",
+    "zh": "完全自学。在那些老社区里，本·罗森纳比任何人都更懂零售业。"
+   },
+   {
+    "en": "You'll have to talk to my partner, Mr. Capone.",
+    "zh": "你得跟我合伙人卡彭先生谈。"
+   }
+  ],
+  "tags": [
+   "芒格",
+   "接班与治理"
+  ]
+ },
+ {
+  "n": 21,
+  "slug": "jain-property-cat-reinsurance",
+  "title_zh": "贾因满意巨灾财险组合",
+  "asker_zh": "贝基·奎克代股东提问（Chai Gohill）",
+  "question_zh": "提问者指出，再保险业正经历过去 15 年来最艰难的定价环境之一，而伯克希尔历史上会在这种压力时期、经济回报非常有吸引力时出手。但今年公司似乎无意把资源投入巨灾财险再保险。他想请阿吉特解释在回报可观的情况下为何不参与，并谈谈收购 Alleghany 之后如何规划再保险业务。",
+  "points": [
+   "贾因表示 Alleghany 以 TransAtlantic Re 品牌经营再保险，战略与管理层都不会改变，会继续按原有方式运作。",
+   "过去 15 年巨灾财险价格不具吸引力，伯克希尔虽有参与但「非常有限」；12 月 31 日续保前他曾乐观，认为能记入数十亿美元保费。",
+   "12 月最后十天大量产能涌入，价格未达到公司的定价要求，1 月 1 日续保「令人大失所望」，承保量低于预期。",
+   "因为留住了「弹药」，4 月 1 日续保时价格猛涨、高于 1 月 1 日，公司大举承保；如今巨灾暴露比五六个月前多近 50%。",
+   "组合非常不均衡：若佛罗里达遭遇大飓风，所有单元合计可能损失高达 150 亿美元；若没有损失，则赚取数十亿美元利润。",
+   "以公司接近 3000 亿美元的资本计，可承受的暴露约为 5%；几周前全球暴露约 130 亿美元，他电话请示提到 150 亿，通话不到 30 秒。"
+  ],
+  "quotes": [
+   {
+    "en": "our exposure today is almost 50% more than what it was five, six months ago.",
+    "zh": "我们今天的暴露比五六个月前多了近 50%。"
+   },
+   {
+    "en": "January 1 was a big disappointment.",
+    "zh": "1 月 1 日令人大失所望。"
+   },
+   {
+    "en": "if the hurricane happens in Florida, we could lose, across all the units, as much as $15 billion.",
+    "zh": "如果飓风发生在佛罗里达，我们在所有单元合计可能损失高达 150 亿美元。"
+   },
+   {
+    "en": "we think of that as a 5% exposure that we're willing to take on.",
+    "zh": "我们把它看作愿意承担的 5% 暴露。"
+   }
+  ],
+  "tags": [
+   "保险业务"
+  ]
+ },
+ {
+  "n": 22,
+  "slug": "we-get-wiser-not-smarter",
+  "title_zh": "短期利润与长期护城河的取舍",
+  "asker_zh": "现场股东（阿达尔·弗洛雷斯，墨西哥瓜达拉哈拉）",
+  "question_zh": "做企业永远要面对一个两难：做能赚钱的产品，还是做能加固竞争地位的产品。最好的情况是两者兼得，谷歌就是如此；但多数时候公司必须在短期利润和长期防御性之间选一个。亚马逊早期就是压低利润建飞轮，换取更强的网络效应，指望日后利润更稳固。你们投资时总讲护城河，对 CEO 平衡这个矛盾有什么建议？",
+  "points": [
+   "伯克希尔不开投资者电话会、不做业绩指引，因此没有来自华尔街的压力，可以按自己的节奏犯错。",
+   "1972 年买下喜诗糖果是分水岭；1966 年进入百货生意，买价墨迹未干就意识到做错了。",
+   "巴菲特自认学不会生意的技术细节，但懂消费者行为：人们怎么比较第二辆车和一部手机。",
+   "苹果持仓约 5%—7%，因公司回购而每年上升；他说自己完全不懂那部手机，但懂人们怎么花钱。",
+   "判断一笔生意有没有意思只需十秒钟，投行画的未来预测图没有意义。",
+   "「我们不会随时间变聪明，只是变得聪明一点点。」"
+  ],
+  "quotes": [
+   {
+    "en": "the answer is to control your destiny, which we've been able to do at Berkshire",
+    "zh": "答案是掌控自己的命运，这一点我们在伯克希尔做到了。"
+   },
+   {
+    "en": "I don't understand the phone at all. But I do understand consumer behavior.",
+    "zh": "我完全不懂那部手机。但我懂消费者行为。"
+   },
+   {
+    "en": "We don't get smarter over time, we get a little wiser, though, following it over time.",
+    "zh": "我们不会随时间变聪明，但跟着时间走，我们会变得聪明一点点。"
+   }
+  ],
+  "tags": [
+   "人生建议",
+   "市场与投资方法"
+  ]
+ },
+ {
+  "n": 23,
+  "slug": "japanese-trading-houses",
+  "title_zh": "为何重仓日本五大商社",
+  "asker_zh": "查理·芒格（请巴菲特讲日本投资的故事）",
+  "question_zh": "把日本那笔投资的故事再讲一遍，那个故事值得再讲。",
+  "points": [
+   "五家商社体量极大、业务可理解，伯克希尔与其中多数以十几种方式打过交道；本地最后一座燃煤电厂就由其中一家建造。",
+   "按买入价计算，这个组合的回报率约 14%，同时派发不错的股息，有些还回购股票。",
+   "以日元发债融资对冲汇率风险，成本约 0.5%，两端一夹，利差相当可观，且资金是永久的。",
+   "持股超过 5% 是在巴菲特 90 岁生日当天宣布的；目前持股 7.4%，未经对方同意不会超过 9.9%。",
+   "原计划发行 560 亿日元债券，最终规模约 1644 亿日元。",
+   "预计每年为伯克希尔增加约 4 亿—5 亿美元价值；带阿贝尔同行，是为未来 10—40 年的合作铺路。"
+  ],
+  "quotes": [
+   {
+    "en": "They were sitting as a group where they were earning, we'll say 14% on what we were going to pay to buy them.",
+    "zh": "作为一个组合，按我们要付的买价计算，它们能赚大约 14%。"
+   },
+   {
+    "en": "if you get 14% on one side and a half a percent on the other side, and you've got money forever",
+    "zh": "一边是 14%，另一边是 0.5%，钱又是永久的。"
+   },
+   {
+    "en": "We won't go over 9.9% without their agreeing",
+    "zh": "未经他们同意，我们不会超过 9.9%。"
+   }
+  ],
+  "tags": [
+   "日本与海外投资",
+   "资本配置"
+  ]
+ },
+ {
+  "n": 24,
+  "slug": "apple-better-business",
+  "title_zh": "苹果是否占比过高",
+  "asker_zh": "贝基·奎克代股东提问（埃莉·阿明·特贝特）",
+  "question_zh": "达莫达兰教授在《Investing the Templeton Way》播客里说，他不习惯单一持仓在组合中占到 25%—35%，那已接近危险区。他指出苹果现在占伯克希尔组合的 35%。想请沃伦和查理评论。",
+  "points": [
+   "芒格对「占比过高」的说法只回一句：「我看他是脑子坏了。」",
+   "巴菲特：苹果并不占伯克希尔组合的 35%，因为组合里还有 BNSF、能源业务、Garanimals、喜诗糖果等实体生意。",
+   "苹果持续回购，流通股从约 157 亿股降到 152.5 亿股，伯克希尔不动手，持股比例就从 5.6% 升到 6%。",
+   "全资子公司的持股上限是 100%，而苹果可以「免费」增持，这是结构上的好处。",
+   "苹果的生意比伯克希尔拥有的任何一家都好；BNSF 是很好的生意，但远不及苹果。",
+   "消费者宁愿放弃第二辆车也不放弃 iPhone；几年前为税务原因卖出部分苹果股票，被巴菲特称为愚蠢的决定。"
+  ],
+  "quotes": [
+   {
+    "en": "I think he's out of his mind.",
+    "zh": "我看他是脑子坏了。"
+   },
+   {
+    "en": "it just happens to be a better business than any we own",
+    "zh": "它恰好比我们拥有的任何一家生意都好。"
+   },
+   {
+    "en": "if they had to give up a second car or give up their iPhone, they'd give up their second car",
+    "zh": "如果必须在放弃第二辆车和放弃 iPhone 之间选择，他们会放弃第二辆车。"
+   }
+  ],
+  "tags": [
+   "苹果与持仓",
+   "资本配置"
+  ]
+ },
+ {
+  "n": 25,
+  "slug": "us-china-economic-tensions",
+  "title_zh": "中美经济紧张该降温",
+  "asker_zh": "现场股东（David Chung，香港）",
+  "question_zh": "你如何看待当前美国与中国互联网公司的估值和价差？背景是地缘政治紧张带来诸多不确定，美国大型科技公司在大幅优化成本，而中国科技公司已经走完了这一轮。",
+  "points": [
+   "芒格：中美经济关系的紧张是双方「错误制造」出来的，两边同样愚蠢。",
+   "他以苹果与中国供应商的合作为例，认为这类生意对双方都有利，应该更多而不是更少。",
+   "「任何加剧两国紧张的事都是愚蠢、愚蠢、愚蠢」，双方应以善意回应对方的愚蠢。",
+   "巴菲特：两个超级大国彼此都知道必须相处，任何一方都能毁灭对方，这是博弈论式困境。",
+   "他把局面比作朝着悬崖开的「看谁先眨眼」，并回顾 1945 年后核时代的多次险情，包括古巴。",
+   "两国可以同时繁荣，领导人须让民众理解这套规则，避免煽动性言论和动作。"
+  ],
+  "quotes": [
+   {
+    "en": "I think we're equally guilty of being stupid.",
+    "zh": "我认为两边同样犯了愚蠢的错。"
+   },
+   {
+    "en": "Everything that increases the tension between the two countries is stupid, stupid, stupid.",
+    "zh": "任何加剧两国紧张的事，都是愚蠢、愚蠢、愚蠢。"
+   },
+   {
+    "en": "Either one can destroy the other.",
+    "zh": "任何一方都能毁灭另一方。"
+   }
+  ],
+  "tags": [
+   "中国与中美关系",
+   "宏观与通胀"
+  ]
+ },
+ {
+  "n": 26,
+  "slug": "japan-vs-taiwan-capital",
+  "title_zh": "减持台积电与更看好日本",
+  "asker_zh": "贝基·奎克代股东提问（Roheet Bellany，PH）",
+  "question_zh": "伯克希尔在台积电建立了相当大的仓位，却在短短几个月内几乎全部卖出，与其通常的持有期限不符。巴菲特曾在 CNBC 采访中把地缘政治列为催化剂，但买入时这些问题看起来并无不同。那么这几个月里究竟还有什么发生了变化，促使公司抛售接近 50 亿美元的台积电股票？",
+  "points": [
+   "伯克希尔买入台积电后数月内卖出接近 50 亿美元股份，持有期远短于其惯例。",
+   "巴菲特称台积电是全球管理最好、最重要的公司之一，五到二十年后大概仍是如此，芯片行业无人能与之比肩。",
+   "他不喜欢的是「公司所在地」，并明确表示这一判断是在观察某些事态之后重新评估的结果。",
+   "台积电除台湾外无处可去，但已在美国亚利桑那州扩充产能；伯克希尔经由 Alleghany 取得的一家子公司参与了该建设项目。",
+   "他更愿意在美国找到同样优秀的公司与管理层，结论是对部署在日本的资本感觉好于部署在台湾的资本。",
+   "原话是「但愿事实不是这样，但我认为这就是现实」，未展开具体地缘政治判断。"
+  ],
+  "quotes": [
+   {
+    "en": "I don't like its location.",
+    "zh": "我不喜欢它的地理位置。"
+   },
+   {
+    "en": "there's nobody in the chip industry that's in their league, at least in my view",
+    "zh": "芯片行业里没有谁处于他们那个水平，至少在我看来如此"
+   },
+   {
+    "en": "I feel better about the capital that we've got deployed in Japan than Taiwan.",
+    "zh": "比起台湾，我对我们部署在日本的资本感觉更好。"
+   }
+  ],
+  "tags": [
+   "日本与海外投资",
+   "中国与中美关系"
+  ]
+ },
+ {
+  "n": 27,
+  "slug": "ben-graham-intelligent-investor",
+  "title_zh": "格雷厄姆的书与伯克希尔百年愿景",
+  "asker_zh": "现场股东（Bugomil Baranowsky，纽约）",
+  "question_zh": "1976 年巴菲特在悼念本杰明·格雷厄姆时引用沃尔特·李普曼的话，称格雷厄姆是「种树以便他人乘凉」的人，并说两位都是这样的人。他请两人分享对伯克希尔的百年愿景。",
+  "points": [
+   "巴菲特称格雷厄姆为他做了各种事，从不期待任何回报，也没有任何期待回报的暗示。",
+   "格雷厄姆 1949 年的著作说服了他，此前八九年间投入并热爱的方法「全都是错的」。",
+   "该书在亚马逊长期位居约第 300—350 名；哈珀柯林斯表示销量记录已追溯不到起点，但累计售出 730 万册。",
+   "巴菲特称多数投资书排名会从数百名跌到 2.5 万—20 万名，没有第二本书能维持这种地位。",
+   "百年愿景是：由股东拥有、其存在令社会满意而非不满，拥有无限资本与人才基础，可像那本书一样延续下去。",
+   "芒格指出格雷厄姆一生投资收益过半来自一只成长股 GEICO，他晚年对此略感不好意思；买入被低估的伟大公司是极好的事。"
+  ],
+  "quotes": [
+   {
+    "en": "Ben Graham did all kinds of things for me, and he never expected one thing in return.",
+    "zh": "本·格雷厄姆为我做了各种各样的事，而他从不期待任何回报。"
+   },
+   {
+    "en": "more than half of all the investment return that Ben Graham made in his whole life came from one stock, one growth stock: GEICO, Berkshire subsidiary.",
+    "zh": "本·格雷厄姆一生全部投资收益中，超过一半来自一只股票、一只成长股：GEICO，伯克希尔的子公司。"
+   },
+   {
+    "en": "buying one undervalued great company is a very good thing, as Berkshire has found out again and again and again.",
+    "zh": "买下一家被低估的伟大公司是件非常好的事，伯克希尔已经一次又一次地发现了这一点。"
+   }
+  ],
+  "tags": [
+   "市场与投资方法"
+  ]
+ },
+ {
+  "n": 28,
+  "slug": "geico-carmakers-showroom",
+  "title_zh": "车企在展厅卖保险，GEICO 如何应对",
+  "asker_zh": "贝基·奎克代股东提问（Terafta，亚利桑那州谢拉维斯塔）",
+  "question_zh": "电动车在销量中占比虽小但在增长，特斯拉和通用汽车都在向车主直接提供自己的电动车保险，而不是由传统车险公司承保。GEICO 将如何应对这种在销售点卖保险的模式？",
+  "points": [
+   "贾因称 GEICO 正与多家整车厂（OEM）洽谈，希望在销售点提供保险，但迄今成功案例不多。",
+   "难点在于需要收集相当多关于驾驶人的数据，而不仅是车辆数据，这让模式更复杂。",
+   "通用汽车预计将承保 30 亿美元保费，贾因称难以想象这些保费从哪里来，但各家都很来劲。",
+   "巴菲特指出通用汽车自营保险已有数十年历史，并非新想法；Uber 曾承保大量保险后分保给 James River，后者因此巨亏。",
+   "车险承保利润率约 4%，参与分食者一多，要人人有利可图就非常困难。",
+   "1920 年前后 State Farm 创立是车险业唯一一次大创新，靠削减约 20 个点成本起家，净资产仅次于伯克希尔，且无人真正改进其体系。"
+  ],
+  "quotes": [
+   {
+    "en": "GEICO is talking to a number of original equipment manufacturers as well to try and see how best they can work with the auto manufacturers and offer insurance at the point of sale.",
+    "zh": "GEICO 也在与多家整车厂洽谈，想看看怎样才能最好地与汽车制造商合作，在销售点提供保险。"
+   },
+   {
+    "en": "it just becomes very, very difficult to keep all the mouths fed in a profitable manner",
+    "zh": "要以有利可图的方式喂饱所有的嘴，就变得非常非常困难"
+   },
+   {
+    "en": "The investing public does not learn much.",
+    "zh": "投资大众学不到多少东西。"
+   }
+  ],
+  "tags": [
+   "保险业务",
+   "汽车与电动车"
+  ]
+ },
+ {
+  "n": 29,
+  "slug": "index-funds-voting-power",
+  "title_zh": "指数基金的投票权与自我克制",
+  "asker_zh": "现场股东（Jeff Merriam，明尼苏达州伊代纳）",
+  "question_zh": "未来的投票控制权究竟会落到谁手里？是 CalPERS、BlackRock 这类机构吗？它们最终会不会让我们不得不勾选那些 ESG 选项？股东应该如何看待这件事？",
+  "points": [
+   "大额资金看似正把投票权集中到指数基金手里，但巴菲特认为这不构成威胁：过去一两年这类机构已经大幅退让，因为退让符合它们自身利益。",
+   "指数基金真正想要的是一个社会不会因为它们握有全部投票权而对其不满的世界。",
+   "资管这行的考核不是业绩而是管理资产规模；指数基金管理费只有 2 个基点，由先锋（Vanguard）首创后极易被复制。",
+   "提供指数基金者的真实动机是引导客户买费率更高的其他产品，与约翰·博格（Jack Bogle）的初衷相反。",
+   "结论是看清自利所在即可判断行为走向；巴菲特以「若如此就不再问别人」收尾。"
+  ],
+  "quotes": [
+   {
+    "en": "And index funds produce a tiny, tiny, tiny fee on assets under management.",
+    "zh": "而指数基金对管理资产规模收取极微小、极微小、极微小的费用。"
+   },
+   {
+    "en": "But they've backed off a lot.",
+    "zh": "但它们已经大幅退让了。"
+   },
+   {
+    "en": "if you figure out where their self-interest is, you can judge where their behavior is going to go.",
+    "zh": "如果你弄清他们的自利在哪里，你就能判断他们的行为会走向何方。"
+   }
+  ],
+  "tags": [
+   "接班与治理",
+   "市场与投资方法"
+  ]
+ },
+ {
+  "n": 30,
+  "slug": "abel-capital-allocation",
+  "title_zh": "阿贝尔将主导资本配置与回购",
+  "asker_zh": "贝基·奎克代股东提问（阿尔穆·格林内尔，地点未说明）",
+  "question_zh": "提问者指出，2019 年以来伯克希尔回购了大量股票，股本减少约 10%，提高了持续持有者的每股内在价值。格雷格被预期接替沃伦出任首席执行官，那么主要的资本配置决策——包括未来的股票回购——是否会由他负责？过去几年执行的这些回购，他参与了吗？沃伦与格雷格是否共同估算伯克希尔的内在价值、共同做出回购决定？",
+  "points": [
+   "巴菲特把话筒交给阿贝尔，但先给出答案：阿贝尔对资本配置的理解不亚于他本人，未来这些决策将由阿贝尔做出，框架会与他自己的高度一致。",
+   "他说这套框架已经讲了约 30 年，并不比一个三人合伙的情境复杂：如果合伙人想退出，而他们能以低于所估价值的价格买下、且不在真实情况上误导对方，那就买。",
+   "他批评外界把资本配置弄得过于复杂——很适合写成塞满脚注的 50 页乃至 100 页博士论文，但实质不过如此。",
+   "阿贝尔回应说框架不会改变，机会出现时会愿意积极回购伯克希尔股票，让股东在每项经营业务和股票投资组合中持有更大的份额。",
+   "巴菲特给出决策顺序：先满足业务需要——发展现有业务、收购新业务——再定股息；股息一旦削减，会对股东基础产生重大影响，几乎不可逆。",
+   "只有在资本充裕、看不出会用完、股价有吸引力且能提升剩余股东内在价值时才回购；若价格高于内在价值，则无论投资银行家怎么推销回购方案都不必听。"
+  ],
+  "quotes": [
+   {
+    "en": "Greg understands capital allocation as well as I do, and that's lucky for us.",
+    "zh": "格雷格对资本配置的理解不亚于我，这是我们的运气。"
+   },
+   {
+    "en": "When the opportunity present itself, we'll want to be an active repurchaser of Berkshire shares.",
+    "zh": "机会出现时，我们会愿意积极地回购伯克希尔股票。"
+   },
+   {
+    "en": "It can be the dumbest thing you can do, or it can be the smartest thing you can do.",
+    "zh": "它可能是你能做的最愚蠢的事，也可能是你能做的最聪明的事。"
+   }
+  ],
+  "tags": [
+   "资本配置",
+   "接班与治理"
+  ]
+ },
+ {
+  "n": 31,
+  "slug": "munger-covid-vaccine-skeptic",
+  "title_zh": "芒格对疫苗怀疑者的两个字",
+  "asker_zh": "现场股东提问（汤姆·纳尔逊，明尼苏达州北橡树）",
+  "question_zh": "一位来自明尼苏达州北橡树的播客问芒格：他在 2022 年用「极其愚蠢」「极度无知」「疯狂」形容约 30% 不愿接种 mRNA 疫苗的美国人，今天是否仍坚持这些说法？",
+  "points": [
+   "芒格不改口：他确认仍然站 2022 年那番评价。",
+   "他的回答只有「当然」两个字，没有补充论证。",
+   "现场以笑声和掌声回应。",
+   "巴菲特随即收尾，转入午餐前的最后一个提问。"
+  ],
+  "quotes": [
+   {
+    "en": "Yeah. Sure.",
+    "zh": "是的。当然。"
+   },
+   {
+    "en": "Do you stand behind those quotes today?",
+    "zh": "你今天还坚持这些说法吗？"
+   },
+   {
+    "en": "Well, we got time for one more, then, before lunch.",
+    "zh": "那好，午饭前我们还有时间再问一个。"
+   }
+  ],
+  "tags": [
+   "芒格",
+   "社会与政治"
+  ]
+ },
+ {
+  "n": 32,
+  "slug": "judging-successor-management",
+  "title_zh": "好生意里难评判继任管理层",
+  "asker_zh": "贝基·奎克代股东提问（德鲁·埃斯蒂斯）",
+  "question_zh": "提问者引用巴菲特 1969 年致合伙人信中的话：只要创始人兼企业主要驱动力仍然活跃，评价二把手就非常困难；真正能看出一个人如何经营公司的唯一办法，是让他去经营。他说这句明智的话如今适用于伯克希尔：等「二把手」们掌管公司后，巴菲特建议股东留意什么？具体哪些举动一旦出现就该让人担心？",
+  "points": [
+   "巴菲特说自己净资产的 99% 都在伯克希尔，另有 1000 亿美元以上的慈善捐赠会受公司表现影响，因此他在这件事上的利害关系可能比谁都强。",
+   "他明确表示没有第二人选——「就是那么难找」——但亲眼见过阿贝尔做事，感到 100% 放心。",
+   "假如阿贝尔出事，他会告诉董事们「你们有麻烦了」，而他提不出人名；不过即便让伯克希尔进入「自动驾驶」，也能极好地运转很长时间。",
+   "他指出好生意里最难评判继任者：继任者不来办公室，公司照样运转很久，缺乏有用输入的问题也许五年后才显现，也可能拖得更久。",
+   "他引用汤姆·墨菲多年前的话——做生意的秘诀是买一门好生意，继承一门好生意也可以——并认为阿贝尔继承的是好生意，还会把它做得更好。",
+   "他当过 20 家公司的董事，认为给管理层排序极难：有的只是生意更好，有的几乎不需要管理，有的很需要帮助却生意糟糕；董事会不该在这件事上听华尔街的。"
+  ],
+  "quotes": [
+   {
+    "en": "it's hard to judge successor management in a really good business",
+    "zh": "在一门真正的好生意里，很难评判继任的管理层。"
+   },
+   {
+    "en": "The secret of business is to buy a good business. And it's OK to inherit one, too.",
+    "zh": "做生意的秘诀是买一门好生意。继承一门好生意也可以。"
+   },
+   {
+    "en": "I've been on the board of 20 companies: It's very hard.",
+    "zh": "我当过 20 家公司的董事：这非常难。"
+   }
+  ],
+  "tags": [
+   "接班与治理"
+  ]
+ }
+]

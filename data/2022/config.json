@@ -1,0 +1,271 @@
+{
+  "year": 2022,
+  "meeting": {
+    "date": "2022-04-30",
+    "date_zh": "2022 年 4 月 30 日（周六）",
+    "location": "美国内布拉斯加州奥马哈 · CHI Health Center",
+    "note": "时隔三年重回线下：2020、2021 两年因疫情改为线上，这是芒格与巴菲特再次面对现场股东",
+    "stage": "Warren Buffett、Charlie Munger（副董事长）、Greg Abel（副董事长，非保险业务）、Ajit Jain（保险业务）",
+    "host": "Becky Quick（CNBC），与现场股东交替提问",
+    "agenda": "上午场约 3 小时，下午场约 2 小时",
+    "hub_url": "https://buffett.cnbc.com/2022-berkshire-hathaway-annual-meeting/",
+    "morning_url": "https://buffett.cnbc.com/video/2022/05/02/morning-session---2022-meeting.html",
+    "afternoon_url": "https://buffett.cnbc.com/video/2022/05/02/afternoon-session---2022-meeting.html"
+  },
+  "sessions": {
+    "morning": {
+      "label": "上午场",
+      "questions": [
+        9,
+        11,
+        12,
+        14,
+        17,
+        18,
+        19,
+        20,
+        22,
+        23,
+        24,
+        26
+      ],
+      "appendix": {
+        "5": {
+          "label": "附件 · 一季度业绩与现金立场",
+          "file": "a01-q1-earnings.md",
+          "data_key": "5",
+          "also": [
+            6,
+            7,
+            8
+          ]
+        }
+      },
+      "non_qa": {
+        "1": "—（开场致辞）",
+        "2": "—（介绍格雷格·阿贝尔与阿吉特·贾因）",
+        "3": "—（当日日程）",
+        "4": "—（See's 糖果销售）"
+      },
+      "continuations": {
+        "10": 9,
+        "13": 12,
+        "15": 14,
+        "16": 14,
+        "21": 20,
+        "25": 24
+      }
+    },
+    "afternoon": {
+      "label": "下午场",
+      "questions": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        39,
+        40,
+        42,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "appendix": {},
+      "non_qa": {
+        "27": "—（下午场开场）",
+        "50": "—（正式会议开始）",
+        "51": "—（选举董事）",
+        "52": "—（四项股东提案）"
+      },
+      "continuations": {
+        "38": 37,
+        "41": 40,
+        "43": 42
+      }
+    }
+  },
+  "letter": {
+    "source_year": 2021,
+    "pdf": "2021ltr.pdf",
+    "published": "2022-02-26",
+    "published_zh": "2022 年 2 月 26 日",
+    "url": "https://www.berkshirehathaway.com/letters/2021ltr.pdf",
+    "intro_en": "The annual letter that accompanies the April 30, 2022 meeting, covering 2021 — a short letter built around what shareholders own, the four giants, and where the cash sits.",
+    "intro_zh": "这是 2022 年 4 月 30 日股东大会所对应的那封年报信，回顾 2021 年；篇幅偏短，主干是「你拥有什么」、四大巨头，以及现金放在哪里。",
+    "sections": [
+      {
+        "id": "00",
+        "title_en": "Berkshire’s Performance vs. the S&P 500",
+        "title_zh": "伯克希尔 vs. 标普 500（57 年逐年数据）"
+      },
+      {
+        "id": "01",
+        "title_en": "BERKSHIRE HATHAWAY INC.",
+        "title_zh": "卷首：写给股东的报告"
+      },
+      {
+        "id": "02",
+        "title_en": "What You Own",
+        "title_zh": "你拥有什么"
+      },
+      {
+        "id": "03",
+        "title_en": "Surprise, Surprise",
+        "title_zh": "意外，意外"
+      },
+      {
+        "id": "04",
+        "title_en": "Our Four Giants",
+        "title_zh": "我们的四大巨头"
+      },
+      {
+        "id": "05",
+        "title_en": "Investments",
+        "title_zh": "投资组合"
+      },
+      {
+        "id": "06",
+        "title_en": "U.S. Treasury Bills",
+        "title_zh": "美国国库券"
+      },
+      {
+        "id": "07",
+        "title_en": "Share Repurchases",
+        "title_zh": "股票回购"
+      },
+      {
+        "id": "08",
+        "title_en": "A Wonderful Man and a Wonderful Business",
+        "title_zh": "一个了不起的人，一门了不起的生意"
+      },
+      {
+        "id": "09",
+        "title_en": "Thanks",
+        "title_zh": "致谢"
+      },
+      {
+        "id": "10",
+        "title_en": "The Annual Meeting",
+        "title_zh": "年度股东大会"
+      }
+    ],
+    "performance_table": {
+      "section_id": "00",
+      "years": [
+        1965,
+        2021
+      ],
+      "compounded": [
+        "20.1%",
+        "10.5%"
+      ],
+      "overall": [
+        "3,641,613%",
+        "30,209%"
+      ],
+      "note_en": "Note: Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended 12/31.",
+      "note_zh": "口径：1965、1966 为 9 月 30 日结束的财年，1967 年为 15 个月（截至 12 月 31 日）；其余为日历年。括号为负值。",
+      "title_en": "Berkshire’s Performance vs. the S&P 500",
+      "title_zh": "伯克希尔 vs. 标普 500"
+    },
+    "text_fixups": [
+      [
+        "ifwe were",
+        "if we were"
+      ],
+      [
+        "hadtotal authority",
+        "had total authority"
+      ],
+      [
+        "plansnot included",
+        "plans not included"
+      ],
+      [
+        "andnever dependent",
+        "and never dependent"
+      ],
+      [
+        "claimants andyou",
+        "claimants and you"
+      ],
+      [
+        "repurchased9%",
+        "repurchased 9%"
+      ],
+      [
+        "owning about10%",
+        "owning about 10%"
+      ],
+      [
+        "sharesmust offer",
+        "shares must offer"
+      ],
+      [
+        "would bevalue-destroying",
+        "would be value-destroying"
+      ],
+      [
+        "far from thebest selection",
+        "far from the best selection"
+      ],
+      [
+        "on the “equity” method,not market",
+        "on the “equity” method, not market"
+      ]
+    ],
+    "para_fixups": {
+      "08-005": "But... Such a purchaser would most certainly also retain its CFO, its legal counsel, its HR unit. Their TTI counterparts would therefore be sent packing. And ugh! If a new distribution center were to be needed, the acquirer’s home city would certainly be favored over Fort Worth.",
+      "09-006": "I would like, however, to emphasize a further item that turns our jobs into fun and satisfaction – working for you.",
+      "09-007": null,
+      "09-008": null
+    }
+  },
+  "readme": {
+    "key_events": [
+      "**时隔三年重回线下**：2020、2021 两届因疫情改为线上，这是芒格与巴菲特三年来第一次重新面对满场股东；开场他说「当股东们都很老了，能亲眼见到他们是件好事」（[上午场索引](morning/index.md)）。",
+      "**「一封信」换来 Alleghany**：2 月 25 日，刚接任 CEO 的 Joe Brandon 寄来他任内第一份年报，巴菲特由此约他 3 月 7 日在纽约见面，随后以每股 850 美元报价；他后来自己上台解释价格为什么写成 848.02，并讲了 1978 年那份六万美元公平意见书的往事（[上午 Q01](morning/q01-what-changed-since-the-letter.md)、[下午 Q13](afternoon/q13-fairness-opinion-at-a-discount.md)）。",
+      "**出手节奏极不均匀**：1 月 1 日至 2 月 18 日只投出 22 亿美元，随后三周投出约 400 亿美元，4 月又是一股未回购——他自嘲信里刚说「没什么让人兴奋的」，一个月后就开始连着出手（[附件 · 一季度业绩与现金立场](morning/a01-q1-earnings.md)）。",
+      "**Activision 是套利，不是看好**：他主动披露这笔持仓，说明两类买家要分清，套利仓的规模与时间都取决于并购能否完成（[下午 Q06](afternoon/q06-activision-merger-arbitrage.md)）。",
+      "**通胀成了主线**：从「发了太多钱必然推高价格」到流通中现金人均 7,000 美元、「你买不到不存在的东西」，再到「抵御通胀最好的投资是把一件事做到极好」（[下午 Q11](afternoon/q11-stimulus-and-inflation.md)、[上午 Q09](morning/q09-best-investment-develop-yourself.md)、[下午 Q04](afternoon/q04-inflation-swindles-everybody.md)）。",
+      "**比特币：25 美元也不要**：他给出「全美农田 1% / 全美公寓 1% 我当场开支票，全世界比特币 25 美元我不要」的对照；芒格更狠，说他一生避开「愚蠢的、邪恶的、以及让自己显得难看」的事，「而 bitcoin 三样都占」（[下午 Q14](afternoon/q14-productive-assets-vs-bitcoin.md)）。",
+      "**芒格谈中国**：被问到中国投资风险时，他承认监管不确定性压低了部分中国股票（尤其是互联网股）的价格，但仍认为这点风险值得冒（[下午 Q09](afternoon/q09-munger-on-china-risk.md)）。",
+      "**核风险是唯一承保不了的东西**：巴菲特说自 1945 年 8 月以来世界每天都在掷骰子，「概率极小，但只要一直掷下去，什么都会发生」（[上午 Q08](morning/q08-nuclear-risk-berkshire-cannot-cover.md)）。",
+      "**Robinhood 的崩落是「上帝在主持公道」**：芒格这句话成了全场传播最广的一句（[上午 Q12](morning/q12-robinhood-gods-justice.md)）。",
+      "**「独立董事」被他当场拆掉**：他念了一封旧信——写信人急需几百万美元，却自陈「我的收入 100% 来自董事袍金」，同时在五家声望极高的公司都被归为「独立董事」（[下午 Q19](afternoon/q19-independent-directors.md)）。"
+    ],
+    "method": [
+      "抓取两场视频页 → 解析 `chapters`（上午 26 章、下午 26 章，共 52 章）及其内嵌官方逐字稿；",
+      "修正页面把 UTF-8 当 cp1252 解码造成的弯引号乱码，按发言人标签合并连续片段；",
+      "以章节为问答边界，跨章的同一提问按「延续章节」合并，得到上午 12 问、下午 19 问；",
+      "上午开场的一季报复盘横跨第 5–8 章，用 `appendix.also` 把四章合并成一个附件；",
+      "英文原文直接照录官方逐字稿（约 5 万词），另写中文问题、要点、引述与逐轮译文；",
+      "致股东信取 2021 年报信（`2021ltr.pdf`），按分节段落拆成中英两个单语文件。"
+    ],
+    "gaps": [
+      "**附件横跨四章**：一季度业绩与现金立场这一段（含「现金已死」的插入语、See's 销量的问答）从第 5 章延续到第 8 章，成品里合为一个附件文件，页头标注跨章范围。",
+      "上午第 1–4 章（开场、介绍 Abel 与 Jain、当日日程、See's 糖果）与下午第 27、50–52 章（开场、正式会议、选举董事、四项股东提案）属非问答内容，未单独成文。",
+      "官方逐字稿为现场速记，个别专名拼写不准（`(PH)`、`(UNINTEL)`、提问者姓氏等），整理时按上下文清理并保留原拼写线索，未逐字保留口音标注。",
+      "部分提问由主持人 Becky Quick 代读股东来信，片段里标注为「Becky Quick 代股东提问」，并注明原始提问人。",
+      "中文要点与译文为整理稿，引用请以 CNBC 官方视频与逐字稿为准。"
+    ],
+    "sources": [
+      "- **主索引与时间轴**：CNBC 官方年会页与两场完整视频页。每场视频页内嵌章节数据（标题 + 起止秒数），片段切分与时间戳均与之对齐。",
+      "- **逐字稿**：**CNBC 2022 年页面保留了官方逐字稿**（`transcript` 字段带发言人与秒级时间戳）。本资料集的英文原文直接照录官方逐字稿，仅做分段、合并同一发言人的连续段落，并修正页面编码造成的弯引号乱码。",
+      "- **中文全文**：每个片段附「中文全文（逐段翻译）」，与「英文原文」逐轮对应，由整理者翻译，非官方译本；专名与关键术语首次出现时保留英文。",
+      "- **致股东信**：取自伯克希尔官网 PDF（`_source/2022/letter/2021ltr.pdf`），拆分为英文全文与完整中文译文两个文件，逐节逐段对应；仅做 PDF 断行重排。这封信的绩效表印在首页、正文没有对应标题，成品里作为开篇一节。信里没有季度利润表，因此没有对应的表格小节。",
+      "- **片段粒度**：按 CNBC 章节切分，一个章节通常对应一个提问；跨章提问用「延续章节」合并，附件用多章合并。",
+      "- 时间戳为**该场视频内的相对时间**，不是当天钟表时间。"
+    ]
+  },
+  "transcript_note": "2022 年页面含官方逐字稿，英文原文直接照录，仅做分段与发言人整理"
+}
