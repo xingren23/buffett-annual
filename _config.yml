@@ -1,6 +1,6 @@
 # GitHub Pages 站点配置：只发布 annual_meeting/ 成品与 README
 # 不带主题，kramdown 原样渲染 Markdown；jekyll-relative-links 把 .md 相对链接改写为 .html
-title: 伯克希尔股东大会档案 2018–2025
+title: 伯克希尔股东大会档案
 description: 伯克希尔·哈撒韦股东大会问答与致股东信双语档案
 exclude:
   - data
