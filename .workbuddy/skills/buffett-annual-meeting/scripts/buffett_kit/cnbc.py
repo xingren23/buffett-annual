@@ -39,12 +39,34 @@ def fetch(url: str, dest: Path, force: bool = False) -> Path:
     return dest
 
 
+NEXT_PUSH = re.compile(r'self\.__next_f\.push\(\[\s*1\s*,\s*(".*?")\s*\]\)', re.S)
+
+
+def flight_text(html: str) -> str:
+    """Concatenate the React-flight chunks CNBC streams in self.__next_f.push calls."""
+    out = []
+    for raw in NEXT_PUSH.findall(html):
+        try:
+            out.append(json.loads(raw))
+        except json.JSONDecodeError:
+            continue
+    return "".join(out)
+
+
 def cache(html: str) -> dict:
+    """Page data, in either the legacy window.__c_data shape or the Next.js shell."""
     i = html.find("window.__c_data=")
-    if i < 0:
-        raise ValueError("window.__c_data not found; CNBC page layout changed")
-    obj, _ = json.JSONDecoder().raw_decode(html[i + len("window.__c_data="):])
-    return obj
+    if i >= 0:
+        obj, _ = json.JSONDecoder().raw_decode(html[i + len("window.__c_data="):])
+        return obj
+    text = flight_text(html)
+    i = text.find('"transcript":')
+    if i >= 0:
+        obj, _ = json.JSONDecoder().raw_decode(text[i + len('"transcript":'):])
+        if isinstance(obj, dict) and obj.get("chapters"):
+            # Next.js shell inlines the chapters; present it as one page-level object.
+            return {"page.transcript": obj}
+    raise ValueError("window.__c_data not found; CNBC page layout changed")
 
 
 def repair(s: str) -> str:
@@ -85,8 +107,11 @@ def chapters(data: dict) -> list[dict]:
 
 def turns(ch: dict) -> list[dict]:
     out: list[dict] = []
-    for seg in (ch.get("transcript") or {}).get("json") or []:
-        text = clean(repair(str(seg.get("title", ""))))
+    segs = ch.get("transcript") or {}
+    if isinstance(segs, dict):
+        segs = segs.get("json") or []
+    for seg in segs:
+        text = clean(repair(str(seg.get("script") or seg.get("title") or "")))
         if not text:
             continue
         m = SPEAKER.match(text)

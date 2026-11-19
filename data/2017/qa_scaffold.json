@@ -1,0 +1,646 @@
+{
+ "questions": [
+  {
+   "n": "6",
+   "session": "morning",
+   "chapter_title": "Wells Fargo didn't act quickly enough to stop bad behavior",
+   "asker": "Carol Loomis",
+   "question_en": "Now, my first question. It's about Wells Fargo, which is Berkshire's largest equity holding — 28 billion at the end of the year. And this question comes from a shareholder who did not wish to be identified. \"In the wake of the sales practices scandal that last year engulfed Wells Fargo, the company's independent directors commissioned an investigation and hired a large law firm to assist in carrying it out. \"The findings of the investigation, which were harsh, have been released in what is called the Wells Fargo Sales Practices Reports.\" You can find it on the internet. \"It concludes that a major part of the company's problem was that, and I quote, 'Wells Fargo's decentralized corporate structure gave too much autonomy to the community banks' senior leadership,' end of quote. \"Mr. Buffett, how do you satisfy yourself that Berkshire isn't subject to the same risk, with its highly decentralized structure and the very substantial autonomy given to senior leadership of the operating companies?\"",
+   "turn_count": 8,
+   "words": 1846
+  },
+  {
+   "n": "7",
+   "session": "morning",
+   "chapter_title": "Driverless vehicles would hurt BNSF and GEICO",
+   "asker": "Warren Buffett",
+   "question_en": "We will now shift over to the analysts and Jonny Brandt.",
+   "turn_count": 5,
+   "words": 291
+  },
+  {
+   "n": "8",
+   "session": "morning",
+   "chapter_title": "Buying See's Candies from someone who preferred \"girls and grapes\"",
+   "asker": "Audience Member",
+   "question_en": "Hi, Warren and Charlie. My name is Bryan Martin and I'm from Springfield, Illinois. In the HBO documentary, \"Becoming Warren Buffett,\" you had a great analogy comparing investing to hitting a baseball and knowing your sweet spot. Ted Williams knew his sweet spot was a pitch right down the middle. When both of you look at potential investments, what attributes make a company a pitch in your sweet spot that you'll take a swing at and invest in?",
+   "turn_count": 12,
+   "words": 878
+  },
+  {
+   "n": "9",
+   "session": "morning",
+   "chapter_title": "\"There are going to be marauders\" at the moat",
+   "asker": "Becky Quick",
+   "question_en": "This question comes from a shareholder named Mark Blakley in Tulsa, Oklahoma, who says, \"There has been more news than usual in some of Berkshire's core stock holdings. \"Wells Fargo in the incentive and new account scandal, American Express losing the Costco relationship and playing catch-up in the premium card space, United Airlines and customer service issues, Coca-Cola and slowing soda consumption. \"How much time is spent reviewing Berkshire's stock holdings? And is it safe to assume, if Berkshire continues to hold these stocks, that the thesis remains intact?\"",
+   "turn_count": 5,
+   "words": 758
+  },
+  {
+   "n": "10",
+   "session": "morning",
+   "chapter_title": "\"We think we'll do well\" with AIG reinsurance deal",
+   "asker": "Warren Buffett",
+   "question_en": "OK, Jay Gelb.",
+   "turn_count": 7,
+   "words": 855
+  },
+  {
+   "n": "11",
+   "session": "morning",
+   "chapter_title": "\"A life properly lived is just learn, learn, learn\"",
+   "asker": "Audience Member",
+   "question_en": "Hello, Mr. Buffett, Mr. Munger. My name's Grant Gibson (PH). I'm from Denver, Colorado, and this is my fifth consecutive year here. So thank you for having us.",
+   "turn_count": 16,
+   "words": 536
+  },
+  {
+   "n": "12",
+   "session": "morning",
+   "chapter_title": "Making mistakes with IBM, Google, and Amazon",
+   "asker": "Warren Buffett",
+   "question_en": "Andrew Ross Sorkin.",
+   "turn_count": 11,
+   "words": 1054
+  },
+  {
+   "n": "13",
+   "session": "morning",
+   "chapter_title": "Buffett defends investing in competitive airline industry",
+   "asker": "Warren Buffett",
+   "question_en": "OK, Gregg Warren.",
+   "turn_count": 13,
+   "words": 1287
+  },
+  {
+   "n": "14",
+   "session": "morning",
+   "chapter_title": "Coca-Cola and Buffett get \"Black Planet Award\"",
+   "asker": "Audience Member",
+   "question_en": "Good morning, everybody. My name is Savilla Aliance (PH). I'm from Germany. And I'm member of board of Ethecon Foundation Ethics and Economy. I'm very happy that I can put my question here. And maybe you are not as happy as I am to listen to it.",
+   "turn_count": 25,
+   "words": 960
+  },
+  {
+   "n": "15",
+   "session": "morning",
+   "chapter_title": "Intrinsic value projections depend on interest rates",
+   "asker": "Warren Buffett",
+   "question_en": "OK, Carol?",
+   "turn_count": 8,
+   "words": 843
+  },
+  {
+   "n": "16",
+   "session": "morning",
+   "chapter_title": "Who benefits from corporate tax cut varies by industry",
+   "asker": "Warren Buffett",
+   "question_en": "OK, Jonathan?",
+   "turn_count": 7,
+   "words": 802
+  },
+  {
+   "n": "17",
+   "session": "morning",
+   "chapter_title": "Why Buffett sold his used Cadillac for a profit",
+   "asker": "Audience Member",
+   "question_en": "Yes, Dr. Bruce Hertz from Glenview, Illinois. I wanted to thank you for allowing me to attend. I feel both honored and blessed. My question for Mr. Buffett is, you've always advised us to purchase equities that appreciate in value. Yet a few years ago you sold your used Cadillac at a tremendous profit. (Laughter) How can you justify selling a depreciating asset for a significant profit? Thank you.",
+   "turn_count": 7,
+   "words": 351
+  },
+  {
+   "n": "18",
+   "session": "morning",
+   "chapter_title": "Why Buffett wants his wife to own an index fund after he dies",
+   "asker": "Becky Quick",
+   "question_en": "I'd like to ask a question that can serve as a follow-up to the question that Carol had asked. And Charlie, in that response, said that he thinks that Berkshire's businesses on the whole will do better than the S&P 500. Clark Cameron (PH) from Birmingham, Alabama, who owns 281 shares of Berkshire B, writes in and asks, \"Why have you advised your wife to invest in index funds after your death rather than Berkshire Hathaway? I believe Munger has counseled his offspring to quote, 'Not be so dumb as to sell.'\"",
+   "turn_count": 11,
+   "words": 849
+  },
+  {
+   "n": "19",
+   "session": "morning",
+   "chapter_title": "Berkshire probably would have put $15B into failed Unilever deal",
+   "asker": "Warren Buffett",
+   "question_en": "OK. Jay?",
+   "turn_count": 3,
+   "words": 264
+  },
+  {
+   "n": "20",
+   "session": "morning",
+   "chapter_title": "Speculation is inevitable in China and the U.S.",
+   "asker": "Audience Member",
+   "question_en": "Dear Honorable Mr. Buffett and Mr. Munger, I'm Tian Du Hua (PH) from China. My company (Inaudible) Holdings is spreading value investing philosophy in Asia. My business partner Ken Chi (PH), Cho Quy Ying (PH), and I are committed to awake 100 million Chinese people to return to rational way of investing. The hardest thing in this world is to change people's values or belief system. And we should like to awake investors to change from speculate in the market to investing in the market. It's not changing the speculator's values or belief system. May I ask you, Mr. Buffett, can you kindly advise us what we should do to spread your value investing philosophy? Or is there any word of encouragement? Thank you.",
+   "turn_count": 7,
+   "words": 874
+  },
+  {
+   "n": "21",
+   "session": "morning",
+   "chapter_title": "We don't do anything differently due to tax law changes",
+   "asker": "Warren Buffett",
+   "question_en": "OK. Andrew?",
+   "turn_count": 5,
+   "words": 691
+  },
+  {
+   "n": "22",
+   "session": "morning",
+   "chapter_title": "Coal shipment revenues will drop for BNSF",
+   "asker": "Warren Buffett",
+   "question_en": "Gregg?",
+   "turn_count": 5,
+   "words": 785
+  },
+  {
+   "n": "23",
+   "session": "morning",
+   "chapter_title": "Big change: You don't need money to run America's biggest companies",
+   "asker": "Audience Member",
+   "question_en": "Good morning. It's Marcus Burns from Sydney, Australia. My question, Mr. Buffett, is, you used to buy capital-light, cash-generative businesses, but now buy lower-growth, capital-consumptive businesses. I realize Berkshire generates a lot of cash flow, but would shareholders have been better off if you had continued to invest in capital-light companies?",
+   "turn_count": 8,
+   "words": 899
+  },
+  {
+   "n": "24",
+   "session": "morning",
+   "chapter_title": "Benefits of Berkshire's \"management by abdication\"",
+   "asker": "Warren Buffett",
+   "question_en": "OK. Carol?",
+   "turn_count": 5,
+   "words": 897
+  },
+  {
+   "n": "25",
+   "session": "morning",
+   "chapter_title": "Structured settlements interest rate",
+   "asker": "Warren Buffett",
+   "question_en": "Jonathan?",
+   "turn_count": 3,
+   "words": 611
+  },
+  {
+   "n": "26",
+   "session": "morning",
+   "chapter_title": "USG investment not \"great,\" but not a \"disaster\"",
+   "asker": "Audience Member",
+   "question_en": "Thank you, Mr. Buffett and Mr. Munger, for all you've done and the opportunity to learn even more from your approach to investing and life. My name's Harry Hong, and I'm a respirologist from Vancouver, British Columbia. The question involves, back in 2001, you made an initial investment in USG, shortly before the company declared bankruptcy due to the mounting asbestos liability. You held those shares through the bankruptcy process, even though standard wisdom says that the equity in Chapter 11 is usually worthless. Can you explain why USG's equity was a safe investment?",
+   "turn_count": 10,
+   "words": 399
+  },
+  {
+   "n": "27",
+   "session": "morning",
+   "chapter_title": "\"Terrific\" insurance operations are even better with Ajit Jain",
+   "asker": "Becky Quick",
+   "question_en": "Hello? Oh, there we go.",
+   "turn_count": 8,
+   "words": 787
+  },
+  {
+   "n": "29",
+   "session": "morning",
+   "chapter_title": "Subsidiary managers aren't competing for Buffett's job",
+   "asker": "Warren Buffett",
+   "question_en": "OK. Jay?",
+   "turn_count": 5,
+   "words": 321
+  },
+  {
+   "n": "30",
+   "session": "morning",
+   "chapter_title": "Berkshire's buying advantage: \"There just isn't anyone else\"",
+   "asker": "Audience Member",
+   "question_en": "Hi, Warren and Charlie. My name's Vicky Wei. I'm an M.B.A. student from the Wharton School of Business. This is my first time to be in the first — in the annual meeting. I'm really excited about it. Thanks for having us here. My —",
+   "turn_count": 11,
+   "words": 1340
+  },
+  {
+   "n": "31",
+   "session": "morning",
+   "chapter_title": "\"If the board hires a compensation consultant after I go, I will come back\"",
+   "asker": "Warren Buffett",
+   "question_en": "OK. Andrew?",
+   "turn_count": 25,
+   "words": 1604
+  },
+  {
+   "n": "32",
+   "session": "morning",
+   "chapter_title": "BNSF is a \"good\" business, but probably won't grow much",
+   "asker": "Warren Buffett",
+   "question_en": "OK. Gregg?",
+   "turn_count": 6,
+   "words": 544
+  },
+  {
+   "n": "33",
+   "session": "morning",
+   "chapter_title": "Berkshire's next CEO needs a \"money mind\"",
+   "asker": "Audience Member",
+   "question_en": "I'm from — Shankar Anant from Gurnee, Illinois. Thank you for doing everything you do for us. I have a question. The two of you have largely avoided capital allocation mistakes by bouncing ideas off of one another. Will this continue long into Berkshire's future? And I'd like to — I'm interested in both at headquarters and at subsidiaries.",
+   "turn_count": 7,
+   "words": 785
+  },
+  {
+   "n": "34",
+   "session": "morning",
+   "chapter_title": "Most financial advisors don't deserve their fees",
+   "asker": "Warren Buffett",
+   "question_en": "OK, Carol?",
+   "turn_count": 9,
+   "words": 1298
+  },
+  {
+   "n": "35",
+   "session": "morning",
+   "chapter_title": "\"I love the fact we bought Precision Castparts\"",
+   "asker": "Warren Buffett",
+   "question_en": "Jonathan.",
+   "turn_count": 16,
+   "words": 1147
+  },
+  {
+   "n": "37",
+   "session": "morning",
+   "chapter_title": "Munger: China's stock market is cheaper than U.S.",
+   "asker": "Audience Member",
+   "question_en": "Hello Warren. This is a question from China.",
+   "turn_count": 10,
+   "words": 178
+  },
+  {
+   "n": "38",
+   "session": "afternoon",
+   "chapter_title": "Berkshire and 3G's different approaches to job cuts",
+   "asker": "Becky Quick",
+   "question_en": "All right. This question comes from Anne Newman (PH). She says that she's a shareholder of the Class B stock. And her question is, \"The primary investment strategy of 3G Capital is extreme cost-cutting after the purchase of a company. This typically includes the elimination of thousands of jobs. \"With the current U.S. president focusing on retention of U.S. jobs, will Berkshire Hathaway still consider future investments with 3G Capital if those investments result in the purchase of U.S. companies and the elimination of more U.S. jobs?\"",
+   "turn_count": 5,
+   "words": 597
+  },
+  {
+   "n": "39",
+   "session": "afternoon",
+   "chapter_title": "Pressure to deploy Berkshire's cash grows as it nears $100B",
+   "asker": "Warren Buffett",
+   "question_en": "Jay?",
+   "turn_count": 7,
+   "words": 564
+  },
+  {
+   "n": "40",
+   "session": "afternoon",
+   "chapter_title": "CTB and animal rights",
+   "asker": "Audience Member",
+   "question_en": "Thank you, Mr. Buffett and Mr. Munger. I am Anil Daron (PH) from Short Hills, New Jersey and New Delhi, India. This is my 18th time to this wonderful event, and profoundly thank you for your extraordinary wisdom, generosity, and time. As I'm involved with sustainable investments that also do not directly harm animals, I would appreciate your perspective, if any, on the practices of your CTB subsidiary, which is somewhat involved in pig, poultry, and egg production. Somewhat indirectly related, as you share your concern on nuclear war extensively at the last annual meeting, I would love to pick your brain on Albert Schweitzer's Nobel Peace Prize acceptance speech, shortly after the first nuclear bombs were detonated, that compassion can attain its full breadth and depth if it is not limited to humans only. Thank you.",
+   "turn_count": 5,
+   "words": 474
+  },
+  {
+   "n": "41",
+   "session": "afternoon",
+   "chapter_title": "Giving Weschler and Combs more to manage wouldn't help them",
+   "asker": "Warren Buffett",
+   "question_en": "Andrew ?",
+   "turn_count": 8,
+   "words": 628
+  },
+  {
+   "n": "42",
+   "session": "afternoon",
+   "chapter_title": "Private transactions not needed now for Class A shares",
+   "asker": "Warren Buffett",
+   "question_en": "Gregg?",
+   "turn_count": 4,
+   "words": 759
+  },
+  {
+   "n": "43",
+   "session": "afternoon",
+   "chapter_title": "Deciding whether to exercise Bank of America warrant",
+   "asker": "Audience Member",
+   "question_en": "Hello. My name is Erin Byer. And I was born and raised in Pasadena, California, and I currently live in New York City. It's been a dream of mine to come here today. I've been a proud BH shareholder for almost 20 years. I asked my dad for stock for Christmas when I was 15. And I kept thinking at the opportunity to ask you a question today that I should make it one that would change my life. Well, that question is, do you know any eligible bachelors living in the New York City area? (Laughter and applause)",
+   "turn_count": 7,
+   "words": 681
+  },
+  {
+   "n": "44",
+   "session": "afternoon",
+   "chapter_title": "Defending 3G's job cuts",
+   "asker": "Warren Buffett",
+   "question_en": "Carol?",
+   "turn_count": 5,
+   "words": 942
+  },
+  {
+   "n": "45",
+   "session": "afternoon",
+   "chapter_title": "Berkshire's $20B cash cushion is an \"absolute minimum\"",
+   "asker": "Warren Buffett",
+   "question_en": "Jonathan?",
+   "turn_count": 11,
+   "words": 505
+  },
+  {
+   "n": "46",
+   "session": "afternoon",
+   "chapter_title": "Very unlikely Jorge Paulo Lemann would succeed Buffett as CEO",
+   "asker": "Audience Member",
+   "question_en": "Hello, Mr. Buffett, Mr. Munger. My name is Felipe Kioni (PH). I'm 19 years old from Brazil. And your partnership with Jorge Paulo Lemann and his associates at 3G has been very successful, taking into account great outcome of transactions such as the Kraft Heinz merger. Even though you and Jorge Paulo have different investment methods, would you and Charlie consider him to be your — a member of your board, or even your successor?",
+   "turn_count": 5,
+   "words": 280
+  },
+  {
+   "n": "47",
+   "session": "afternoon",
+   "chapter_title": "Online competition hasn't yet affected Berkshire retailers",
+   "asker": "Becky Quick",
+   "question_en": "This question comes from Drew Estes in Atlanta, Georgia. And he asks, \"Is Fruit of the Loom experiencing difficulties related to the distribution channel shift towards online and the troubles in the brick and mortar retail world? If so, do you believe the difficulties are short term in nature?\" And, then, Drew goes on to add, \"I'm hoping millennials haven't bucked the underwear trend, too.\" (Laughter)",
+   "turn_count": 6,
+   "words": 940
+  },
+  {
+   "n": "48",
+   "session": "afternoon",
+   "chapter_title": "Book value a \"whole lot less\" relevant to Berkshire",
+   "asker": "Warren Buffett",
+   "question_en": "Jay.",
+   "turn_count": 12,
+   "words": 459
+  },
+  {
+   "n": "49",
+   "session": "afternoon",
+   "chapter_title": "I don't know tech, but I know consumer behavior",
+   "asker": "Audience Member",
+   "question_en": "Hello.",
+   "turn_count": 9,
+   "words": 560
+  },
+  {
+   "n": "50",
+   "session": "afternoon",
+   "chapter_title": "Artificial intelligence impact is hard to predict",
+   "asker": "Warren Buffett",
+   "question_en": "Andrew?",
+   "turn_count": 22,
+   "words": 1029
+  },
+  {
+   "n": "51",
+   "session": "afternoon",
+   "chapter_title": "We have a \"huge appetite\" for both wind and solar projects",
+   "asker": "Warren Buffett",
+   "question_en": "OK. Gregg.",
+   "turn_count": 3,
+   "words": 556
+  },
+  {
+   "n": "52",
+   "session": "afternoon",
+   "chapter_title": "I \"underestimated the brilliance\" of Jeff Bezos at Amazon",
+   "asker": "Audience Member",
+   "question_en": "Hi. My name is Joey (PH). And I'm an MBA candidate at Wharton. Thank you for having us. Amazon has been hugely disruptive, due to the brilliance of Jeff Bezos, whom Charlie earlier called the business mind of our generation. What is your current outlook and — on Amazon? And why hasn't Berkshire bought in?",
+   "turn_count": 13,
+   "words": 453
+  },
+  {
+   "n": "53",
+   "session": "afternoon",
+   "chapter_title": "\"If I died tonight, I think the stock would go up tomorrow.\"",
+   "asker": "Warren Buffett",
+   "question_en": "Carol?",
+   "turn_count": 5,
+   "words": 568
+  },
+  {
+   "n": "54",
+   "session": "afternoon",
+   "chapter_title": "We try to explain material accounting issues to shareholders",
+   "asker": "Warren Buffett",
+   "question_en": "OK. Jonathan.",
+   "turn_count": 12,
+   "words": 509
+  },
+  {
+   "n": "55",
+   "session": "afternoon",
+   "chapter_title": "\"Valuation … is not reducible to any formula\"",
+   "asker": "Audience Member",
+   "question_en": "Thank you, and good afternoon. I'm Adam Bergman with Sterling Capital in Virginia Beach, Virginia. Earlier today, Mr. Munger commented on the valuation of China versus the U.S. market. My question for you is, are market cap to GDP and cyclically adjusted P/E still valid ways to consider market valuation? And how do those influence Berkshire's investment decisions? Thank you.",
+   "turn_count": 6,
+   "words": 461
+  },
+  {
+   "n": "57",
+   "session": "afternoon",
+   "chapter_title": "Weapons of mass destruction pose biggest risk to Berkshire",
+   "asker": "Becky Quick",
+   "question_en": "This question comes from Tom Spanfelner (PH). And he'd like to be called Tom Span from Pennsylvania. He says, \"In life, business, and investing, strategies often work until they don't work. Other than a massive insurance loss, any thoughts on what could cause the Berkshire enterprise to not work?\"",
+   "turn_count": 11,
+   "words": 465
+  },
+  {
+   "n": "58",
+   "session": "afternoon",
+   "chapter_title": "Buffett confident about growth for property-casualty business",
+   "asker": "Warren Buffett",
+   "question_en": "Jay?",
+   "turn_count": 3,
+   "words": 372
+  },
+  {
+   "n": "59",
+   "session": "afternoon",
+   "chapter_title": "\"My God, we're still learning\"",
+   "asker": "Audience Member",
+   "question_en": "Good afternoon. My name Sally Burns. I'm from Australia. But I currently reside in Austin, Texas. My question, Mr. Buffett, I have heard that Mr. Munger says your greatest talent is that you're a learning machine, that you never stop updating your views. What are the most interesting things you've learned over the last few years?",
+   "turn_count": 14,
+   "words": 1059
+  },
+  {
+   "n": "60",
+   "session": "afternoon",
+   "chapter_title": "\"We're getting too much medicine\"",
+   "asker": "Warren Buffett",
+   "question_en": "OK. Andrew?",
+   "turn_count": 17,
+   "words": 1422
+  },
+  {
+   "n": "61",
+   "session": "afternoon",
+   "chapter_title": "Buffett expects Berkshire will own more utilities",
+   "asker": "Warren Buffett",
+   "question_en": "OK. Gregg? (Laughs)",
+   "turn_count": 15,
+   "words": 782
+  },
+  {
+   "n": "62",
+   "session": "afternoon",
+   "chapter_title": "McLane: lots of revenue, but very thin profit margin",
+   "asker": "Audience Member",
+   "question_en": "Hi.",
+   "turn_count": 15,
+   "words": 988
+  },
+  {
+   "n": "63",
+   "session": "afternoon",
+   "chapter_title": "Buffett wants to be remembered as a (very old) teacher",
+   "asker": "Audience Member",
+   "question_en": "Good morning or good afternoon, Warren and Charlie, John —",
+   "turn_count": 14,
+   "words": 326
+  },
+  {
+   "n": "64",
+   "session": "afternoon",
+   "chapter_title": "\"Don't wait till you're 93\"",
+   "asker": "Audience Member",
+   "question_en": "Good afternoon, Mr. Munger and Mr. Buffett. My name is Ji Wen Yue (PH). I come from China. It's my first time to come to this meeting. And I think I'm very lucky to have a chance to ask question.",
+   "turn_count": 13,
+   "words": 422
+  },
+  {
+   "n": "65",
+   "session": "afternoon",
+   "chapter_title": "Buffett's regret: \"I wish I'd met Charlie earlier\"",
+   "asker": "Audience Member",
+   "question_en": "Hi. My name is Andy Lijun Lin from Loyal Valley Innovation Capital from Shanghai. This is my sixth year from Shanghai to here. I have say — I have to say to you two, Warren and Charlie, you are highly respected and deeply loved by millions and millions, or even billions, globally. I have two questions today. First question, in your letters to shareholders you said you believe EBITDA is not a good parameter to value a business. Why it's not? Can you elaborate on that? Second question, you both have very successful and happy lives with great respect. My question is to each of you. In retrospect, from a personal standpoint, do you have regrets in life? If there is one thing you could have done differently in your life, family, personal, or business, what is it? Thank you very much.",
+   "turn_count": 3,
+   "words": 230
+  },
+  {
+   "n": "66",
+   "session": "afternoon",
+   "chapter_title": "Teaching the \"delusion\" of EBITDA is \"horror squared\"",
+   "asker": "Warren Buffett",
+   "question_en": "In respect to EBITDA, depreciation is an expense. And it's the worst kind of an expense. You know, we love to talk about float. And float is where we get the money first and we have the expense later. Depreciation is where you spend the money first, you know, and, then, record the expense later. And it's reverse float. And it's not a good thing. And to have that enter into a multiple — it's much better to buy a business that has, everything else being equal — has no depreciation because it has, essentially, no investment and fixed assets that makes X, than it is to buy a company where there's a lot of depreciation in getting to X. And I — actually, I may write a little bit more on that next year, just because it's such a mass delusion. And, of course, it's in the interests of Wall Street, enormously, to focus on something called EBITDA because it results in higher borrowing power, higher valuations, and all of that sort of thing. So it's become very popular in the last 20 years, but I — it's a very misleading statistic that can be used in very pernicious ways. Charlie, on either one of those subjects?",
+   "turn_count": 11,
+   "words": 470
+  },
+  {
+   "n": "67",
+   "session": "afternoon",
+   "chapter_title": "\"Nobody should be roadkill in this sort of society\"",
+   "asker": "Audience Member",
+   "question_en": "Good afternoon. I'm Whitney Tilson, a shareholder from New York. My question is related to the ones asked earlier about job cuts. Perhaps, the only thing that makes American workers angrier than layoffs is to shut down an operation entirely and move the jobs overseas. Ask anyone in Ohio or Michigan, and they'll tell you stories about companies that have been operating in those states for decades, benefitting from the educational system, infrastructure and so forth, things that were paid for by local taxpayers. But, then, some high-paid consultants came along and showed the company how it could reduce its costs by relocating production to Mexico or China. And poof, the good U.S. jobs disappeared. My observation is that most investors and those in corporate America today worship at the altar of maximizing shareholder value, which is code for doing whatever is necessary to boost the share price as high as possible. But in doing so, companies are taking actions that make millions of workers feel, at best, fearful and left behind and, at worst, deeply harmed by corporate America. It makes so many people so angry that I think it's testing the post-World War II economic order, which is rooted in free trade, and even the strength of our democracy. I'd argue that it was decisive in our last election. So my question to you is, do you think that businesses should consider factors outside of pure economics when making these types of decisions? What obligations, if any, do they have to their employees and communities in which they operate? And lastly, if a Berkshire CEO came to you and asked for your approval to close a U.S. operation and relocate it overseas to save money, what questions would you ask beyond the economics of this decision? Thank you.",
+   "turn_count": 9,
+   "words": 1330
+  }
+ ],
+ "batches": [
+  {
+   "file": "m01.json",
+   "n": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ]
+  },
+  {
+   "file": "m02.json",
+   "n": [
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19"
+   ]
+  },
+  {
+   "file": "m03.json",
+   "n": [
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26"
+   ]
+  },
+  {
+   "file": "m04.json",
+   "n": [
+    "27",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34"
+   ]
+  },
+  {
+   "file": "m05.json",
+   "n": [
+    "35",
+    "37"
+   ]
+  },
+  {
+   "file": "a01.json",
+   "n": [
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "file": "a02.json",
+   "n": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51"
+   ]
+  },
+  {
+   "file": "a03.json",
+   "n": [
+    "52",
+    "53",
+    "54",
+    "55",
+    "57",
+    "58",
+    "59"
+   ]
+  },
+  {
+   "file": "a04.json",
+   "n": [
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66"
+   ]
+  },
+  {
+   "file": "a05.json",
+   "n": [
+    "67"
+   ]
+  }
+ ]
+}
